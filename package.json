@@ -1,0 +1,29 @@
+{
+  "name": "chatgpt-playwright-dataset-builder",
+  "version": "1.0.0",
+  "description": "Playwright automation: sends prompts to ChatGPT, intercepts network responses, extracts result_source + citations → CSV dataset",
+  "main": "scraper.js",
+  "scripts": {
+    "login": "node login.js",
+    "manual-auth": "node manual_auth.js",
+    "extract-cookies": "node extract_cookies.js",
+    "start": "node scraper.js",
+    "test": "node scraper.js --dry-run"
+  },
+  "keywords": [
+    "playwright",
+    "chatgpt",
+    "automation",
+    "dataset"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "better-sqlite3": "^12.11.1",
+    "csv-parse": "^5.5.3",
+    "csv-stringify": "^6.4.5",
+    "fs-extra": "^11.2.0",
+    "playwright": "^1.40.0"
+  }
+}

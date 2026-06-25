@@ -1,0 +1,943 @@
+[
+  "v1",
+  {
+    "type": "resume_conversation_token",
+    "kind": "topic",
+    "token": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb25kdWl0X3V1aWQiOiI2ZWFiNmQzMDFmODQ0NzI2OTg3ZWQxZmIwZTZlZjU3NCIsImNvbmR1aXRfbG9jYXRpb24iOiIxMC4xMjkuMjA1LjI1NDo4MzA4IiwiY2x1c3RlciI6InVuaWZpZWQtNzEiLCJpYXQiOjE3ODIzODc0OTIsImV4cCI6MTc4MjM5NDY5MiwidHVybl90b3BpY19pZCI6ImNvbnZlcnNhdGlvbi10dXJuLWRmZmVlMzYwLTU3ZDgtNDA2ZS1iNWU4LTBkZTdkNTdjMzBmOSJ9.py3gEpoQDnSADYLQqm4uvbxMFkh9Oqlp12WKqfyyrljKZUovF5nui5qK1rC-L7Q5VRIlZBtMjnZOxmFo2axVmg",
+    "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43"
+  },
+  {
+    "p": "",
+    "o": "add",
+    "v": {
+      "message": {
+        "id": "9992c63b-573f-4b89-ac1f-d905ac92c1bb",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0,
+        "metadata": {
+          "model_switcher_deny": [],
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43",
+      "error": null,
+      "error_code": null
+    },
+    "c": 0
+  },
+  {
+    "v": {
+      "message": {
+        "id": "ea7e79b7-5386-4fcd-94b4-0638f1cafc1a",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0,
+        "metadata": {
+          "rebase_developer_message": true,
+          "model_switcher_deny": [],
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43",
+      "error": null,
+      "error_code": null
+    },
+    "c": 1
+  },
+  {
+    "v": {
+      "message": {
+        "id": "14f1c7f8-520c-422d-b0f9-630d53eabb0d",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1782387491.092,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "What does peer-reviewed evidence say about screen time and kids?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1,
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "07432423-e1e2-48c4-8225-0000caf431a8",
+          "message_source": null,
+          "turn_exchange_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
+          "working_turn_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
+          "resolved_model_slug": "gpt-5-5",
+          "model_switcher_deny": []
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43",
+      "error": null,
+      "error_code": null
+    },
+    "c": 2
+  },
+  {
+    "type": "input_message",
+    "input_message": {
+      "id": "14f1c7f8-520c-422d-b0f9-630d53eabb0d",
+      "author": {
+        "role": "user",
+        "name": null,
+        "metadata": {}
+      },
+      "create_time": 1782387491.092,
+      "update_time": null,
+      "content": {
+        "content_type": "text",
+        "parts": [
+          "What does peer-reviewed evidence say about screen time and kids?"
+        ]
+      },
+      "status": "finished_successfully",
+      "end_turn": null,
+      "weight": 1,
+      "metadata": {
+        "serialization_metadata": {
+          "custom_symbol_offsets": []
+        },
+        "request_id": "07432423-e1e2-48c4-8225-0000caf431a8",
+        "otrace_id": "6a3d132300000000e06f50c2e4518894",
+        "message_source": null,
+        "turn_exchange_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
+        "working_turn_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
+        "turn_trace_id": "4424beb5-c9ae-4100-8b7e-6dd04583c843",
+        "useragent": {
+          "client_type": "web",
+          "is_mobile": false,
+          "is_mobile_app": false,
+          "is_desktop_app": false,
+          "is_native_app": false,
+          "is_native_app_apple": false,
+          "is_mobile_app_ios": false,
+          "is_desktop_app_macos": false,
+          "is_aura_app_macos": false,
+          "is_aura_web": false,
+          "is_sora_ios": false,
+          "is_agora_ios": false,
+          "is_agora_android": false,
+          "is_desktop_app_windows": false,
+          "is_electron_app": false,
+          "is_mobile_app_android": false,
+          "is_mobile_web": false,
+          "is_mobile_web_ios": false,
+          "is_mobile_web_android": false,
+          "is_ios": false,
+          "is_android": false,
+          "is_macos": false,
+          "is_windows": true,
+          "is_linux": false,
+          "is_chatgpt_client": false,
+          "is_moshi_client": false,
+          "is_sora_client": false,
+          "is_agora_client": false,
+          "is_browserbased_app": true,
+          "is_chatgpt_api": false,
+          "is_slack": false,
+          "is_chatkit_web": false,
+          "is_chatkit_synthetic": false,
+          "is_kakao_talk": false,
+          "is_codex_desktop": false,
+          "is_offline_caching": false,
+          "app_version": null,
+          "build_number": null,
+          "user_agent": "mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/149.0.0.0 safari/537.36",
+          "app_environment": null,
+          "os_version": null,
+          "device_model": null,
+          "user_client_type": "desktop_web"
+        },
+        "paragen_stream_type": "default",
+        "resolved_model_slug": "gpt-5-5",
+        "parent_id": "ea7e79b7-5386-4fcd-94b4-0638f1cafc1a"
+      },
+      "recipient": "all",
+      "channel": null
+    },
+    "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43"
+  },
+  {
+    "v": {
+      "message": {
+        "id": "8beba06f-11d2-4b0f-b9c8-18753dc4b4b4",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1782387492.119875,
+        "update_time": null,
+        "content": {
+          "content_type": "model_editable_context",
+          "model_set_context": "",
+          "repository": null,
+          "repo_summary": null,
+          "structured_context": null
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1,
+        "metadata": {
+          "search_result_groups": [],
+          "request_id": "07432423-e1e2-48c4-8225-0000caf431a8",
+          "message_type": "next",
+          "turn_exchange_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
+          "working_turn_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
+          "model_slug": "gpt-5-5",
+          "default_model_slug": "gpt-5-5",
+          "can_save": false,
+          "parent_id": "14f1c7f8-520c-422d-b0f9-630d53eabb0d",
+          "model_switcher_deny": []
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43",
+      "error": null,
+      "error_code": null
+    },
+    "c": 3
+  },
+  {
+    "v": {
+      "message": {
+        "id": "b1391c1f-b983-452c-83cf-a4e94f36cafe",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1782387492.1537178,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1,
+        "metadata": {
+          "is_contextual_answers_system_message": true,
+          "is_visually_hidden_from_conversation": true,
+          "command": "prompt",
+          "contextual_answers_message_type": "api_tool_v2_files_developer_prompt",
+          "exclusive_key": "api_tool_v2_files_developer_prompt",
+          "request_id": "07432423-e1e2-48c4-8225-0000caf431a8",
+          "message_type": "next",
+          "turn_exchange_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
+          "working_turn_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
+          "model_slug": "gpt-5-5",
+          "default_model_slug": "gpt-5-5",
+          "parent_id": "8beba06f-11d2-4b0f-b9c8-18753dc4b4b4",
+          "model_switcher_deny": []
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43",
+      "error": null,
+      "error_code": null
+    },
+    "c": 4
+  },
+  {
+    "v": {
+      "message": {
+        "id": "a8f9375c-58a0-41e2-9d87-ac3f39dea4d9",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1782387492.1543157,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 0,
+        "metadata": {
+          "request_id": "07432423-e1e2-48c4-8225-0000caf431a8",
+          "message_type": "next",
+          "turn_exchange_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
+          "working_turn_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
+          "model_slug": "gpt-5-5",
+          "default_model_slug": "gpt-5-5",
+          "parent_id": "b1391c1f-b983-452c-83cf-a4e94f36cafe",
+          "model_switcher_deny": [],
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43",
+      "error": null,
+      "error_code": null
+    },
+    "c": 5
+  },
+  {
+    "v": {
+      "message": {
+        "id": "ffe79a28-2725-464b-9a18-03b6c29495c5",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1782387492.1546676,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 0,
+        "metadata": {
+          "request_id": "07432423-e1e2-48c4-8225-0000caf431a8",
+          "message_type": "next",
+          "turn_exchange_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
+          "working_turn_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
+          "model_slug": "gpt-5-5",
+          "default_model_slug": "gpt-5-5",
+          "parent_id": "a8f9375c-58a0-41e2-9d87-ac3f39dea4d9",
+          "model_switcher_deny": [],
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43",
+      "error": null,
+      "error_code": null
+    },
+    "c": 6
+  },
+  {
+    "v": {
+      "message": {
+        "id": "66d51538-84c8-43d0-be16-e9607fd11cca",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1782387492.110332,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "in_progress",
+        "end_turn": null,
+        "weight": 1,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "story_events": [],
+          "resolved_model_slug": "gpt-5-5",
+          "request_id": "07432423-e1e2-48c4-8225-0000caf431a8",
+          "message_type": "next",
+          "turn_exchange_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
+          "working_turn_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
+          "model_slug": "gpt-5-5",
+          "default_model_slug": "gpt-5-5",
+          "parent_id": "ffe79a28-2725-464b-9a18-03b6c29495c5",
+          "model_switcher_deny": []
+        },
+        "recipient": "all",
+        "channel": "final"
+      },
+      "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43",
+      "error": null,
+      "error_code": null
+    },
+    "c": 7
+  },
+  {
+    "type": "message_marker",
+    "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43",
+    "message_id": "66d51538-84c8-43d0-be16-e9607fd11cca",
+    "marker": "user_visible_token",
+    "event": "first"
+  },
+  {
+    "type": "message_marker",
+    "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43",
+    "message_id": "66d51538-84c8-43d0-be16-e9607fd11cca",
+    "marker": "final_channel_token",
+    "event": "first"
+  },
+  {
+    "p": "/message/content/parts/0",
+    "o": "append",
+    "v": "The peer"
+  },
+  {
+    "v": "-reviewed evidence suggests that **screen time itself"
+  },
+  {
+    "v": " is not uniformly harmful**."
+  },
+  {
+    "type": "title_generation",
+    "title": "Screen Time and Kids",
+    "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43"
+  },
+  {
+    "v": " The effects depend on factors such as **what children are doing on screens, how much time they spend, their age,"
+  },
+  {
+    "v": " whether screens replace sleep or physical activity, and the quality of parental involvement**.\n\n## What the"
+  },
+  {
+    "v": " evidence consistently shows\n\n### 1. Sleep is one of the clearest concerns\nMany"
+  },
+  {
+    "v": " studies have found that higher screen use—especially before bedtime—is associated with:\n- Short"
+  },
+  {
+    "v": "er sleep duration\n- Delayed bedtimes\n- Poorer sleep quality\n\nThe relationship"
+  },
+  {
+    "v": " is strongest for devices used in the bedroom and for nighttime media"
+  },
+  {
+    "v": " use.\n\n### 2. Excessive recreational screen time is linked to some mental health risks\nLarge"
+  },
+  {
+    "v": " observational studies have reported associations between heavy recreational screen use and:\n- Increased symptoms of anxiety and depression\n- Lower life"
+  },
+  {
+    "v": " satisfaction\n- More behavioral problems in some children and adolescents\n\nHowever, these associations are generally **"
+  },
+  {
+    "v": "small to moderate**, and researchers caution that causation is difficult to establish. Children"
+  },
+  {
+    "v": " experiencing emotional difficulties may also turn to screens more often.\n\n### 3. Physical health can be affected when"
+  },
+  {
+    "v": " screens displace other activities\nHigher sedentary screen time is associated with:\n- Lower physical activity levels\n- Increased"
+  },
+  {
+    "v": " risk of overweight and obesity\n- More musculoskeletal complaints (such as neck pain"
+  },
+  {
+    "v": ")\n\nThese effects appear largely because screen time can replace exercise,"
+  },
+  {
+    "v": " outdoor play, and sleep.\n\n### 4. Educational and interactive"
+  },
+  {
+    "type": "title_generation",
+    "title": "Screen Time and Kids",
+    "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43"
+  },
+  {
+    "v": " content can be beneficial\nResearch indicates that:\n- High-quality educational programming can support language and literacy development in young children.\n-"
+  },
+  {
+    "v": " Interactive educational apps can aid learning when they are age-appropriate and used with adult"
+  },
+  {
+    "v": " guidance.\n- Co-viewing and discussing content with children generally improves learning outcomes.\n\n"
+  },
+  {
+    "v": "## What the evidence does *not* support\nRecent reviews have challenged"
+  },
+  {
+    "v": " the idea that any specific number of daily screen hours automatically causes major harm.\n\nResearchers"
+  },
+  {
+    "v": " increasingly emphasize:\n- **Content** (educational vs. passive consumption)\n- **Context** (alone"
+  },
+  {
+    "v": " or with family)\n- **Timing** (especially before bed"
+  },
+  {
+    "v": ")\n- **Balance** with sleep, exercise, schoolwork, and face-to-face"
+  },
+  {
+    "p": "",
+    "o": "patch",
+    "v": [
+      {
+        "p": "/message/content/parts/0",
+        "o": "append",
+        "v": " interactions\n\n## Age considerations\n\nimage_group{\"layout"
+      },
+      {
+        "p": "/message/metadata/content_references",
+        "o": "append",
+        "v": [
+          {
+            "matched_text": "image_group{\"layout",
+            "prefix": null,
+            "start_idx": 2331,
+            "end_idx": 2352,
+            "safe_urls": [],
+            "refs": [],
+            "alt": null,
+            "prompt_text": null,
+            "type": "hidden",
+            "invalid": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "v": [
+      {
+        "p": "/message/content/parts/0",
+        "o": "append",
+        "v": "\":\"carousel\",\"query\":[\"parent reading with infant instead of screen time\",\"preschool child using educational tablet"
+      },
+      {
+        "p": "/message/metadata/content_references/0/matched_text",
+        "o": "append",
+        "v": "\":\"carousel\",\"query\":[\"parent reading with infant instead of screen time\",\"preschool child using educational tablet"
+      },
+      {
+        "p": "/message/metadata/content_references/0/end_idx",
+        "o": "replace",
+        "v": 2467
+      }
+    ]
+  },
+  {
+    "v": [
+      {
+        "p": "/message/content/parts/0",
+        "o": "append",
+        "v": " with parent\",\"school-age children balancing homework outdoor play and screen use\",\""
+      },
+      {
+        "p": "/message/metadata/content_references/0/matched_text",
+        "o": "append",
+        "v": " with parent\",\"school-age children balancing homework outdoor play and screen use\",\""
+      },
+      {
+        "p": "/message/metadata/content_references/0/end_idx",
+        "o": "replace",
+        "v": 2551
+      }
+    ]
+  },
+  {
+    "v": [
+      {
+        "p": "/message/content/parts/0",
+        "o": "append",
+        "v": "teenager using smartphone with healthy routines illustration\"]}\n\n- **Under 18 months:** Very"
+      },
+      {
+        "p": "/message/metadata/content_references/0/matched_text",
+        "o": "append",
+        "v": "teenager using smartphone with healthy routines illustration\"]}"
+      },
+      {
+        "p": "/message/metadata/content_references/0/end_idx",
+        "o": "replace",
+        "v": 2615
+      }
+    ]
+  },
+  {
+    "v": [
+      {
+        "p": "/message/content/parts/0",
+        "o": "append",
+        "v": " limited screen exposure, except video chatting.\n- **18–24 months:** If screens are"
+      },
+      {
+        "p": "/message/metadata/content_references/0/alt",
+        "o": "replace",
+        "v": "\n\n\n\n\n\n"
+      },
+      {
+        "p": "/message/metadata/content_references/0/type",
+        "o": "replace",
+        "v": "image_group"
+      },
+      {
+        "p": "/message/metadata/content_references/0/invalid",
+        "o": "replace",
+        "v": false
+      },
+      {
+        "p": "/message/metadata/content_references/0",
+        "o": "append",
+        "v": {
+          "aspect_ratio": "1:1",
+          "images": [
+            {
+              "image_result": null,
+              "image_ref_id": null,
+              "image_search_query": "parent reading with infant instead of screen time",
+              "image_search_system": null
+            },
+            {
+              "image_result": null,
+              "image_ref_id": null,
+              "image_search_query": "preschool child using educational tablet with parent",
+              "image_search_system": null
+            },
+            {
+              "image_result": null,
+              "image_ref_id": null,
+              "image_search_query": "school-age children balancing homework outdoor play and screen use",
+              "image_search_system": null
+            },
+            {
+              "image_result": null,
+              "image_ref_id": null,
+              "image_search_query": "teenager using smartphone with healthy routines illustration",
+              "image_search_system": null
+            }
+          ],
+          "layout": "carousel"
+        }
+      }
+    ]
+  },
+  {
+    "p": "/message/content/parts/0",
+    "o": "append",
+    "v": " introduced, choose high-quality programming and use it together with an adult.\n- **2–5 years:**"
+  },
+  {
+    "v": " Prioritize educational content and maintain reasonable limits.\n- **School-age children and teens"
+  },
+  {
+    "v": ":** Focus on healthy routines rather than strict hourly caps, ensuring screens do not interfere with sleep, exercise,"
+  },
+  {
+    "v": " learning, and social relationships.\n\n## Current scientific consensus\nThe peer-reviewed literature increasingly supports a nuanced"
+  },
+  {
+    "v": " view:\n\n> Screens are tools, not inherently harmful or beneficial.\n\nThe strongest evidence of"
+  },
+  {
+    "v": " harm arises when heavy recreational screen use consistently displaces:\n"
+  },
+  {
+    "v": "1. Sleep\n2. Physical activity\n3. In-person social interaction\n4. Development"
+  },
+  {
+    "p": "",
+    "o": "patch",
+    "v": [
+      {
+        "p": "/message/content/parts/0",
+        "o": "append",
+        "v": "ally appropriate activities\n\nModerate, purposeful, and supervised use—particularly"
+      },
+      {
+        "p": "/message/metadata/content_references/0/safe_urls",
+        "o": "append",
+        "v": [
+          "https://images.openai.com/static-rsc-4/3CmlNbiyDlUxIDK9rJeVo8Ia6ZDNZaVYzLuPDeIHBq4fz1ZhhlWO5DNBCWAZhsgmxu0_L6jnGLBrjHWvGUdL_YgPjdrcH22lyBYnFAjKdspCFaZd2YRdkiaq8MuA_w_vSollQWvyoDsBOs-KTwG1GDC8WsYB8LSxpBQDlfaKKJKcZylBTgyzDgJ_zIuo2kOB?purpose=fullsize",
+          "https://images.openai.com/static-rsc-4/BZmOtXPumOc509jOs-1_gCg74-U1rsJ6jgILEqI7fKnGLnntDsUEah-AMnQdX1Q4AOaZBV5nGbu2P9SU8rB8JkNQaeskJD2zCvNw86Lx2wNwN-3AvARFs000WdOcN54XffXPznmfu__43YNd2QsjcmH9k8dzimh3zJjNTbMtHkVTGNP5qjaV03tGOSUYZpRU?purpose=fullsize",
+          "https://images.openai.com/static-rsc-4/Nd2kDTeAYlbIKpjHWaSGvlmlao81fan1svoSZhoCs783Epl94rZRmdXIzp9XZXHsdOgwIOCPZLYOxjXpQtpkjooBG33eWUdUiPbVOH3d1EqUrKu5Rp4Pz9mKRkzs3qBgLE6JO_nsllOzHIaLW8ss5tlzXpxF9HRRnGqp5wQX6VpzA6it-glaKxeGZqwRdZO9?purpose=fullsize",
+          "https://images.openai.com/static-rsc-4/nY53OJHxK_lOaiAMYwO4AZ_tpp8OlcZMyHYjb1Xfaq-ewgg6dH1LN3ps9ulsKPCTmeIHKqchK3EroduPM35CWRtknY1fb1QX5kSWksCHm8G7me2GjplBIE8sBJ3Xl39eS6M_wS4nShJ3wP0GN-MgukvSs4LNCr8DJ3idLkgPcEuuzH_uH7yj_wXdzCRQWqux?purpose=fullsize"
+        ]
+      },
+      {
+        "p": "/message/metadata/content_references/0/alt",
+        "o": "replace",
+        "v": "![Image](https://images.openai.com/static-rsc-4/BZmOtXPumOc509jOs-1_gCg74-U1rsJ6jgILEqI7fKnGLnntDsUEah-AMnQdX1Q4AOaZBV5nGbu2P9SU8rB8JkNQaeskJD2zCvNw86Lx2wNwN-3AvARFs000WdOcN54XffXPznmfu__43YNd2QsjcmH9k8dzimh3zJjNTbMtHkVTGNP5qjaV03tGOSUYZpRU?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/nY53OJHxK_lOaiAMYwO4AZ_tpp8OlcZMyHYjb1Xfaq-ewgg6dH1LN3ps9ulsKPCTmeIHKqchK3EroduPM35CWRtknY1fb1QX5kSWksCHm8G7me2GjplBIE8sBJ3Xl39eS6M_wS4nShJ3wP0GN-MgukvSs4LNCr8DJ3idLkgPcEuuzH_uH7yj_wXdzCRQWqux?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/Nd2kDTeAYlbIKpjHWaSGvlmlao81fan1svoSZhoCs783Epl94rZRmdXIzp9XZXHsdOgwIOCPZLYOxjXpQtpkjooBG33eWUdUiPbVOH3d1EqUrKu5Rp4Pz9mKRkzs3qBgLE6JO_nsllOzHIaLW8ss5tlzXpxF9HRRnGqp5wQX6VpzA6it-glaKxeGZqwRdZO9?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/3CmlNbiyDlUxIDK9rJeVo8Ia6ZDNZaVYzLuPDeIHBq4fz1ZhhlWO5DNBCWAZhsgmxu0_L6jnGLBrjHWvGUdL_YgPjdrcH22lyBYnFAjKdspCFaZd2YRdkiaq8MuA_w_vSollQWvyoDsBOs-KTwG1GDC8WsYB8LSxpBQDlfaKKJKcZylBTgyzDgJ_zIuo2kOB?purpose=fullsize)"
+      },
+      {
+        "p": "/message/metadata/content_references/0/images/0/image_result",
+        "o": "replace",
+        "v": {
+          "url": "https://muallim.edu.az/usaga-kitab-oxuyun?utm_source=chatgpt.com",
+          "content_url": "https://images.openai.com/static-rsc-4/BZmOtXPumOc509jOs-1_gCg74-U1rsJ6jgILEqI7fKnGLnntDsUEah-AMnQdX1Q4AOaZBV5nGbu2P9SU8rB8JkNQaeskJD2zCvNw86Lx2wNwN-3AvARFs000WdOcN54XffXPznmfu__43YNd2QsjcmH9k8dzimh3zJjNTbMtHkVTGNP5qjaV03tGOSUYZpRU?purpose=fullsize",
+          "content_size": {
+            "width": 750,
+            "height": 521
+          },
+          "thumbnail_url": "https://images.openai.com/static-rsc-4/gMnLHx6X_Vv1vZeLdSx-5y0RBPVnUmOpwHS76Hh2sfFYwjIdoDyJXrJDWJuQNcL5kntfRIYnOxRLAw3AJbJvyjOzPlYl2ApoSeWPtB97q_cWGXKincaugjSu8MZ3Ey0h1lVJGBMDFMDITC9wRgvbFk4mnVSr528_h8GaqONXL-E?purpose=inline",
+          "thumbnail_size": {
+            "width": 750,
+            "height": 521
+          },
+          "thumbnail_crop_info": {
+            "center_x_percent": 0.5333333333333333,
+            "center_y_percent": 0.2783109404990403
+          },
+          "title": "Uşağa kitab oxuyun  - Muallim.edu.az",
+          "thumbnail_render_mode": "thumbnail_only",
+          "show_url": true,
+          "scores": null,
+          "original_content_url": "https://muallim.edu.az/uploads/images/202510/usaga-kitab-oxuyun.jpg"
+        }
+      },
+      {
+        "p": "/message/metadata/content_references/0/images/1/image_result",
+        "o": "replace",
+        "v": {
+          "url": "https://wonjo.kids/blog/learning/benefits-of-educational-apps-for-preschoolers/?utm_source=chatgpt.com",
+          "content_url": "https://images.openai.com/static-rsc-4/nY53OJHxK_lOaiAMYwO4AZ_tpp8OlcZMyHYjb1Xfaq-ewgg6dH1LN3ps9ulsKPCTmeIHKqchK3EroduPM35CWRtknY1fb1QX5kSWksCHm8G7me2GjplBIE8sBJ3Xl39eS6M_wS4nShJ3wP0GN-MgukvSs4LNCr8DJ3idLkgPcEuuzH_uH7yj_wXdzCRQWqux?purpose=fullsize",
+          "content_size": {
+            "width": 2121,
+            "height": 1414
+          },
+          "thumbnail_url": "https://images.openai.com/static-rsc-4/FvnrL2Oh2kwn9rJ6o3qCmLvoYOc6ALYagmdm0VWIrh1e_gvhOkPB_mvBZLoRhCbZHokMAvwNYYe8CYM8ay48gLbehezTWf-zQRZgdZJffb-RNyeA3_oZChBT32gvsKjBKn5HAh09Bu1pDeZa1MLq6MbU_RYWwtF9BY0Mx0yMLR0?purpose=inline",
+          "thumbnail_size": {
+            "width": 1290,
+            "height": 860
+          },
+          "thumbnail_crop_info": {
+            "center_x_percent": 0.652050919377652,
+            "center_y_percent": 0.3330975954738331
+          },
+          "title": "Benefits of Educational Apps for Kids",
+          "thumbnail_render_mode": "thumbnail_only",
+          "show_url": true,
+          "scores": null,
+          "original_content_url": "https://wonjo.kids/wp-content/uploads/2025/10/iStock-1352645101.jpg"
+        }
+      },
+      {
+        "p": "/message/metadata/content_references/0/images/2/image_result",
+        "o": "replace",
+        "v": {
+          "url": "https://ace.edu/blog/new-kids-on-the-block-reaching-and-teaching-generation-alpha/?utm_source=chatgpt.com",
+          "content_url": "https://images.openai.com/static-rsc-4/Nd2kDTeAYlbIKpjHWaSGvlmlao81fan1svoSZhoCs783Epl94rZRmdXIzp9XZXHsdOgwIOCPZLYOxjXpQtpkjooBG33eWUdUiPbVOH3d1EqUrKu5Rp4Pz9mKRkzs3qBgLE6JO_nsllOzHIaLW8ss5tlzXpxF9HRRnGqp5wQX6VpzA6it-glaKxeGZqwRdZO9?purpose=fullsize",
+          "content_size": {
+            "width": 1024,
+            "height": 628
+          },
+          "thumbnail_url": "https://images.openai.com/static-rsc-4/OYAsrbjUE1X8dzZP-SG-jbHSRD5Rfxfp0trC2PljFsk4rs1L9Aogqj_NYago6PI0wD2gxPk6Zv5sBG-E8SwSrZ1oGH1qus5kclulff9avAadWesF1443J5VcyVKbwvIeuZGRIpJ5m1d1RyEj8fS85hutD1ohqQeGv-8aRb4Ua9M?purpose=inline",
+          "thumbnail_size": {
+            "width": 1024,
+            "height": 628
+          },
+          "thumbnail_crop_info": {
+            "center_x_percent": 0.537109375,
+            "center_y_percent": 0.24363057324840764
+          },
+          "title": "New Kids on the Block: Reaching and Teaching Generation Alpha | ACE Blog",
+          "thumbnail_render_mode": "thumbnail_only",
+          "show_url": true,
+          "scores": null,
+          "original_content_url": "https://ace.edu/wp-content/uploads/2023/08/08-teaching-generation-alpha_Blog-1024x628.png"
+        }
+      },
+      {
+        "p": "/message/metadata/content_references/0/images/3/image_result",
+        "o": "replace",
+        "v": {
+          "url": "https://www.confidanthealth.com/patients/substance-use-disorder-treatment?utm_source=chatgpt.com",
+          "content_url": "https://images.openai.com/static-rsc-4/3CmlNbiyDlUxIDK9rJeVo8Ia6ZDNZaVYzLuPDeIHBq4fz1ZhhlWO5DNBCWAZhsgmxu0_L6jnGLBrjHWvGUdL_YgPjdrcH22lyBYnFAjKdspCFaZd2YRdkiaq8MuA_w_vSollQWvyoDsBOs-KTwG1GDC8WsYB8LSxpBQDlfaKKJKcZylBTgyzDgJ_zIuo2kOB?purpose=fullsize",
+          "content_size": {
+            "width": 845,
+            "height": 549
+          },
+          "thumbnail_url": "https://images.openai.com/static-rsc-4/-bDESnf93AwguuUL9OBcQQfpcS4vQ41y_NyugEI1JVwDwR8RTKGC2zXPNXQO0hHiP2eFf4VByi3NFuVy_4RHLsUNCkpB7GAZLFXqCJwh3pt85aCkjZX_zESmQIEdhf-BGXUz9raJ1K-NPOVX-0WVPeV0aZ09OUMuJQq7S3hPLUo?purpose=inline",
+          "thumbnail_size": {
+            "width": 845,
+            "height": 549
+          },
+          "thumbnail_crop_info": {
+            "center_x_percent": 0.4461538461538462,
+            "center_y_percent": 0.3151183970856102
+          },
+          "title": "Substance Use Disorder Treatment & Support | Confidant Health",
+          "thumbnail_render_mode": "thumbnail_only",
+          "show_url": true,
+          "scores": null,
+          "original_content_url": "https://cdn.prod.website-files.com/63e30b2d88285e413bb78459/6965e0eed1d1d5448bf3c7d4_bad-working.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "p": "/message/content/parts/0",
+    "o": "append",
+    "v": " educational use—does not appear to produce large negative effects for most children and"
+  },
+  {
+    "p": "",
+    "o": "patch",
+    "v": [
+      {
+        "p": "/message/content/parts/0",
+        "o": "append",
+        "v": " may provide meaningful benefits in certain contexts."
+      },
+      {
+        "p": "/message/status",
+        "o": "replace",
+        "v": "finished_successfully"
+      },
+      {
+        "p": "/message/end_turn",
+        "o": "replace",
+        "v": true
+      },
+      {
+        "p": "/message/metadata",
+        "o": "append",
+        "v": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "can_save": true,
+          "search_result_groups": [],
+          "safe_urls": [
+            "https://images.openai.com/static-rsc-4/3CmlNbiyDlUxIDK9rJeVo8Ia6ZDNZaVYzLuPDeIHBq4fz1ZhhlWO5DNBCWAZhsgmxu0_L6jnGLBrjHWvGUdL_YgPjdrcH22lyBYnFAjKdspCFaZd2YRdkiaq8MuA_w_vSollQWvyoDsBOs-KTwG1GDC8WsYB8LSxpBQDlfaKKJKcZylBTgyzDgJ_zIuo2kOB?purpose=fullsize",
+            "https://images.openai.com/static-rsc-4/BZmOtXPumOc509jOs-1_gCg74-U1rsJ6jgILEqI7fKnGLnntDsUEah-AMnQdX1Q4AOaZBV5nGbu2P9SU8rB8JkNQaeskJD2zCvNw86Lx2wNwN-3AvARFs000WdOcN54XffXPznmfu__43YNd2QsjcmH9k8dzimh3zJjNTbMtHkVTGNP5qjaV03tGOSUYZpRU?purpose=fullsize",
+            "https://images.openai.com/static-rsc-4/Nd2kDTeAYlbIKpjHWaSGvlmlao81fan1svoSZhoCs783Epl94rZRmdXIzp9XZXHsdOgwIOCPZLYOxjXpQtpkjooBG33eWUdUiPbVOH3d1EqUrKu5Rp4Pz9mKRkzs3qBgLE6JO_nsllOzHIaLW8ss5tlzXpxF9HRRnGqp5wQX6VpzA6it-glaKxeGZqwRdZO9?purpose=fullsize",
+            "https://images.openai.com/static-rsc-4/nY53OJHxK_lOaiAMYwO4AZ_tpp8OlcZMyHYjb1Xfaq-ewgg6dH1LN3ps9ulsKPCTmeIHKqchK3EroduPM35CWRtknY1fb1QX5kSWksCHm8G7me2GjplBIE8sBJ3Xl39eS6M_wS4nShJ3wP0GN-MgukvSs4LNCr8DJ3idLkgPcEuuzH_uH7yj_wXdzCRQWqux?purpose=fullsize"
+          ],
+          "is_complete": true
+        }
+      }
+    ]
+  },
+  {
+    "type": "message_marker",
+    "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43",
+    "message_id": "66d51538-84c8-43d0-be16-e9607fd11cca",
+    "marker": "last_token",
+    "event": "last"
+  },
+  {
+    "type": "server_ste_metadata",
+    "metadata": {
+      "server_ttfvt_ms": 1043.6062389053404,
+      "conduit_prewarmed": true,
+      "plan_type": "go",
+      "plan_type_bucket": "paid",
+      "harness": "harmony",
+      "user_agent": "web_desktop",
+      "service": null,
+      "tool_name": null,
+      "tool_invoked": false,
+      "fast_convo": true,
+      "warmup_state": "warm",
+      "is_first_turn": true,
+      "cluster_region": "australiacentral",
+      "model_slug": "gpt-5-5",
+      "region": null,
+      "is_multimodal": null,
+      "did_auto_switch_to_reasoning": false,
+      "auto_switcher_race_winner": null,
+      "is_autoswitcher_enabled": false,
+      "is_search": null,
+      "did_prompt_contain_image": false,
+      "search_tool_call_count": null,
+      "search_tool_query_types": null,
+      "message_id": "14f1c7f8-520c-422d-b0f9-630d53eabb0d",
+      "request_id": "07432423-e1e2-48c4-8225-0000caf431a8",
+      "turn_exchange_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
+      "turn_trace_id": "4424beb5-c9ae-4100-8b7e-6dd04583c843",
+      "a32e6ebcb": 3,
+      "resume_with_websockets": true,
+      "low_turn_topic_ttl": false,
+      "streaming_async_status": false,
+      "replace_stream_status": true,
+      "temporal_conversation_turn": false,
+      "pro_mode_turn_topic_streaming": true,
+      "turn_use_case": "text",
+      "turn_mode": "default"
+    },
+    "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43"
+  },
+  {
+    "type": "message_stream_complete",
+    "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43"
+  },
+  {
+    "type": "conversation_detail_metadata",
+    "banner_info": null,
+    "blocked_features": [],
+    "model_limits": [],
+    "limits_progress": [
+      {
+        "feature_name": "deep_research",
+        "remaining": 5,
+        "reset_after": "2026-07-25T11:38:22.987846+00:00"
+      },
+      {
+        "feature_name": "file_upload",
+        "remaining": 80,
+        "reset_after": "2026-06-25T14:38:22.987862+00:00"
+      },
+      {
+        "feature_name": "paste_text_to_file",
+        "remaining": 80,
+        "reset_after": "2026-06-25T14:38:22.987868+00:00"
+      },
+      {
+        "feature_name": "image_gen",
+        "remaining": 120,
+        "reset_after": "2026-06-26T11:38:22.987873+00:00"
+      }
+    ],
+    "default_model_slug": "gpt-5-5",
+    "atlas_mode_enabled": null,
+    "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43"
+  }
+]
