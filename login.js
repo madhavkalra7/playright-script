@@ -13,17 +13,19 @@ const { chromium } = require('playwright');
 const path = require('path');
 const fs = require('fs');
 
-const AUTH_FILE = path.join(__dirname, 'auth.json');
+// Accept account number as argument: node login.js 2 → saves auth-2.json
+const ACCOUNT_NUM = parseInt(process.argv[2] || '1', 10);
+const AUTH_FILE = path.join(__dirname, `auth-${ACCOUNT_NUM}.json`);
 
-// ⚠️  Using a dedicated local directory inside the project to avoid locking conflicts with your personal Chrome
-const CHROME_USER_DATA = path.join(__dirname, 'chrome-profile');
+// ⚠️  Each account gets its own chrome-profile directory to avoid conflicts
+const CHROME_USER_DATA = path.join(__dirname, `chrome-profile-${ACCOUNT_NUM}`);
 const CHROME_PROFILE   = 'Default';
 const CHROME_EXE = 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe';
 
 async function main() {
   console.log('');
   console.log('══════════════════════════════════════════════════');
-  console.log('  ChatGPT Login — Using Local Automation Profile');
+  console.log(`  ChatGPT Login — Account ${ACCOUNT_NUM} → ${path.basename(AUTH_FILE)}`);
   console.log('══════════════════════════════════════════════════');
   console.log('');
   console.log(`📁 User Data : ${CHROME_USER_DATA}`);
@@ -156,12 +158,13 @@ async function main() {
   await context.storageState({ path: AUTH_FILE });
 
   const saved = JSON.parse(fs.readFileSync(AUTH_FILE, 'utf-8'));
-  console.log(`\n💾 Saved ${saved.cookies.length} cookies to auth.json`);
+  console.log(`\n💾 Saved ${saved.cookies.length} cookies to ${path.basename(AUTH_FILE)}`);
   console.log('');
   console.log('══════════════════════════════════════════════════');
-  console.log('  Now run the dry run to verify everything works:');
-  console.log('  npm test    → dry run (2 prompts, verify)');
-  console.log('  npm start   → all 100 prompts');
+  console.log(`  Account ${ACCOUNT_NUM} saved. Next steps:`);
+  console.log(`  Login more accounts : npm run login:2  (then :3, :4...)`);
+  console.log(`  Test                : npm run parallel:test`);
+  console.log(`  Run all             : npm run parallel`);
   console.log('══════════════════════════════════════════════════');
   console.log('');
 

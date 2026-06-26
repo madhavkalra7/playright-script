@@ -1,0 +1,961 @@
+{
+  "cookies": [
+    {
+      "name": "oai-did",
+      "value": "db92f778-b3f8-4e87-940e-2552b062541b",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1813559748.903208,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cflb",
+      "value": "0H28vzvP5FJafnkHxj4bfehZKNMupZgWFkMFEhjz2KV",
+      "domain": "chatgpt.com",
+      "path": "/",
+      "expires": 1782459348.903341,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "g_state",
+      "value": "{\"i_l\":0,\"i_ll\":1782455750173,\"i_b\":\"unJo4rEiu8Qt/2NB0sti1p0sMkO/6AYxr8K6JQ55eE8\",\"i_e\":{\"enable_itp_optimization\":24},\"i_et\":1782455750173}",
+      "domain": "chatgpt.com",
+      "path": "/",
+      "expires": 1798007750,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oai-login-csrf_dev_3772291445",
+      "value": "MTc4MjQ1NTc1NHxQT1QtbzZaWWllbmhSNHlfbF9rdDAwWXR1Wkl3WTg1am83YnE4OWdwOElaRHVYTnBMRzd0WC1TUkI4QWRTR1RreXh0U213SElVdWFMdDd5SzU2dm5DRElmQmRQZzJzZkl4UE9kcUViWHhYY09tXy1XTWl1S2xkWUxwVEl2fLHNUgA61EYJd31ED9jwBES-Go8-hxTl2u1J6_BPQ1LW",
+      "domain": "auth.openai.com",
+      "path": "/",
+      "expires": 1782459354.673819,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oai-did",
+      "value": "db92f778-b3f8-4e87-940e-2552b062541b",
+      "domain": ".openai.com",
+      "path": "/",
+      "expires": 1813991785.326522,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rg_context",
+      "value": "prim",
+      "domain": ".auth.openai.com",
+      "path": "/",
+      "expires": 1782458454.67392,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "iss_context",
+      "value": "default",
+      "domain": ".auth.openai.com",
+      "path": "/",
+      "expires": 1782458454.673942,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oaicom-stable-id",
+      "value": "0f6ce218-5bd7-4d48-8f35-f0cba2a7bbea",
+      "domain": ".openai.com",
+      "path": "/",
+      "expires": 1813991785.326705,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OTZ",
+      "value": "8669196_34_34__34_",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1785047755,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NID",
+      "value": "532=r_zcATFAr9PwCMiFv1FqjyYNg4Fvy3NRTbLylRSXXpgojoILpwCsoYBVLCFJDUgZZlHLBnKPaHhl_xLAbEL-PgfuyGuUvuSS7b3RQ6f4czM3nQDLgroFYzGGIBdaTDlk_zANh2scjv3PRZI3Nnkkk-fl4TIALz_uXqG_LkcnOqWiM7ObxPQ51KLa4SdD5czvYQHQaN0HOovi9am61EoJj2nBoEo1wVNKV67JeTUhdeqJNnHNDC3ZI4_NnDkHEgzft2TeZZP9LA6dJQHRoz1ob-WRILyL-G5gzgz67Zd0YVpQW_uriUeJvlAHGTa-Tfa_DhAN04fM64F1PEM4RpMuS_2Rjg5KYcEUITTd8ttGdMHb0hbvjeoFSTktLaGHxENAmsizkZj9tgyOmjmletRSSHj76Y2zzDWz06Ze_wpH2R6DA2GxdSwq0e1GTyRxoEG6vrW4oMEhoyTFG-DhlfP2N30vIkcRxGemoDB5KLdiqXmyB5mVYoHaMUqn_JVfRvH3iYxG8k-sJARO0U9qowA0afAo6SZCCFthx0N9S1t3my--Cp6i9QNf8yvaiE0jvJrxJaojXfhUEYy1_Xp0j-5p-Hob8kgefGEysaxQwvY3JbXQvp9ahuQSVQeUF3nsQrD_fJqsIuyGLRjjLNddCxOj2hU",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1798266955.660598,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "HSID",
+      "value": "At61cw7Cw4_wUrEYb",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1817015782.661068,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SSID",
+      "value": "AX69-lSPfNZIBeEDp",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1817015782.661109,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "APISID",
+      "value": "quxiO06-vz9GH216/AtHzrnCrvk68NpGi1",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1817015782.661147,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SAPISID",
+      "value": "kPZHo-coKJDAv0eM/AgI7H7oDLspmMBpfg",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1817015782.661187,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PAPISID",
+      "value": "kPZHo-coKJDAv0eM/AgI7H7oDLspmMBpfg",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1817015782.661225,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PAPISID",
+      "value": "kPZHo-coKJDAv0eM/AgI7H7oDLspmMBpfg",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1817015782.661273,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ACCOUNT_CHOOSER",
+      "value": "AFx_qI5BWNZXFThUGTaaLI3Xx4N_oiqQR2K3Yx4dM2H8Ol6mzzZuaLU5uZSk4KaPI9brmOsUCN5twwmEwJv4GAs5AtJsKiPNFvY9LMwoWRwMA7BPHKGAA7IOmLlL39yQYJamn-Z07M5v",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1817015782.661311,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SMSV",
+      "value": "ADHTe-A8pmfeN8VQf7vHbxmKEyffy_7mDLmByZr3W9MPbvMD7yDoHvGgkKQO30Ljx8-BZtOElbYHtC-w7T-Ozb3wcHKY3QfkP9YDcwVhBwZG2MPtgIh3rtk",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1817015782.661417,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "LSID",
+      "value": "s.IN|s.youtube:g.a000_gg3G8zzkwXNBZxnW7LPjPaOC16X7nJVKvPUUhnwO-GVXgIbROL9ijrtUkqLKBzoqx3zKQACgYKAcESARUSFQHGX2MiD1ln8C20JvtI5b3zeid2EBoVAUF8yKo8q7X8Cpdtnh-sb0ajSB8C0076",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1817015782.888514,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-1PLSID",
+      "value": "s.IN|s.youtube:g.a000_gg3G8zzkwXNBZxnW7LPjPaOC16X7nJVKvPUUhnwO-GVXgIbzl76mNbAufcSq9HT3MsZ2wACgYKAVUSARUSFQHGX2MiPyx0FhYZP9X8k49K0wDxnRoVAUF8yKqViCdWtKa1poYN3-d-JA7N0076",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1817015782.888641,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-3PLSID",
+      "value": "s.IN|s.youtube:g.a000_gg3G8zzkwXNBZxnW7LPjPaOC16X7nJVKvPUUhnwO-GVXgIb4OUAbIoUiK1E1S9vDNYg_wACgYKAToSARUSFQHGX2MiSjLq5GhC3JlgkyQHfkQ_vhoVAUF8yKpDoSfrfIYXF5C4iFY8I3Zc0076",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1817015782.888687,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Secure-1PSIDTS",
+      "value": "sidts-CjQByojQU06osG32B2ON78ucUO8-07iPPMd2p46dRT3bBArb-Pzx8nDOsGtZmaxPu02p00KpEAA",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1813991783.035999,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PSIDTS",
+      "value": "sidts-CjQByojQU06osG32B2ON78ucUO8-07iPPMd2p46dRT3bBArb-Pzx8nDOsGtZmaxPu02p00KpEAA",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1813991783.036095,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "HSID",
+      "value": "AQpfJiPYkWPQaAk-x",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1817015783.036122,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SSID",
+      "value": "ALZNUmX8i_TKFh_kp",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1817015783.036148,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "APISID",
+      "value": "quxiO06-vz9GH216/AtHzrnCrvk68NpGi1",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1817015783.036168,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SAPISID",
+      "value": "kPZHo-coKJDAv0eM/AgI7H7oDLspmMBpfg",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1817015783.03619,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PAPISID",
+      "value": "kPZHo-coKJDAv0eM/AgI7H7oDLspmMBpfg",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1817015783.036213,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PAPISID",
+      "value": "kPZHo-coKJDAv0eM/AgI7H7oDLspmMBpfg",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1817015783.036234,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SID",
+      "value": "g.a000_gg3G37x2VMR_6AVlGjCTGboX1o3aDUjCZwZkvqvLdBZAzjvs-LaNUQkRgjHF9ryjyaGWgACgYKAZgSARUSFQHGX2MiAd4uo0PbKttr2uL33IxjRBoVAUF8yKrZG7j6B9hGhljrvY_K4OSy0076",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1817015783.036265,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PSID",
+      "value": "g.a000_gg3G37x2VMR_6AVlGjCTGboX1o3aDUjCZwZkvqvLdBZAzjv7xcp2_K35TwV9VveD0QwhAACgYKAeESARUSFQHGX2Miawfmg7ElKscnmeEXNdvY9hoVAUF8yKrwQoZiJWi6dh6RdGRr5oN70076",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1817015783.036288,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PSID",
+      "value": "g.a000_gg3G37x2VMR_6AVlGjCTGboX1o3aDUjCZwZkvqvLdBZAzjvA-l4pEj2CurnHmY5rUQ1TQACgYKAV0SARUSFQHGX2Mi6MvMn54CvONJBkdcgoKjOhoVAUF8yKpv9um9f8EDiRYE0jZWhcW00076",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1817015783.036311,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "HSID",
+      "value": "AQpfJiPYkWPQaAk-x",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1817015783.191594,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SSID",
+      "value": "ALZNUmX8i_TKFh_kp",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1817015783.191684,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "APISID",
+      "value": "quxiO06-vz9GH216/AtHzrnCrvk68NpGi1",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1817015783.191704,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SAPISID",
+      "value": "kPZHo-coKJDAv0eM/AgI7H7oDLspmMBpfg",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1817015783.191724,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PAPISID",
+      "value": "kPZHo-coKJDAv0eM/AgI7H7oDLspmMBpfg",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1817015783.191741,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PAPISID",
+      "value": "kPZHo-coKJDAv0eM/AgI7H7oDLspmMBpfg",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1817015783.191758,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "NID",
+      "value": "532=Y_nWa3ZMJR-4_qBG1YunCazRAxlBvvbfhdAgjX0WdCrPGQ03vhAEwSOiSKMwuUtkAw7kaIh7fviyloo1MFNRPQpFU1DbUnNhVboFNSc5tas1p_8uEs_opF7Z7QPaB3mr_hnCVi3JKkHRozLwQsY9yH8W460aN-nLvT5-ocFUMjjcb3bangeDn1V5KJSZkn6GXnXWI4FzFEQIxMgs",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1798266983.191801,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SID",
+      "value": "g.a000_gg3G37x2VMR_6AVlGjCTGboX1o3aDUjCZwZkvqvLdBZAzjvs-LaNUQkRgjHF9ryjyaGWgACgYKAZgSARUSFQHGX2MiAd4uo0PbKttr2uL33IxjRBoVAUF8yKrZG7j6B9hGhljrvY_K4OSy0076",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1817015783.191836,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PSID",
+      "value": "g.a000_gg3G37x2VMR_6AVlGjCTGboX1o3aDUjCZwZkvqvLdBZAzjv7xcp2_K35TwV9VveD0QwhAACgYKAeESARUSFQHGX2Miawfmg7ElKscnmeEXNdvY9hoVAUF8yKrwQoZiJWi6dh6RdGRr5oN70076",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1817015783.191861,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PSID",
+      "value": "g.a000_gg3G37x2VMR_6AVlGjCTGboX1o3aDUjCZwZkvqvLdBZAzjvA-l4pEj2CurnHmY5rUQ1TQACgYKAV0SARUSFQHGX2Mi6MvMn54CvONJBkdcgoKjOhoVAUF8yKpv9um9f8EDiRYE0jZWhcW00076",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1817015783.191879,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SID",
+      "value": "g.a000_gg3G3LODY3v1HBHowXjZlrDnneSVmrgSNJDDaYQOz1xgoT_d7xL_k_Sd8MSkuy70AeTNgACgYKAS4SARUSFQHGX2MiVoD946QnrJ_0kpOAxzoOsxoVAUF8yKo4yXXSUP8qFM8RzNbY3caG0076",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1817015783.227789,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PSID",
+      "value": "g.a000_gg3G3LODY3v1HBHowXjZlrDnneSVmrgSNJDDaYQOz1xgoT_4aP0kek8W0m_hyZp9Aji5gACgYKAWwSARUSFQHGX2MiXxQTZFHXi8MWH8AnT_nPrBoVAUF8yKrnII9SrsLu_jezoalS7nnw0076",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1817015783.227878,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PSID",
+      "value": "g.a000_gg3G3LODY3v1HBHowXjZlrDnneSVmrgSNJDDaYQOz1xgoT_UhmF1WMJzv5kp4_wsDBCGQACgYKAUwSARUSFQHGX2Miuz42OQUdq2Af86hWBIho6RoVAUF8yKovA-b2oMM52D8A7jtuHB-V0076",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1817015783.227959,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Host-GAPS",
+      "value": "1:9NHEJDbqu2gUzK-sXP01_9NmipKs_k-9IlgA3r20OEJMQvATpto6hLJnljyY-hKfaRZlZ8ZUeFTqR0HT_iJe7VEoMiPi1LnrUzCQfmGboUCMDsZFD8S8GSh0sYNUDw-VpxbamLp3aYWWcaIUf3gNhFUgLrgkaHYg-nPnfaFiUxc0tFsu_Ejq:PwOs8_cFonCoixs4",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1817015783.939055,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "33GGMfd8HsREwFweFD2qRk3XJGnwrG.QnDviyX3M4z0-1782455785.2428365-1.0.1.1-JpOrRqN3.uRusNUHFG6c9vOEtn2Z4SsbMRTHWyF6Ve0g9cWliVg8liRGsPUCFo2Tl.QMsBZKIdSRw7v7LqX6_N9Dlr4NB4MWGoUby.o7IZCIx5ItyaRcEXiBw.eDbqFC",
+      "domain": ".oaistatic.com",
+      "path": "/",
+      "expires": 1782457585.405493,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cf_clearance",
+      "value": "ZIndwEP7HdbGQ2AyblBLzYyzegN0XxJ7NfgC_9nBon8-1782455785-1.2.1.1-wYokOuVx4RGRiDGOdbXfvg.p1ptYQMRg4FLcHhZSjbAtzdkHQ54f3iA0EPv7i_EX5HNzgmTh7u5fUbez7HjITYGPjMsjrsB.Hf9GO9HSbu6PftyEZAbHJHsaF6SMEyv1xwcfyAv6i.5ukB6aBSy.82QEdvmXERlxEjQvkk.FWDWYn1L__mi4sm6HCm19cpnAdb35gaYaLg0W59zbv30x6xwlJ2nBbyGQrdG7dkWsuF9hUOE3iWXwRubnH4l2Vm4mn7CiYDkRN6XRoWX86IJ2QfkJewGQr329rkar.APrRotG9wVAR0tiVcPQcqu5j9z8dD05TlSNV.d1AX2IuEdJAw",
+      "domain": ".auth.openai.com",
+      "path": "/",
+      "expires": 1813991785.655353,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://openai.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "__cf_bm",
+      "value": "6jIyimFICXU_FQO.GUMFSYwiI1DmfBSMzS9l3XMItKc-1782455785.506883-1.0.1.1-OH6PMvlTbA9TTIQQ_AA5eBMexRmaxVf6wanSTr3hEEvcQg_uKxVhXGgCuqMVz99C7d8ywLYFk0DvrF2Zc85KgieepcQEIr8A0BGPszGr5qxVctKLX9bW9Y_XwYD5FCYw",
+      "domain": ".auth.openai.com",
+      "path": "/",
+      "expires": 1782457585.655443,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cflb",
+      "value": "04dTofELUVCxHqRn2XeVCuJ2YwT7QQ1KgCsvPs1Xtw",
+      "domain": "sentinel.openai.com",
+      "path": "/",
+      "expires": 1782459385.837007,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cflb",
+      "value": "0H28w2ZepuU3KZxNdePqvVnB6Qyo4bMeoF4JXM1dmpR",
+      "domain": "auth.openai.com",
+      "path": "/",
+      "expires": 1782457585.971923,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cf_clearance",
+      "value": "IPcPBbPzoFZ6alAWeQOdoS.ExfULAkO0pCVNFht51xw-1782455786-1.2.1.1-SemQB8pXGXtHu3KK1YczOLIvtUE6fc9XuCca1QWH6VKP8CMqrqe.PGnHvxb_x05q678vXx1qtQtNfbBn75t6ceSYJkkE4KOxaIEmXJ9J.rI7gmtzVjl_nnLxj6lD3aGfug6YEjeVvdUMAkcggm6ypXSn0lU56aqSwBvcVSqTqSJ7J8_t0gF_.UuA99raLoGNR2ZCyVIOj95PUTqDSq_J0kytgVrujY3eldwf1YdUR7S1dgubsGgx4nF0WV.8cntUcLHzD_v2G63O1FTCVGnkhR8anBR8hnF1kDYFm6KAYcVrrymxBD3avyi4vLhVE1HRdyMV8QhrNGfLSSbWQyw3Sg",
+      "domain": ".sentinel.openai.com",
+      "path": "/",
+      "expires": 1813991786.730106,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://openai.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "__cf_bm",
+      "value": "0XCOhics6zOsPfCUZR2h2.EU3qKTmPH3pC003jSXetw-1782455786.5785122-1.0.1.1-1__UnHrHmewJ419m0xCxBqHLtTt_2TNBL.8UyNn2s3K8Okt68DfGTGFqbCMHEz8ulEfzoyRGZ8k6mTx68qTkNYtfpOLC4LYjp2iK.7gtnya1JA5Yl5R1MQC9vTgRFkE_",
+      "domain": ".sentinel.openai.com",
+      "path": "/",
+      "expires": 1782457586.730189,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "hydra_redirect",
+      "value": "eyJvYWktbG9naW4tY3NyZl9kZXZfMzc3MjI5MTQ0NSI6Ik1UYzRNalExTlRjMU5IeFFUMVF0YnpaYVdXbGxibWhTTkhsZmJGOXJkREF3V1hSMVdrbDNXVGcxYW04M1luRTRPV2R3T0VsYVJIVllUbkJNUnpkMFdDMVRVa0k0UVdSVFIxUnJlWGgwVTIxM1NFbFZkV0ZNZERkNVN6VTJkbTVEUkVsbVFtUlFaekp6WmtsNFVFOWtjVVZpV0hoWVkwOXRYeTFYVFdsMVMyeGtXVXh3VkVsMmZMSE5VZ0E2MUVZSmQzMUVEOWp3QkVTLUdvOC1oeFRsMnUxSjZfQlBRMUxXIiwib2FpLXNlc3Npb25fZGV2IjoiTVRjNE1qUTFOVGd6T0h4NlRFRmxWV05OYWt3dFpUaG5SVlp2V0hsSlNYVmlPR2htUlZOM05VUkVTVWhhZGt4R2QxZGxlVVpPWVRkQk9WVkVPSGRuY1RGMFZFOUdXVkJIYm1wNmFVMXlVbEpmWmxSVlNubFdhelJRV0h3aHJWRktzdDVOdVhqdmVfc1UySUt6YUM1SHA5UDNFcmJHMVJhcUhlTnJpUT09Iiwib2FpLWNvbnNlbnQtY3NyZl9kZXZfMzc3MjI5MTQ0NSI6Ik1UYzRNalExTlRnek9IeE9kRTVXWmpCNWIwVmhkazVvWTFCUVZHcGZNMk40TUVWSFNFOHpOVkUyZWtZNGRVZFVTMWR2VVZKd1VHVXphVEZ1V2tJMlNtaG9aSFV6WnpWdVN6VTJVV3hrWlRKTlNHNUVZMkZYYUhsc1ZsSnRaR0ZJU1cxdWRsZ3liWGhGUW1weFRXNWlMV2wwZURoMk9VdGpOVzU0UmtacUxYUkVUVWxYU1hWamZGeUZBX0hveFgwTlg2Tnp4UGdiT2UxZ3E2YW55bHJLRXQtZ016UVJFQ21rIn0=.aj4eHg._sGXW31j8nh0fZc-1mU_zXCBwfCD41Qw49CYOmPg4bg",
+      "domain": ".auth.openai.com",
+      "path": "/",
+      "expires": 1782458538.779788,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oai-client-auth-session",
+      "value": "eyJhcHBfbmFtZV9lbnVtIjoiY2hhdCIsImF1dGhfc2Vzc2lvbl9sb2dnaW5nX2lkIjoiYjk5MDMyNjktMTg0YS00MDMwLWEzMzItNjdmMGYxMTIzOGQzIiwiY291bnRyeV9jb2RlX2hpbnQiOiJJTiIsImRlc3RpbmF0aW9uX2FwcF9uYW1lIjoiQ2hhdEdQVCBXZWIiLCJlbWFpbCI6Imt1bmFsYXIyMDAzQGdtYWlsLmNvbSIsIm1mYV9jaGFsbGVuZ2VfZmFjdG9ycyI6W3siZmFjdG9yX3R5cGUiOiJ0b3RwIiwiaWQiOiI2ODVmZTg4MTM4ZWM4MTkxYTE1NzUwZDBlOWRjYTc5MyIsImlzX3JlY292ZXJ5IjpmYWxzZSwibWV0YWRhdGEiOm51bGx9LHsiZmFjdG9yX3R5cGUiOiJwdXNoX2F1dGgiLCJpZCI6ImRldmljZS1ub3RpZmljYXRpb24iLCJpc19yZWNvdmVyeSI6ZmFsc2UsIm1ldGFkYXRhIjp7ImF1dG9fYWRkZWQiOnRydWV9fSx7ImZhY3Rvcl90eXBlIjoicmVjb3ZlcnlfY29kZSIsImlkIjoiNjg1ZmU5MDU1YzU4ODE5MWIyZDBiYTQ5NDYxNjljZWUiLCJpc19yZWNvdmVyeSI6dHJ1ZSwibWV0YWRhdGEiOm51bGx9LHsiZmFjdG9yX3R5cGUiOiJlbWFpbCIsImlkIjoiZW1haWwtb3RwIiwiaXNfcmVjb3ZlcnkiOnRydWUsIm1ldGFkYXRhIjp7ImVtYWlsIjoia3VuYWxhcjIwMDNAZ21haWwuY29tIn19XSwibWZhX2ZhY3RvcnMiOlt7ImZhY3Rvcl90eXBlIjoidG90cCIsImlkIjoiNjg1ZmU4ODEzOGVjODE5MWExNTc1MGQwZTlkY2E3OTMiLCJpc19yZWNvdmVyeSI6ZmFsc2UsIm1ldGFkYXRhIjp7ImNoYWxsZW5nZV9pc3N1ZV9jb3VudCI6MX19LHsiZmFjdG9yX3R5cGUiOiJwdXNoX2F1dGgiLCJpZCI6ImRldmljZS1ub3RpZmljYXRpb24iLCJpc19yZWNvdmVyeSI6ZmFsc2UsIm1ldGFkYXRhIjp7ImF1dG9fYWRkZWQiOnRydWV9fSx7ImZhY3Rvcl90eXBlIjoicmVjb3ZlcnlfY29kZSIsImlkIjoiNjg1ZmU5MDU1YzU4ODE5MWIyZDBiYTQ5NDYxNjljZWUiLCJpc19yZWNvdmVyeSI6dHJ1ZSwibWV0YWRhdGEiOm51bGx9LHsiZmFjdG9yX3R5cGUiOiJlbWFpbCIsImlkIjoiZW1haWwtb3RwIiwiaXNfcmVjb3ZlcnkiOnRydWUsIm1ldGFkYXRhIjp7ImVtYWlsIjoia3VuYWxhcjIwMDNAZ21haWwuY29tIn19XSwibmFtZSI6Imt1bmFsIGFyb3JhIiwib3BlbmFpX2NsaWVudF9pZCI6ImFwcF9YOHpZNnZXMnBROXRSM2RFN25LMWpMNWdIIiwicHJvbW8iOiIiLCJyZXF1ZXN0ZWRfb2F1dGhfc2NvcGVzIjpbImVtYWlsIiwibW9kZWwucmVhZCIsIm1vZGVsLnJlcXVlc3QiLCJvZmZsaW5lX2FjY2VzcyIsIm9wZW5pZCIsIm9yZ2FuaXphdGlvbi5yZWFkIiwib3JnYW5pemF0aW9uLndyaXRlIiwicHJvZmlsZSJdLCJzZXNzaW9uX2lkIjoiYXV0aHNlc3Nfd0RqMWd3NmRERWNlMlZlaWhxMUxURFhxIiwic2lnbnVwX3NvdXJjZSI6IiJ9.aj4eHg.FJ0kOpOtjWEivrHMfysATy7Ghafs9UmoALQc0IqMCTM",
+      "domain": ".auth.openai.com",
+      "path": "/",
+      "expires": 1782458538.779945,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oai-client-auth-info",
+      "value": "eyJsYXN0X2xvZ2luX2lkZW50aWZpZXIiOnsidHlwZSI6ImVtYWlsIiwidmFsdWUiOiJrdW5hbGFyMjAwM0BnbWFpbC5jb20ifSwibGFzdF9sb2dpbl9zdHJhdGVneSI6Imdvb2dsZS1vYXV0aDIifQ==.aj4eHg.PlYLzqzgT8yT-_thlfODnqn6iVh36siNfhqgbldqlV0",
+      "domain": ".auth.openai.com",
+      "path": "/",
+      "expires": 1785047838.780099,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "usc_PLXD45YW0YhpepteuPpezNrm",
+      "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoidXMiLCJwcm90b2NvbF92ZXJzaW9uIjoiMSIsImNvb2tpZV9pZCI6IlBMWEQ0NVlXMFlocGVwdGV1UHBlek5ybSIsImVuY3J5cHRlZF9hdXRoZW50aWNhdGVkX2RhdGEiOiJ1c19FTER4OGZNUDBhZWlyR2RrMW9jeUc5U0giLCJjbGllbnRfc2VjcmV0IjoiQUdUQjVxQmpCSVJCcTN4bk4xYTFGd2NmIn0.bIIFfiVCtXbQOSWwtMKNKvrYo-iZEGUSytnE14_scF00fYdOR2gMfnoClg5l9bMcKp5PU6LJ-ankLevLANX0OQ",
+      "domain": ".auth.openai.com",
+      "path": "/",
+      "expires": 1817015838.780228,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "unified_session_manifest",
+      "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lcyI6WyJ1c2NfUExYRDQ1WVcwWWhwZXB0ZXVQcGV6TnJtIl19.tGGVOCTCBZvtphYMmO7A3uNAXQNz8hziEDA6f1PGrcuN_rnggKc4mWExXWDejtYcYhlZi6rDfzIj1eHqIv_6Fg",
+      "domain": ".auth.openai.com",
+      "path": "/",
+      "expires": 1817015838.780281,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oai-hlib",
+      "value": "true",
+      "domain": "chatgpt.com",
+      "path": "/",
+      "expires": 1813559840.419474,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oai-last-model-config",
+      "value": "%7B%22model%22%3A%22gpt-5-5%22%7D",
+      "domain": "chatgpt.com",
+      "path": "/",
+      "expires": 1785049010.804803,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cflb",
+      "value": "0H28ukCBMp4tavf1C74Xf8sunGtHC1RHVCqgU59y9Xb",
+      "domain": "ws.chatgpt.com",
+      "path": "/",
+      "expires": 1782457643.326873,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cf_clearance",
+      "value": "Y2mDYTctCPgS2yNp10YAMhfIKad6rCGTKsnMlAvaLso-1782456724-1.2.1.1-r6P3TLc1nt54iyifBaQuIAJ2SJJBUqJtu6PngMpaqriewJu3dj6x0kBfd6fL.dtWUTM.y1h6AxgMpVC_43YONjvNUwdJtG5zFGymOnfG2BzuMquIhopwgbZUEq3GvH1HE7Rr59fDI1ABZC0gJPx07taKuMypsji4nbwPPOPB7lokimMpKLShyssn_k75QRaWkCLeQUHqQ_bzmPfL4V.k8WcGulQqctUZfJ2WQcFaCZJDso56AFTke0R04lcKaAda6r4o19RATViB8q4Cue_yyGW3mFvLHjhf95K_tDv8k8KB6.wm9ZCaCVsdolbGQ0zkV4PCEBsTNbtUqMxgVkaPWQ",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1813992724.19809,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://chatgpt.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "__cf_bm",
+      "value": "FsU1c8cQO4470mk7Emx96mUWIEj1mVBJrucdEQfCXdM-1782456724.04286-1.0.1.1-lFtjhYNtavXTibvouCQBB0v.YqTySdR7K5FvStD7ep_Kydi5FPTPmo1CwdA7rV4_9Bw4qqqvqOs_CMLFsJRzD1YqK6bw3XIsKBaMtNHL8etZJtbyKJptau8l9QhPsZYU",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1782458524.198189,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Secure-1PSIDTS",
+      "value": "sidts-CjYByojQU7e-zfRCrHKfPddV7B4TgfqZMeEmdSBFMJfChBZqWenM29RiE4_hSLzpuQ4GQ1d2K2UQAA",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1813993008.939181,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PSIDRTS",
+      "value": "sidts-CjYByojQU7e-zfRCrHKfPddV7B4TgfqZMeEmdSBFMJfChBZqWenM29RiE4_hSLzpuQ4GQ1d2K2UQAA",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1782457608.939288,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PSIDTS",
+      "value": "sidts-CjYByojQU7e-zfRCrHKfPddV7B4TgfqZMeEmdSBFMJfChBZqWenM29RiE4_hSLzpuQ4GQ1d2K2UQAA",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1813993008.939325,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Secure-3PSIDRTS",
+      "value": "sidts-CjYByojQU7e-zfRCrHKfPddV7B4TgfqZMeEmdSBFMJfChBZqWenM29RiE4_hSLzpuQ4GQ1d2K2UQAA",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1782457608.939377,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SIDCC",
+      "value": "AKEyXzV8ZTp1nDJXLjGoDtG-CDRRmJ7Lz-vSLkyuc-Z1vUPABpQ-2xYOOBH4sNdAm6t6kvJc0A",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1813993008.939416,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PSIDCC",
+      "value": "AKEyXzUT4dz1tKqTB9yL6W_9Yrsnb63WR6U_0PBMwf1L1kk2LdNNHI51Aw9k66qI6F9ctPyy",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1813993008.939451,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PSIDCC",
+      "value": "AKEyXzXxk8sqHInSzMsr_eH45k8Y3vJIlLrRoQNSRjktexK469OuQfJ5KYfwFP1gXMTecMshDQ",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1813993008.939479,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Host-GAPSTS",
+      "value": "gapsts-Ci0BtKsiLJ0syhl39AdYoEJ4gP_fXrP0yu69lWzmdlfNdtPPl-5lcbOQxoeACoIQAQ==",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1817017008.953156,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-next-auth.csrf-token",
+      "value": "d123afcbd8af4062bf748de6dfbdd0de95f65fed2a2201a245cc6bf9dbf85767%7Cec974f9d24780636512f75f4a3819ee72096f53a7057cb36dd5124fafd6aed4b",
+      "domain": "chatgpt.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-next-auth.callback-url",
+      "value": "https%3A%2F%2Fchatgpt.com%2Cchat.gateway.unified-73.api.openai.com",
+      "domain": "chatgpt.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-next-auth.session-token.0",
+      "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..NdGdLH1Y1WpDhMiI.bDq8f44iFbM3vfnypeonxkQbkZogXUiQFDjjGE_OGlPFghpK0vtjEhur3eP8FV1fC8phzE1U8x_OQaV2C02QKx-CfsLqb1QS36XxcRrMYKsDZI71EsnJ-NMvdh8GQ648oXjxOytpjAAs4vfCBu5dcjQ003GtupSwnL4m9VKPxxjQ529mEB_SbVCtec9lrQdQAA9CzSo9lDyC3zYjGIlWMOpSdhELcuZl4Y7wrOUkpzzxLoanXjIdPThcp3ThxDtaZdXYSLSqEk7oRfiswXuN56bPLtSAHdcg_kOxbQiv9_d0BparD5gaBG3kgauA0mN-6e-DL_NWyMMi4x0tCTzfwE2wfKdqRlqpRWaJf_Z7tQ7unaURgsefB3UcLRXQ0Z7gqan2GramJFFZ7PfECfayKaydNR8AXF4pxfZGm9_4S_9hK8zsn_5eUfchEM1RObRaByjApZOJUvbk--9eemKfsZNnnpiZiXeyeDvn0YCTnuXgSiIyi0waBOuW2yS2syVqdq2RmmpM_L9g9RP-Zpo-t3023wp620ssd6LpnfFND1kO8xTqeX7wqFz3h0TlvxXaww9dOMW66ktiYWP-4RaWZfUlO0Ivrw_6HKgnqae7Pl82SvqYEBjn6SkCjx4c3-NzjfPfFpOk1kjHeUeh-RCORlqS4WOgY-iE833bXHvkArFMiuEegUZIDMjFfKp6NmUeOB5hOvfE5V2fXDwmjNSve1jPSB9rsGxbGvufo_ZmbKwyPml0iRs9k0hugNIT0xB_AqWJWbl0IqBXlUVaMwHVeOvJlqPobUS4yrSrzSnefdp2RMqhN61nhFfpukpbk5GgFIrpsn31C0Y28VrdrzZeZ4m0s2u2CkncTI_15YZl-dlu2y90XiRshUztv4Ox4qUhECmdVdXJPB-3GH6oHvBt36T4ZBdmJY2DH6MMFNxydFeui1mRwMMp9tdhw43lw-JlXQo9rRRYzLBMzz6muezBi4pZnF42FGyo-qVmNdoXN2owJkp-i9X0GLV-OQNaJ2eF7VnIIvLNBYUeUEsscdcDFgjqm_lB0HMnKGVB23F4katlbU0g2HXd314ddh_ErchFKB1R4yrWVdfT3Kz5_cnNWi8lZ9IGsrpu4b0F3xEAzpyNQFUMuzKACuWcQs3ksqWdQ7PWrC47Hv4DfFQLBdLDZOzPOX2Ajxs9PvMRhGkIPFaw0a4uMq0st8x0nW3aM3JVk0cxnbtdBxo78OrrD9fAs8LtuzZfei6CkCuyXTqeBmE_a-Z9FNxlId3sRMR955I-RBu1hraD_lLB8fTC-tD0OMAcTJzBT5zSkBjd6TwfgxxD39dYjSdckB2y0KwH-kiSu09q2XB3wSZHhhuxN__esI5VRt1UX8IaAmcB-UFiAHNimk8H4cavC20VyI3OfP2cGupAO5ffqBn-cjrIuGfYL_H85SKn2SpSqLfEpRhQfYCT5uQ4IVjTbVSisNbutzlTlh5p2u5YBS-lnop5SBO0C2EZQCgRFgGJiB51Dcjg_cZfLNm8pCLdpzdEWmsvpLLjtLxMCDjDQHbmj8YSlav9aRWtpvBJbXmlu0tt1YAk_7b9UdDb4RgeDKxrk9tyscXbKix_tkyjUVNugdfwE9aDz0Js-Ca-vNujQ-cLdQxdKTUo_Slwiflf5gtIYXCkkIDrOyHD2JapXIevCNoPfaXVAaL2lTwl29Y9fQaHKtSVVM-gO7TSuWdDbcZGX0MSravrCZJI6LTHJD-uKuSyLE8ySrxR5EbIF_kdLVboWl2HulZQqYFLG7vIXNN-GLK887irFsFq8-ycSk7rNjHaq7pLRc8HhDOJ88Y9FP3SeaJ-lJVCCG3jL5j3-umwJb0E7iQV7tbdzGhd0Ha9fNj0wd595_4J8L9yG7qqv65OLX4of4hRc2DzQzFLJrR0eoyToArhOl5a1PKzUczIZyuZYVLFYoWir0TT6ltrK-zC5Nll8TFxcc3_DjbTVLIzz_HOKt61NzjYLFMKj0b0abZo63MC369PdAvRpj3BTUqlaGEf5KGz0yf3LlWRV5hz3yzT3aEWMJ6AXqWRN-vosEVF2wBrOkP-WisMBRD20vdZ2nDFm2BltJ-UzvozdQM1oZvBqXgjlIG4wzyuBoFjD99nfP2Mg8fEMUuXlsocBtwT1uRME8FoBdm0aq8iSPmmQTbfW1zu0ddoUz7fhhMcOeGNeIp_cD_K2XCxKsX2Vnw5GcFHSQG4wnMp1eNWhq65Jg87e2zZwJDbINrbWdbFDJo2WtBUIGK-ab7s5ESMpwWE6DQYvegr07c18giNlvFZN-OPIqfyZAbsLB1QVbErPkQSt6GjTNZmM_EDxLqB06V5PX7bNKbQcla4Esb5f3UIAm-GSXkmlKx3m7xZqvPgCEhvgBR_jn1qeGBG-fsFm99m06obGCosUakU3ACV2whxwRo1c1wM__RdvslTwRSUoy0Y0AOMwWisz6JPSIYH_2xL7THP8aBGmZpbC9j2KzNEbWfU15ap0RXR5kC09PWNBg2mR07nQuS_2oslsYMIe6Me4zdk79V15QFdrKt-9xq_Ked95wkCax0Gkp7NFvzNhkKnzMXC0YT3ewEZSB_Dy5mq0uW9OyOLKTD_YbAGNUC-CZWOKFPQgAkuP5L47I0qy6bmbaVNlLa0w1rUGe7MyXTe6EyYOHhxgzpcH9Mgkuo5JkXIg0i0hPB1KebHirrP9Pmr1u0txrWHAH2kjuTW0WEaMVdo354YIHT9Z3QjcLZYO3v7ZUQSF6RDrZ7ph0zij2q9UbiSNIQGXHSCjSAIouzaK3UXVC586aVQZziX-DYNMTc2r9ikeMTr4bhGXbIYeKU_uzdCk3tfh30S3lCFysCR4_85GavhPtyJzrqg0qYhnGiGvBmlL-GMGUzBgfI2wjspgHABZUP-bChD3tH8eynTjK6ct79_VRUPyyEl6H2xY88y_sJPz7CEW0WZ6nS6btugX3cVav8m3EdyRHQHtAfm9m0iMNETTytC0l938oAiLHQiCBNEZ5w2WZa5QRDui7kE-i9nBWrznWljrMDAO-ly9kZRD8x5YbTkQDPnBNeySHXc9dJMPVyLOJ3eckJWmfkcH4sZnBQ9MP_ijeNIMQORi6i_dly84RyCduRKcTMQqDkRWWjNO8wWyhk1TWimUrp3gAb04EpCwVOwoll3Hbrm7-sFGvLtM1jzZaNURULqBWx7fLr6ybM3LAYQ4eKJuRt4KZKl82xOsVzS6K-JVdbD7UpqlTAXLEtHCCgihoyL6kCzQBYvR6zynSWP4TepqV696hFO81qcRgxaS3mcF2_CM5Gmzi3W41tP9iQUfF4rnOtgUT8u6suMC9Vn_tKwM3-xfWOX5maPMObuG672DnuIa4CQvZGYIMBu_yqMbXNY_F-Pfq8AKDDbGvOIB4-1WdW70gF--JEbyCCcAmZr8YBF7ZOqpmzY0pmMzQ4PFKa8Bn5zVXiI7XxoQA3icpofp0fVx8Pr5pgp2xwb8a4-mmFOHmTf6wTB_EkQsrZ_GiPiC_Rd0OWBWYSHLK1wYK5Eclu-4c3PQJ0T8n0rZcbzE9PFRXhaCe4mCwe24A2XkbYyVsaeMy8p0vluMhcYCwe_wqmeKyQInAODbJ12zgDAWLrOnp-YYb_m4wjlbyPnXKJmWlEkpS95qcftkU5hq_fxk83hV4atPjRL4skXFKpNqjxoiXPih6yLnbZugXgLlRnO6cHs11R-qX1wlDIkYMmtRA2xRTJzAYXLLr4go590dUDyM5Kz7tfcJi-pynMbEM0IiZdEXQpReJC0uGvxydgyL8-5BtGKGHSnS6syqf_0rTcuKR3xaTUTARweNuH0WW8CqDgSWtF_SFvwAHSq12ctVZIWYms2Ms3B6j638OD-6QN",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1790233009.043129,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-next-auth.session-token.1",
+      "value": "6lcQnwMTB6mHl7xQdrtsx-LsELDdyEwey49WHvx_O-FCGpGo6tte8XbPnoy4UPaqCKqd4SIDMMY_P26C4ZZ97RGvbZYKGKfl7w5dZh_LmtYCKnZc20LoES7BU0TU44ks8q0cIxA-r-uZTKiZCjY3fm5Oc5tTIlFKJLxUghIOJp2KuCMmkNlvAjG1kv4t5ztql-rQCezx0Gz_wwYDXI-hIZpHHhs7UEMrVILJyiB1VIb2LWVJzG7KdznNS5r52zrra_uWx5MN2Lv_HkwcPJJBd0r-zergj0t2n5Y4h_1wSzovVjBcE4iAyBnAJ5ptOxK4yHVVALk5FCK7eePuawcjFpX6qr7Y.gr0QAfWa0Yyy34zctGDnUA",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1790233009.043261,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "QC5zCxj1kv0EhTB8Q2eTXzlvqiTnBf8mY6iu5nm0Eco-1782457008.549697-1.0.1.1-OhXmUd0m0Nx8S.uv.0BK5x7bKDBVbjI5SQwVgTC.DoY",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_dd_s",
+      "value": "aid=67452b21-ba87-47c8-8250-dda59d043e0e&rum=0&expire=1782457909518&logs=1&id=53c89b53-ab0d-45bd-bb68-ea3559b4d384&created=1782455749494",
+      "domain": "chatgpt.com",
+      "path": "/",
+      "expires": 1813993009,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_puid",
+      "value": "user-AdO9rOu4i7uFZVxePkGkKIRX:1782457009-3igjRqmb5b%2FhStM028xpwbraZfzQJovFwvn3H12S2XI%3D",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1783061810.074757,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oai-gn",
+      "value": "kunal",
+      "domain": "chatgpt.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oai-client-auth-info",
+      "value": "%7B%22user%22%3A%7B%22name%22%3A%22kunal%20arora%22%2C%22email%22%3A%22kunalar2003%40gmail.com%22%2C%22picture%22%3A%22https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fku.png%22%2C%22connectionType%22%3A2%2C%22timestamp%22%3A1782457010857%7D%2C%22loggedInWithGoogleOneTap%22%3Afalse%2C%22isOptedOut%22%3Afalse%7D",
+      "domain": "chatgpt.com",
+      "path": "/",
+      "expires": 1785049010.858162,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-oai-is",
+      "value": "ois1.eyJ2IjoxLCJhbGciOiJBMjU2R0NNIiwia2lkIjoiY2hhdGdwdC13ZWItdjEifQ.rlvAxk8V4i0Pg5LQ.vNUDoKDFLI-XROJXMLnHfOakfBilGXZVnmbsdVkmw55Y8vJ4dtlhUftDY-ULEdf1292aA7Amj4ERHssQhxVqhhqqCeY5QTEKDzC00kSRPLy047AQMx7ds7RzekQJU5SPqPtJSTL9dYkCuxxs85uq21R98Hcl3-iybDzs5Dv-jON05Rfb0YmYcbrHcpTrxBALPBDuHRt4Sss7uTXgtt2YywfDGQXGpb6o1diz7mrGHO2y1QtW8t4GcNsfEX1Z3fmrrJ8A_7Oo5TVPjlfl-kyVaoNt40SLVl8YtJLGC3TC3lHhEq68lJwKS-o4pVIkBu7JP-Ip7ajvESIjSvCtpkcXrNWE94PmRmK2pZdg1B-vzq17rmuwXYXMxKG2QlhLkbN8YujeJcvD2ndxf90xZlKF0nICWlyrbBrNyPsRYOwEUvT5q_ga2hVFSwey01dHd4VtiXcn_lPppvjU3FWmQiAoHhptmHrweqqDJ4muHwbKUmd_wPw9DK1NmVBDYOvSNQIyOBdgYuDtMBdzQmKJXBjLoTCeNxcxWmbmPSq8enPKWXbuWTvTJARzOaaCJLz-eVhfB-jhnyIBn6J_RUFG57AeN9OLVUc7kEzq4GHopAnxR-TkoG7NyzwLMp0PFbAte3-YTL4sk_zp6UzPA21SYGBq4ZTrPcUa7zrVdFLrSJ2DT_4etgpenyKRgMEjuRrQiyrzHpyMA-MAelfuIUqTazDhvvoZYmgCW1jFCRfyTfawHMMwfKlTpzEJoneqq1kuzSLtSIg9QhSzgZwrn1l-6KqgWw6yTHuqWY5mU5xalPJgzcoFau8XPWvw2SNlM47XOkfDzDNp6sWmFGznrGkkgyMDIsh6sY6SLdNAo4iToZ0_8IF4JCp73nWP7Ivy4ViiYKJhYRq6yf8XzHB71kIm7fqKCV2FgdNsZ8nhGiCfOZ6gQMT2NgqbwpTkvjwV8WFzUyUzvbDE6bga_YWq1Pv984f1OkTraO9YnPoM5VKAwYoAMFkXdWh3gvpr7PUqlZMLCU4a9W8bpUaMwqLzcrMQJvsPLGPRx_q8rSbxfC04GuFbWDgpO3jZ1hZdJ1_6V2vlHeykB_aGNeXZFKYZVQC-8poPcHK8w1Khlx1OUuSEN5aVcP5roSbe50lNRLVPUm3k8mCU7L173qOBxP6mxI2nMxbNsyGF517bSQn9WSmEW_oyFMmBhlFxDQvN5wji77vrpRgbV8ww7ojpWunu7eaoTFwHuPNaQ0EgO0NKb0lXt1fubQJII7DtErYaxs8QWi55Fk7qiKSqV2B0hlEFOdhNx89qx2I7tTz2CYHKI-fxGJbuI5M_7NQqabQ0_TZXZEbAD8-pxRfRUMKJRdIFFOKHIHI8hvttcGRdOZYo62Y1PEGGIS6eC4PhHtZ_zHGQUKhHNajsY3HOtpgDT66tgRz_UvcJFlYF8ZzCLTixXkVkpifsbV6F8bzzh8AMyEbe265VfaLVNOl8-0XDl8VtOkyPABcF1RPGE0AWEheEUu8-qF806OPRDx55nsr3cU3XvtrueCd68lFJ1TzoIipc4x6TNN8J_dNSWpUZ_8yu7qcxkp1UVE8",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1785049011.400483,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oai-sc",
+      "value": "0gAAAAABqPiKzsr56Fe1mQwNLP5qhSMPP-Vl4IptAekpbOsDiGFAZUM7jQ77GSayGq3DjHWD951ISWoU2gUPaBAGFTUtk39qqa7AD3qM1kgOAJxe4WCqdYWvBLoEGQCd_SlQ0sh7mQ4_yGVwWvGVaZwMjxIu-SXAskiiYF_9zLgYWKNWKtewbOTXRlsNoYQxU3ebCwxdy9O5xGoqHuNBe2g0liuWH6eOq2Af3LeJgNVF3Tl62ZB0uCS8",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1813993011.652892,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "c98Nyu9L3IpvyiN_IunNm7esIiL0nOxQNfi56uZGMgk-1782457011-1.0.1.1-AzSSQa8l28xI6rEyDOxpK8UzT6LFpKfrtwuQyVixv5urLzntfYdlKrVGdryqD4XD3OogiT6CVfiwBkvyGrO2JIz9SsZN4bVD9HspuA4VO1o",
+      "domain": ".ws.chatgpt.com",
+      "path": "/",
+      "expires": 1782458811.680375,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "OLOK0_774FtnCgvYvXD2wu9goV9iBrobk_POJIVzFgU-1782457011500-0.0.1.1-604800000",
+      "domain": ".ws.chatgpt.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://chatgpt.com",
+      "localStorage": [
+        {
+          "name": "cache/user-AdO9rOu4i7uFZVxePkGkKIRX/a3475953-1c0a-40c7-8e9b-c7aa3cf083c1/conversation-history",
+          "value": "{\"value\":{\"pages\":[{\"items\":[{\"id\":\"6a3e2170-f9d0-83ee-a521-77e5ce445d1d\",\"title\":\"Capital of Kazakhstan\",\"create_time\":\"2026-06-26T06:51:30.018659Z\",\"update_time\":\"2026-06-26T06:51:33.223803Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e2138-05e8-83ee-9fa9-09787a58aec4\",\"title\":\"Blood Pressure Meds Side Effects\",\"create_time\":\"2026-06-26T06:50:33.770188Z\",\"update_time\":\"2026-06-26T06:50:40.811806Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e213c-1a04-83ee-a8f4-6f80284c8ee0\",\"title\":\"Causes of Chronic Migraines\",\"create_time\":\"2026-06-26T06:50:37.460324Z\",\"update_time\":\"2026-06-26T06:50:39.822323Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e2138-9bb4-83e8-8b6c-a05b43f2a6e1\",\"title\":\"Ibuprofen Dosage for Adults\",\"create_time\":\"2026-06-26T06:50:34.274943Z\",\"update_time\":\"2026-06-26T06:50:37.755524Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e2137-febc-83ee-8542-1d62958123c4\",\"title\":\"Intermittent Fasting and Diabetes\",\"create_time\":\"2026-06-26T06:50:33.569984Z\",\"update_time\":\"2026-06-26T06:50:34.964593Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e2135-d6bc-83ee-a91c-7f8a97ff9dad\",\"title\":\"Vitamin D Deficiency Symptoms\",\"create_time\":\"2026-06-26T06:50:31.052402Z\",\"update_time\":\"2026-06-26T06:50:32.440060Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e20f2-4630-83ee-b4c5-d2740192e0de\",\"title\":\"Water Cycle Explanation\",\"create_time\":\"2026-06-26T06:49:24.573646Z\",\"update_time\":\"2026-06-26T06:49:26.016989Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e20ed-505c-83e8-a0c0-c5110a949b92\",\"title\":\"Pythagorean Theorem Uses\",\"create_time\":\"2026-06-26T06:49:19.474035Z\",\"update_time\":\"2026-06-26T06:49:21.246106Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e20ec-0b24-83e8-bbfc-ada4be158ca9\",\"title\":\"Northern Lights Explanation\",\"create_time\":\"2026-06-26T06:49:17.942882Z\",\"update_time\":\"2026-06-26T06:49:21.238410Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e20ec-a6d0-83ee-ad28-99e6ea89ddd3\",\"title\":\"Quantum entanglement definition\",\"create_time\":\"2026-06-26T06:49:18.677942Z\",\"update_time\":\"2026-06-26T06:49:20.394544Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e20ec-11e8-83ee-8aa0-e05bb482386b\",\"title\":\"WWI End Date\",\"create_time\":\"2026-06-26T06:49:17.842715Z\",\"update_time\":\"2026-06-26T06:49:19.193670Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e20a1-d6e8-83ee-8b00-fd2b1f70f229\",\"title\":\"Fall of Roman Empire\",\"create_time\":\"2026-06-26T06:48:03.258555Z\",\"update_time\":\"2026-06-26T06:48:12.021942Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e20a1-b044-83e8-96f3-39bd8d8f7e43\",\"title\":\"Virus vs Bacterium\",\"create_time\":\"2026-06-26T06:48:02.768481Z\",\"update_time\":\"2026-06-26T06:48:07.823137Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e20a1-e09c-83ee-9f06-f124b21383d5\",\"title\":\"Author of One Hundred Years\",\"create_time\":\"2026-06-26T06:48:03.488310Z\",\"update_time\":\"2026-06-26T06:48:07.077326Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e20a1-dc94-83ee-891c-7ea1657a21ad\",\"title\":\"Photosynthesis Process Explained\",\"create_time\":\"2026-06-26T06:48:02.902256Z\",\"update_time\":\"2026-06-26T06:48:06.750717Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e20a1-dcb0-83ee-a917-28d969e36114\",\"title\":\"Capital of Kazakhstan\",\"create_time\":\"2026-06-26T06:48:02.867064Z\",\"update_time\":\"2026-06-26T06:48:06.507022Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e2069-3eec-83e8-b356-9cb0845de391\",\"title\":\"Virus vs Bacterium Differences\",\"create_time\":\"2026-06-26T06:47:06.416457Z\",\"update_time\":\"2026-06-26T06:47:10.637863Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e201f-a354-83ee-8c7d-30b87d86323f\",\"title\":\"One Hundred Years Author\",\"create_time\":\"2026-06-26T06:45:52.848348Z\",\"update_time\":\"2026-06-26T06:45:56.218346Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1fd7-9da0-83ee-b0f9-763220fa1ee9\",\"title\":\"Photosynthesis Explanation\",\"create_time\":\"2026-06-26T06:44:40.853218Z\",\"update_time\":\"2026-06-26T06:44:42.280246Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1f91-cfbc-83ee-93d2-178b74c0d644\",\"title\":\"Capital of Kazakhstan\",\"create_time\":\"2026-06-26T06:43:30.639345Z\",\"update_time\":\"2026-06-26T06:43:31.479682Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1f37-0e90-83ee-b771-62be3256de1d\",\"title\":\"Virus vs Bacterium\",\"create_time\":\"2026-06-26T06:42:00.164508Z\",\"update_time\":\"2026-06-26T06:42:01.657400Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1990-0db8-83e8-8286-46b61a97e80d\",\"title\":\"Virus vs Bacterium\",\"create_time\":\"2026-06-26T06:18:14.689463Z\",\"update_time\":\"2026-06-26T06:18:19.455138Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3b9a13-f6b0-83ee-84d3-447b57181812\",\"title\":\"SEO Research Reverse-Engineering\",\"create_time\":\"2026-06-24T08:50:57.619176Z\",\"update_time\":\"2026-06-25T05:05:18.584797Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3bda92-1864-83e8-a8fc-d699fdc0e08b\",\"title\":\"Apple Fees for Rent App\",\"create_time\":\"2026-06-24T13:25:20.438876Z\",\"update_time\":\"2026-06-24T13:25:28.656781Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3a7bcf-78dc-83ee-9f81-19ecdb052286\",\"title\":\"Poster Design Request\",\"create_time\":\"2026-06-23T12:31:24.394733Z\",\"update_time\":\"2026-06-24T12:41:04.138490Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3bb2f5-49e0-83ee-a0ed-7a3d3da52b81\",\"title\":\"Gradient Descent Explanation\",\"create_time\":\"2026-06-24T10:35:42.298754Z\",\"update_time\":\"2026-06-24T12:05:06.358113Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3bb262-7aa4-83ee-861a-a948578c7678\",\"title\":\"Best Gaming Mouse Under $100\",\"create_time\":\"2026-06-24T10:33:15.315774Z\",\"update_time\":\"2026-06-24T10:33:27.312042Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3bb186-aadc-83ee-b78b-f25e8d0e4b90\",\"title\":\"Tesla News June 2026\",\"create_time\":\"2026-06-24T10:29:33.339960Z\",\"update_time\":\"2026-06-24T10:29:44.408733Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false}],\"total\":29,\"limit\":28,\"offset\":0}],\"pageParams\":[0]},\"timestamp\":1782457011296,\"version\":1}"
+        },
+        {
+          "name": "oai/apps/hasSeenNoAuthImagegenNux",
+          "value": "false"
+        },
+        {
+          "name": "oai/apps/accountSwitchSessions",
+          "value": "[{\"email\":\"kunalar2003@gmail.com\",\"emailDomainType\":\"social\",\"phoneNumber\":\"+918368273225\",\"sessionToken\":\"eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..E8vG5pSjgX45thCi.Ig_Cf1iXTW1ggnULSJFPXaxObK2fDaZ00BNTpS3aQfjR1HYDe-b-A9loSzcMDnCtdwIINgCdTU40I-TqUHCa1XZYixhF4wLUIsFaAYvvjOZl27czmR9YKuHsSh04BS2hNZNv9KigVp1l9kbYYaLhxQy7fjX2iT089M05VtUAnmCn7woTQyBvpwlapwLEJMAzqVbUWutQzLC_4nrQjDo5XTm1M5Ku2F6vAh6tFvEYv_rn-rhpV7tCodT9lSXVklL1sLuBgyDtXNAH_5y4aB-z7KIfBW8pMamBSUv0N81SmcBZR-qZajspGgNr7itUDJNCXxWUcTDV0kMYgh0F5Y6QZ7r5M4OUS3HtLR9WSMZtzCEdLYbz_SqMeNlCRK5JIRRH_6mGTAUg5wrbcShvuwNm5PXyX-RHB-tN4tyt3UWDwC9OQdJUwqzPDK8f1CUf7vjlFLNfDxhLjiLx38GSIlE4WkYGuUIsIm32_FZFShpjdRqdlQjoO28PtV07jtI4bT2v0US0ULBwbTP7YKZXzykBnA1aEM6RJ40vRubdvoXzVGd1S_dBWPD8rF_Mt-sVQY_K5uVeplmXeL2Au-GQ7IlrhYelH9ni3z6La96wA-ggktG_01wbMKtN292OsdkR6SxLih59r-T5D8VbvMCdaPVVnFO8dm6_r8SWVUFvUfuGve6KZxGW_DDlQfzTtA-hjrgREatZ_V3Mm0Xu67NKi1wMYpIW4gNXeUPWqDN_xBRzQ_wXjZ6bKh1uIOi5Yq7oXjjj_jOFUboRf9_RWRmV6kGphW9wz0jus0Z69pSYn29QXAHONSr5wxY_gJUegE-5NTIXG3kzDneAJEsKt5wUE8nr2zTzVMmsvL6zPZpggACe6aRNPrPGbZBxIO-exyur-nw4yxs6VSl_qHcF4lHPECA85fJoXZqzeSmTzMHyo3FI4whFMgukZPEsI6ROdG6qeeRoNfsfOBOmCrcYtjMsGRy-U03GUz05jxeKjKTd57qjchbZGGDbfioiPoqtUn2IoU8_h5dRioINSabFojAhhqHo_n_OGJO-rDtfIrqqTBzcmpl2Dp4GXkr-N71ygWEvoObIGF-ZDFr78wtUeIj7Wz-S_JjFZhzExUXaS-hChrv_mSbpYfzF9OGYwPz3cHBBBaYsrze96g9KmZfjxINSd6gt7YT1OpUR13xuwh1DOJzx2K3Kp2nbyVWaw6VjVnQob6PkU74o3BKEySICqgtnt12qUajJPtQ9YGdd4RDgn6WtnhPUmTrxO8Q7ckVuaw_XHRBDdycy58Wm25FNHKdnPbKgotP8-__hGdcyVLiVz6Cv8qlrTFm_siey7wo8kHaoYJ8nq2RyNO5aHrrOWUkTX5lUzqvEVjlqlf8FFBY90bcCxyVzWpwpCfEFFk4fE0AoWOdaGenhgiLMIiZ9yl6vwKg_rq8syM65kjPFTScmgFGcKnNe0Oe09gv8Jwrgr3OLXDUcWSq-Pq_nakH-O4QYBk8Bp9u9VBhdhZm7WNowA60neKzSuWTWtK__Uy46pO5JXTzB0VkWjrFCRbwoYDn0bIfWx5K8HqgtBwKgjhOGlNsR60F2WZ-yjUMrvNnFuJG0_NVa9fAxGmF_nVXS3sLxANuRN-S1O05gPMvO-1pWDP361kSuZVbItOZXMkmT3NCtazd4w2AS8MuHa8P7vdjk2YL-5qXEtl0GNgjORK-2iy5Vf2424MGFc6LVnNNy58FvjDv2-u0lECL1RP-BmO9Ym67gJEYhLJHjJVppeRTQRChcixdAyqwtpYOROhNKUvQuVqHLXv_l1JV_h4sKWsL3h8g-PNrQjw1XXKSCoqEgV9zCAFaz_xlA0WZF90gAhyBmfWnuK2jUnMz8sRMm4qJxyY3kgXgdO3A3MQnIMTP8y5RSXo9PVISy9Wu6qDM7QqMNeJMcbNC_WTfvS3Dd9mZLR3g0rpg-iPd3aBCg96jsSa-AWAJsSp8g_OfzLGW4bBcY_e5HHO4zxNL4pFYChhUgDH2df9ONhu5AkV9zGluBzJTQCRBoW7-cg-_LWDPAzKWt71VfrOy_L3Y1YwjjH2sE6E0sfcnFPOvdwsu_gS2Jtkv4ZkDudhFnXkDtwdViltzNcb5ax-7gdgg7ojVBG0V9_aT-c1FYZsK98jCzd9Y-OxORkiXiIb_b5Ud4cpWihwemDVH5dfJ3jCxOW0hQ9GdOBSW4rDk7HLrN6O67XsncVdawcEqTOp42vBe9pALHyh-8haAgVcd2WBF7aqcVsEDK6dSo_6ksxCJV0JxrrwLQvoYHUGCjvN6vJF6HHX-WcP-WlxzOhu8xoy4AegeZt0N9aGZ79kahu2kuskqI-O00ZUU4Ldm9yAYSRJTeGBv9a_5OvipxGJn7CChnqtsMkW7wbaUoEjiQOfbgU6D2iw7_Zx0usiMOGwYtUhp44uCxOZ3MKqF4j1dy4xoJH79l3yqjDQcyAouIfaIRi9JT_XwDrzVSpFg8bEs1_M97KH17WqlJHvgReTcK0Xw3izlIhdreptaYPuoo8KqODkPs9ZTBkVmnA01oNV0i0adsbFB5KBoWbpythuVcvRzH8rkyOFGNqQ-wAfF0M6CZp0vVyDRfyke-_097_8dnBuElwNehIN5I1EkzREwWcp0EaSEkMOZgJ_dwO7sKG_TvxlcSzbAsN_LySucgwcgGL3qZGZTx3PlyPq_ezKDf-nu8HFYg7Gp0sFjCAPhgSAND5JwA2RYZuX5ZYmnuFcmuhTqudtNTO89mnfRFZEHa0zf-WXJTTrG4pPYTxLheEuP3KgN4nn2IMD0Py9NYLrVT9YMFBv0D72LXwsefCWIRVtu-fs6GMSqcFnaOBzhIpWaOz_k4W78UfEPZIGpu0NZGMLAv9HV1RFYG_lshaS1xLkS2xcQ2ymrsMv3631HeJKrOdx2E_yZx_n8XnXjkLFYOmD6DhZ42lHhj_fljV9zb89QMPbnkHU_czc-QaeQKnkiBrtugtyq95Ts9pcwQRp9pnQ4hYDrIZCD4xJnCz4JTzu5zLzyQSRj7MWEXM7X58uHs2AAHS-Fe3rui-reIq1sFMQ7TFNNvI3vDWmzs_OMPPrG1_K0fLidlfgvX_ZiimwzAJ3-vgIdCa0Q65BELtadUNXtxCVzf0AyPzwng_m4RzDXRp-7RdQzoUvWbElbSH6J_DxR3BR3zQgEPQDrmn0l7N-R9GPx16juHnbG8GRzNNojbVRrYMukLy8HahWCV4IRei-JZnonNEW6jpCvVdczarSQho2YotcOPnGz5s0YKyjgY0w81IgMnPgncwgUBal_BLeAj1PpzztdIyI0gf7PEZIYP8Fqbq0kGr0NYctICQKmSn9VQYkcyza0jlTIic_oehjqFuBnhY1h5oUQebDXm04f817Qi6TX1P2GRN_tc15GBhetP_U-VLGpNtV44dXVVZK5ahCQ9O4WHQeq4ytCTrYORRJNN8vPZZScIFGaiKse_TYoykJbfi362IElurxklQEyoI4u5CW39xlq8mWgK1Qn-YozG1H-J2MSiOLxLU_1XrJgcFZrW-1LM528oEK8xXdzeFEfI0vbN_5MwK5-MIqujZtkfyApIdWhxKVm2cAI-bAokSp0sFaIU9GTwKczlfxCVGh9LhzwGGkwI0tCEci_alS9IY6p-ce25sOE1Oh772w_ZtXFxmJTAcXRY-PKFrCCFlRfrAaQEzGx-f4-m_0OId9z0m8K_23Hg4-zwtZfR-67FK58lFK8SY1vDuqUbTzhyXa6p3JrjgGu3kaYkN0IisAhhY7_qXySn0DzFmF2Zxtm9M5nsN3KXeN6ZkCI2-MdmJKLGNIypyAwoXgIVrAJTNf-U3Jd9i_BhTHs6vJnkMgoXdhluDDutjpcZ1cy8WrPsGKonJdyF2AYUEDbK5LkAYdxY2qWryx4qEgsn8q28oQufM3lxJUmukRFLisUr_OSX4kV2AR_dGci24pi_UXABbs_lp-RM8eoR5CgsK69_NeA6CcFwo8dRWTTvMVeGpgfZanQy5khRmrbAUidKIlsTCuhwbMaf6npUgjWYi_WKsStXy6j8P4mrZScN6cZND-nkuqlT47apT9n3Qh3rUJhpy1QEVPrFWHQtSwPLdxjgkhWkxn1O45-MRK1FjTQC4v1hHUixzCLsUqSW1FZ9cplQRVWWOlkNpUIBUYOCC8eyxAbQ_f9_Zq1lGk6Qls9iVsCjpZdnKGdIJYnBQF6lPBIOhlM0v4FL74c.evikoYThE1xs6FOUy5kGAA\",\"lastLoggedInAt\":1782455839000,\"name\":\"kunal arora\",\"userId\":\"user-AdO9rOu4i7uFZVxePkGkKIRX\",\"userImageUrl\":\"https://cdn.auth0.com/avatars/ku.png\",\"authProvider\":\"openai\",\"workspaces\":[{\"workspaceAccountId\":\"a3475953-1c0a-40c7-8e9b-c7aa3cf083c1\",\"isPersonalWorkspace\":true,\"isDeactivated\":false,\"workspaceName\":\"kunal arora\",\"workspaceImageUrl\":\"https://cdn.auth0.com/avatars/ku.png\"}]}]"
+        },
+        {
+          "name": "oai/apps/lastUtmCampaign",
+          "value": "\"\""
+        },
+        {
+          "name": "cache/user-AdO9rOu4i7uFZVxePkGkKIRX/a3475953-1c0a-40c7-8e9b-c7aa3cf083c1/conversation-history-without-projects",
+          "value": "{\"value\":{\"pages\":[{\"items\":[{\"id\":\"6a3e2170-f9d0-83ee-a521-77e5ce445d1d\",\"title\":\"Capital of Kazakhstan\",\"create_time\":\"2026-06-26T06:51:30.018659Z\",\"update_time\":\"2026-06-26T06:51:33.223803Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e2138-05e8-83ee-9fa9-09787a58aec4\",\"title\":\"Blood Pressure Meds Side Effects\",\"create_time\":\"2026-06-26T06:50:33.770188Z\",\"update_time\":\"2026-06-26T06:50:40.811806Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e213c-1a04-83ee-a8f4-6f80284c8ee0\",\"title\":\"Causes of Chronic Migraines\",\"create_time\":\"2026-06-26T06:50:37.460324Z\",\"update_time\":\"2026-06-26T06:50:39.822323Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e2138-9bb4-83e8-8b6c-a05b43f2a6e1\",\"title\":\"Ibuprofen Dosage for Adults\",\"create_time\":\"2026-06-26T06:50:34.274943Z\",\"update_time\":\"2026-06-26T06:50:37.755524Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e2137-febc-83ee-8542-1d62958123c4\",\"title\":\"Intermittent Fasting and Diabetes\",\"create_time\":\"2026-06-26T06:50:33.569984Z\",\"update_time\":\"2026-06-26T06:50:34.964593Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e2135-d6bc-83ee-a91c-7f8a97ff9dad\",\"title\":\"Vitamin D Deficiency Symptoms\",\"create_time\":\"2026-06-26T06:50:31.052402Z\",\"update_time\":\"2026-06-26T06:50:32.440060Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e20f2-4630-83ee-b4c5-d2740192e0de\",\"title\":\"Water Cycle Explanation\",\"create_time\":\"2026-06-26T06:49:24.573646Z\",\"update_time\":\"2026-06-26T06:49:26.016989Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e20ed-505c-83e8-a0c0-c5110a949b92\",\"title\":\"Pythagorean Theorem Uses\",\"create_time\":\"2026-06-26T06:49:19.474035Z\",\"update_time\":\"2026-06-26T06:49:21.246106Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e20ec-0b24-83e8-bbfc-ada4be158ca9\",\"title\":\"Northern Lights Explanation\",\"create_time\":\"2026-06-26T06:49:17.942882Z\",\"update_time\":\"2026-06-26T06:49:21.238410Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e20ec-a6d0-83ee-ad28-99e6ea89ddd3\",\"title\":\"Quantum entanglement definition\",\"create_time\":\"2026-06-26T06:49:18.677942Z\",\"update_time\":\"2026-06-26T06:49:20.394544Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e20ec-11e8-83ee-8aa0-e05bb482386b\",\"title\":\"WWI End Date\",\"create_time\":\"2026-06-26T06:49:17.842715Z\",\"update_time\":\"2026-06-26T06:49:19.193670Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e20a1-d6e8-83ee-8b00-fd2b1f70f229\",\"title\":\"Fall of Roman Empire\",\"create_time\":\"2026-06-26T06:48:03.258555Z\",\"update_time\":\"2026-06-26T06:48:12.021942Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e20a1-b044-83e8-96f3-39bd8d8f7e43\",\"title\":\"Virus vs Bacterium\",\"create_time\":\"2026-06-26T06:48:02.768481Z\",\"update_time\":\"2026-06-26T06:48:07.823137Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e20a1-e09c-83ee-9f06-f124b21383d5\",\"title\":\"Author of One Hundred Years\",\"create_time\":\"2026-06-26T06:48:03.488310Z\",\"update_time\":\"2026-06-26T06:48:07.077326Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e20a1-dc94-83ee-891c-7ea1657a21ad\",\"title\":\"Photosynthesis Process Explained\",\"create_time\":\"2026-06-26T06:48:02.902256Z\",\"update_time\":\"2026-06-26T06:48:06.750717Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e20a1-dcb0-83ee-a917-28d969e36114\",\"title\":\"Capital of Kazakhstan\",\"create_time\":\"2026-06-26T06:48:02.867064Z\",\"update_time\":\"2026-06-26T06:48:06.507022Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e2069-3eec-83e8-b356-9cb0845de391\",\"title\":\"Virus vs Bacterium Differences\",\"create_time\":\"2026-06-26T06:47:06.416457Z\",\"update_time\":\"2026-06-26T06:47:10.637863Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e201f-a354-83ee-8c7d-30b87d86323f\",\"title\":\"One Hundred Years Author\",\"create_time\":\"2026-06-26T06:45:52.848348Z\",\"update_time\":\"2026-06-26T06:45:56.218346Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1fd7-9da0-83ee-b0f9-763220fa1ee9\",\"title\":\"Photosynthesis Explanation\",\"create_time\":\"2026-06-26T06:44:40.853218Z\",\"update_time\":\"2026-06-26T06:44:42.280246Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1f91-cfbc-83ee-93d2-178b74c0d644\",\"title\":\"Capital of Kazakhstan\",\"create_time\":\"2026-06-26T06:43:30.639345Z\",\"update_time\":\"2026-06-26T06:43:31.479682Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1f37-0e90-83ee-b771-62be3256de1d\",\"title\":\"Virus vs Bacterium\",\"create_time\":\"2026-06-26T06:42:00.164508Z\",\"update_time\":\"2026-06-26T06:42:01.657400Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1990-0db8-83e8-8286-46b61a97e80d\",\"title\":\"Virus vs Bacterium\",\"create_time\":\"2026-06-26T06:18:14.689463Z\",\"update_time\":\"2026-06-26T06:18:19.455138Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3b9a13-f6b0-83ee-84d3-447b57181812\",\"title\":\"SEO Research Reverse-Engineering\",\"create_time\":\"2026-06-24T08:50:57.619176Z\",\"update_time\":\"2026-06-25T05:05:18.584797Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3bda92-1864-83e8-a8fc-d699fdc0e08b\",\"title\":\"Apple Fees for Rent App\",\"create_time\":\"2026-06-24T13:25:20.438876Z\",\"update_time\":\"2026-06-24T13:25:28.656781Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3a7bcf-78dc-83ee-9f81-19ecdb052286\",\"title\":\"Poster Design Request\",\"create_time\":\"2026-06-23T12:31:24.394733Z\",\"update_time\":\"2026-06-24T12:41:04.138490Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3bb2f5-49e0-83ee-a0ed-7a3d3da52b81\",\"title\":\"Gradient Descent Explanation\",\"create_time\":\"2026-06-24T10:35:42.298754Z\",\"update_time\":\"2026-06-24T12:05:06.358113Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3bb262-7aa4-83ee-861a-a948578c7678\",\"title\":\"Best Gaming Mouse Under $100\",\"create_time\":\"2026-06-24T10:33:15.315774Z\",\"update_time\":\"2026-06-24T10:33:27.312042Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3bb186-aadc-83ee-b78b-f25e8d0e4b90\",\"title\":\"Tesla News June 2026\",\"create_time\":\"2026-06-24T10:29:33.339960Z\",\"update_time\":\"2026-06-24T10:29:44.408733Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false}],\"total\":29,\"limit\":28,\"offset\":0}],\"pageParams\":[0]},\"timestamp\":1782457012271,\"version\":1}"
+        },
+        {
+          "name": "oai/apps/subscriptionFailedBanner",
+          "value": "null"
+        },
+        {
+          "name": "search.attributions-settings",
+          "value": "{\"state\":{\"debugMode\":false,\"viewModelPredictedFallback\":false,\"disableSegmentReplacement\":false,\"useSigmoid\":true,\"influenceTemperature\":0.2,\"probThreshold\":0.45,\"probBaseline\":0.02},\"version\":8}"
+        },
+        {
+          "name": "_account",
+          "value": "\"a3475953-1c0a-40c7-8e9b-c7aa3cf083c1\""
+        },
+        {
+          "name": "oai/apps/ownerDomainBackfillLastRunAt/user-AdO9rOu4i7uFZVxePkGkKIRX",
+          "value": "1782455841590"
+        },
+        {
+          "name": "oai-did",
+          "value": "\"db92f778-b3f8-4e87-940e-2552b062541b\""
+        },
+        {
+          "name": "cache/user-AdO9rOu4i7uFZVxePkGkKIRX/a3475953-1c0a-40c7-8e9b-c7aa3cf083c1/snorlax-history",
+          "value": "{\"value\":{\"pages\":[{\"cursor\":null,\"items\":[{\"gizmo\":{\"gizmo\":{\"id\":\"g-p-699864b691f48191a3788f45666a7479\",\"organization_id\":\"org-m5Ywkpb1hKSpPaDJHobQXoE5\",\"short_url\":\"g-p-699864b691f48191a3788f45666a7479-sample\",\"author\":{\"user_id\":\"user-AdO9rOu4i7uFZVxePkGkKIRX\",\"user_email\":\"kunalar2003@gmail.com\",\"display_name\":\"kunal arora\",\"link_to\":null,\"is_verified\":false,\"selected_display\":\"name\",\"will_receive_support_emails\":false,\"display_socials\":[]},\"voice\":{\"id\":\"ember\"},\"workspace_id\":null,\"model\":null,\"default_model\":null,\"instructions\":\"take the reference from the excel sheet\",\"display\":{\"name\":\"sample \",\"description\":\"\",\"prompt_starters\":[],\"profile_pic_id\":null,\"profile_picture_url\":null,\"categories\":[],\"emoji\":null,\"theme\":null},\"share_recipient\":\"private\",\"created_at\":\"2026-02-20T13:42:14.570223+00:00\",\"updated_at\":\"2026-02-20T13:43:40.295606+00:00\",\"last_interacted_at\":\"2026-02-20T14:22:40.509191+00:00\",\"num_interactions\":23,\"tags\":[\"private\"],\"is_unassigned\":false,\"version\":3,\"version_author\":null,\"version_created_at\":\"2026-02-20T13:43:39.137838+00:00\",\"version_updated_at\":\"2026-02-20T13:43:40.107174+00:00\",\"live_version\":3,\"training_disabled\":false,\"sharing_targets\":[{\"recipient\":\"private\",\"allowed\":true,\"moderated_fields\":null},{\"recipient\":\"link\",\"allowed\":true,\"moderated_fields\":null}],\"appeal_info\":null,\"vanity_metrics\":{\"num_conversations\":null,\"num_conversations_str\":null,\"created_ago_str\":null,\"review_stats\":null},\"workspace_approval_date\":null,\"workspace_approved\":null,\"sharing\":{\"subjects\":[],\"recipient\":\"private\"},\"current_user_permission\":{\"can_delete\":true,\"can_export\":true,\"can_read\":true,\"can_write\":true,\"can_share\":true,\"can_view_config\":true},\"gizmo_type\":\"snorlax\",\"context_stuffing_budget\":49152,\"use_injest_path\":null,\"conversation_copy_in_progress\":false,\"gizmo_snorlax_type\":null,\"archived_at\":null,\"is_archived\":false,\"memory_enabled\":true,\"memory_scope\":\"global\",\"goal\":null},\"tools\":[],\"files\":[{\"file_response_type\":\"full_file_response\",\"id\":\"699864f8311481918e8cfdafb49e12fb\",\"file_id\":\"file_000000003e207209a1532ec2d65273e9\",\"name\":\"Case Study Question.xlsx\",\"type\":\"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet\",\"size\":31959,\"created_at\":\"2026-02-20T13:43:20.192022+00:00\",\"last_modified\":1771582980684,\"location\":\"fs\",\"metadata\":null,\"library_file_id\":null,\"file_size_tokens\":null}],\"product_features\":{\"attachments\":{\"type\":\"retrieval\",\"accepted_mime_types\":[\"application/haansofthwpx\",\"text/x-rst\",\"application/x-yaml\",\"text/css\",\"application/x-sql\",\"text/rtf\",\"text/javascript\",\"text/x-asm\",\"application/vnd.openxmlformats-officedocument.wordprocessingml.document\",\"text/x-erb\",\"text/x-twig\",\"text/x-astro\",\"text/x-jinja2\",\"text/x-handlebars\",\"text/x-mustache\",\"application/x-hwp+zip\",\"text/x-objectivec\",\"text/x-erlang\",\"text/x-typescript\",\"text/x-c++\",\"application/x-hwp\",\"text/x-julia\",\"text/x-ruby\",\"application/x-hwp-v5\",\"application/vnd.ms-powerpoint\",\"text/x-php\",\"text/x-objectivec++\",\"text/x-shellscript\",\"text/x-vcard\",\"application/x-rust\",\"text/x-makefile\",\"text/x-swift\",\"text/x-elixir\",\"text/x-groovy\",\"text/jsx\",\"text/markdown\",\"application/x-scala\",\"text/x-dart\",\"text/x-lisp\",\"application/vnd.oasis.opendocument.text\",\"text/x-java\",\"text/x-python\",\"application/vnd.apple.keynote\",\"text/x-rust\",\"text/x-csharp\",\"text/x-perl\",\"text/vbscript\",\"text/x-script.python\",\"text/x-diff\",\"text/x-tex\",\"text/x-r\",\"text/x-pug\",\"text/x-sh\",\"application/x-powershell\",\"application/javascript\",\"text/plain\",\"text/x-tmpl\",\"application/json\",\"application/msword\",\"application/haansofthwp\",\"text/x-kotlin\",\"text/x-ejs\",\"text/x-liquid\",\"application/toml\",\"text/x-go\",\"text/x-jade\",\"text/tsx\",\"text/x-scala\",\"text/x-c\",\"text/calendar\",\"text/xml\",\"application/vnd.openxmlformats-officedocument.presentationml.presentation\",\"message/rfc822\",\"application/hwp+zip\",\"text/x-lua\",\"application/pdf\",\"application/rtf\",\"text/x-clojure\",\"text/x-haskell\",\"text/html\",\"application/vnd.hancom.hwpx\",\"application/vnd.apple.pages\"],\"can_accept_all_mime_types\":true,\"image_mime_types\":[\"image/webp\",\"image/png\",\"image/gif\",\"image/jpeg\"]},\"contextual_answers\":null},\"has_tpp_conversation\":false,\"project_file_limits\":null,\"project_connector_scope_limits\":null}},{\"gizmo\":{\"gizmo\":{\"id\":\"g-p-6960dbc401d88191a4b07984a38011fa\",\"organization_id\":\"org-m5Ywkpb1hKSpPaDJHobQXoE5\",\"short_url\":\"g-p-6960dbc401d88191a4b07984a38011fa-writing\",\"author\":{\"user_id\":\"user-AdO9rOu4i7uFZVxePkGkKIRX\",\"user_email\":\"kunalar2003@gmail.com\",\"display_name\":\"kunal arora\",\"link_to\":null,\"is_verified\":false,\"selected_display\":\"name\",\"will_receive_support_emails\":false,\"display_socials\":[]},\"voice\":{\"id\":\"ember\"},\"workspace_id\":null,\"model\":null,\"default_model\":null,\"instructions\":\"you are a prompt engineer you have to design a prompt engineering course so u need to research new tools and generate best 5 generalized industry specific prompts across tech and software, EdTech , FinTech, Marketing and Sales , Health Care industries \\nalso state Best for , strength used of the tools \\nyou have to give 5 prompts for each industry\",\"display\":{\"name\":\"Writing\",\"description\":\"\",\"prompt_starters\":[],\"profile_pic_id\":null,\"profile_picture_url\":null,\"categories\":[],\"emoji\":\"writing\",\"theme\":\"#924FF7\"},\"share_recipient\":\"private\",\"created_at\":\"2026-01-09T10:43:16.007296+00:00\",\"updated_at\":\"2026-01-09T10:47:17.749763+00:00\",\"last_interacted_at\":\"2026-01-09T10:47:59.405940+00:00\",\"num_interactions\":3,\"tags\":[\"private\"],\"is_unassigned\":false,\"version\":4,\"version_author\":null,\"version_created_at\":\"2026-01-09T10:47:16.663117+00:00\",\"version_updated_at\":\"2026-01-09T10:47:17.676165+00:00\",\"live_version\":4,\"training_disabled\":false,\"sharing_targets\":[{\"recipient\":\"private\",\"allowed\":true,\"moderated_fields\":null},{\"recipient\":\"link\",\"allowed\":true,\"moderated_fields\":null}],\"appeal_info\":null,\"vanity_metrics\":{\"num_conversations\":null,\"num_conversations_str\":null,\"created_ago_str\":null,\"review_stats\":null},\"workspace_approval_date\":null,\"workspace_approved\":null,\"sharing\":{\"subjects\":[],\"recipient\":\"private\"},\"current_user_permission\":{\"can_delete\":true,\"can_export\":true,\"can_read\":true,\"can_write\":true,\"can_share\":true,\"can_view_config\":true},\"gizmo_type\":\"snorlax\",\"context_stuffing_budget\":49152,\"use_injest_path\":null,\"conversation_copy_in_progress\":false,\"gizmo_snorlax_type\":null,\"archived_at\":null,\"is_archived\":false,\"memory_enabled\":true,\"memory_scope\":\"global\",\"goal\":null},\"tools\":[],\"files\":[],\"product_features\":{\"attachments\":{\"type\":\"retrieval\",\"accepted_mime_types\":[\"application/haansofthwpx\",\"text/x-rst\",\"application/x-yaml\",\"text/css\",\"application/x-sql\",\"text/rtf\",\"text/javascript\",\"text/x-asm\",\"application/vnd.openxmlformats-officedocument.wordprocessingml.document\",\"text/x-erb\",\"text/x-twig\",\"text/x-astro\",\"text/x-jinja2\",\"text/x-handlebars\",\"text/x-mustache\",\"application/x-hwp+zip\",\"text/x-objectivec\",\"text/x-erlang\",\"text/x-typescript\",\"text/x-c++\",\"application/x-hwp\",\"text/x-julia\",\"text/x-ruby\",\"application/x-hwp-v5\",\"application/vnd.ms-powerpoint\",\"text/x-php\",\"text/x-objectivec++\",\"text/x-shellscript\",\"text/x-vcard\",\"application/x-rust\",\"text/x-makefile\",\"text/x-swift\",\"text/x-elixir\",\"text/x-groovy\",\"text/jsx\",\"text/markdown\",\"application/x-scala\",\"text/x-dart\",\"text/x-lisp\",\"application/vnd.oasis.opendocument.text\",\"text/x-java\",\"text/x-python\",\"application/vnd.apple.keynote\",\"text/x-rust\",\"text/x-csharp\",\"text/x-perl\",\"text/vbscript\",\"text/x-script.python\",\"text/x-diff\",\"text/x-tex\",\"text/x-r\",\"text/x-pug\",\"text/x-sh\",\"application/x-powershell\",\"application/javascript\",\"text/plain\",\"text/x-tmpl\",\"application/json\",\"application/msword\",\"application/haansofthwp\",\"text/x-kotlin\",\"text/x-ejs\",\"text/x-liquid\",\"application/toml\",\"text/x-go\",\"text/x-jade\",\"text/tsx\",\"text/x-scala\",\"text/x-c\",\"text/calendar\",\"text/xml\",\"application/vnd.openxmlformats-officedocument.presentationml.presentation\",\"message/rfc822\",\"application/hwp+zip\",\"text/x-lua\",\"application/pdf\",\"application/rtf\",\"text/x-clojure\",\"text/x-haskell\",\"text/html\",\"application/vnd.hancom.hwpx\",\"application/vnd.apple.pages\"],\"can_accept_all_mime_types\":true,\"image_mime_types\":[\"image/webp\",\"image/png\",\"image/gif\",\"image/jpeg\"]},\"contextual_answers\":null},\"has_tpp_conversation\":false,\"project_file_limits\":null,\"project_connector_scope_limits\":null}},{\"gizmo\":{\"gizmo\":{\"id\":\"g-p-69071b54abbc8191bae49e61f02d0939\",\"organization_id\":\"org-m5Ywkpb1hKSpPaDJHobQXoE5\",\"short_url\":\"g-p-69071b54abbc8191bae49e61f02d0939-new-p\",\"author\":{\"user_id\":\"user-AdO9rOu4i7uFZVxePkGkKIRX\",\"user_email\":\"kunalar2003@gmail.com\",\"display_name\":\"kunal arora\",\"link_to\":null,\"is_verified\":false,\"selected_display\":\"name\",\"will_receive_support_emails\":false,\"display_socials\":[]},\"voice\":{\"id\":\"ember\"},\"workspace_id\":null,\"model\":null,\"default_model\":null,\"instructions\":\"\",\"display\":{\"name\":\"new p\",\"description\":\"\",\"prompt_starters\":[],\"profile_pic_id\":null,\"profile_picture_url\":null,\"categories\":[],\"emoji\":null,\"theme\":null},\"share_recipient\":\"private\",\"created_at\":\"2025-11-02T08:50:28.670907+00:00\",\"updated_at\":\"2025-11-02T08:50:33.172252+00:00\",\"last_interacted_at\":\"2025-11-02T08:57:59.790148+00:00\",\"num_interactions\":3,\"tags\":[\"private\"],\"is_unassigned\":false,\"version\":1,\"version_author\":null,\"version_created_at\":\"2025-11-02T08:50:29.523832+00:00\",\"version_updated_at\":\"2025-11-02T08:50:32.942494+00:00\",\"live_version\":1,\"training_disabled\":false,\"sharing_targets\":[{\"recipient\":\"private\",\"allowed\":true,\"moderated_fields\":null},{\"recipient\":\"link\",\"allowed\":true,\"moderated_fields\":null}],\"appeal_info\":null,\"vanity_metrics\":{\"num_conversations\":null,\"num_conversations_str\":null,\"created_ago_str\":null,\"review_stats\":null},\"workspace_approval_date\":null,\"workspace_approved\":null,\"sharing\":{\"subjects\":[],\"recipient\":\"private\"},\"current_user_permission\":{\"can_delete\":true,\"can_export\":true,\"can_read\":true,\"can_write\":true,\"can_share\":true,\"can_view_config\":true},\"gizmo_type\":\"snorlax\",\"context_stuffing_budget\":49152,\"use_injest_path\":null,\"conversation_copy_in_progress\":false,\"gizmo_snorlax_type\":null,\"archived_at\":null,\"is_archived\":false,\"memory_enabled\":true,\"memory_scope\":\"global\",\"goal\":null},\"tools\":[],\"files\":[],\"product_features\":{\"attachments\":{\"type\":\"retrieval\",\"accepted_mime_types\":[\"application/haansofthwpx\",\"text/x-rst\",\"application/x-yaml\",\"text/css\",\"application/x-sql\",\"text/rtf\",\"text/javascript\",\"text/x-asm\",\"application/vnd.openxmlformats-officedocument.wordprocessingml.document\",\"text/x-erb\",\"text/x-twig\",\"text/x-astro\",\"text/x-jinja2\",\"text/x-handlebars\",\"text/x-mustache\",\"application/x-hwp+zip\",\"text/x-objectivec\",\"text/x-erlang\",\"text/x-typescript\",\"text/x-c++\",\"application/x-hwp\",\"text/x-julia\",\"text/x-ruby\",\"application/x-hwp-v5\",\"application/vnd.ms-powerpoint\",\"text/x-php\",\"text/x-objectivec++\",\"text/x-shellscript\",\"text/x-vcard\",\"application/x-rust\",\"text/x-makefile\",\"text/x-swift\",\"text/x-elixir\",\"text/x-groovy\",\"text/jsx\",\"text/markdown\",\"application/x-scala\",\"text/x-dart\",\"text/x-lisp\",\"application/vnd.oasis.opendocument.text\",\"text/x-java\",\"text/x-python\",\"application/vnd.apple.keynote\",\"text/x-rust\",\"text/x-csharp\",\"text/x-perl\",\"text/vbscript\",\"text/x-script.python\",\"text/x-diff\",\"text/x-tex\",\"text/x-r\",\"text/x-pug\",\"text/x-sh\",\"application/x-powershell\",\"application/javascript\",\"text/plain\",\"text/x-tmpl\",\"application/json\",\"application/msword\",\"application/haansofthwp\",\"text/x-kotlin\",\"text/x-ejs\",\"text/x-liquid\",\"application/toml\",\"text/x-go\",\"text/x-jade\",\"text/tsx\",\"text/x-scala\",\"text/x-c\",\"text/calendar\",\"text/xml\",\"application/vnd.openxmlformats-officedocument.presentationml.presentation\",\"message/rfc822\",\"application/hwp+zip\",\"text/x-lua\",\"application/pdf\",\"application/rtf\",\"text/x-clojure\",\"text/x-haskell\",\"text/html\",\"application/vnd.hancom.hwpx\",\"application/vnd.apple.pages\"],\"can_accept_all_mime_types\":true,\"image_mime_types\":[\"image/webp\",\"image/png\",\"image/gif\",\"image/jpeg\"]},\"contextual_answers\":null},\"has_tpp_conversation\":false,\"project_file_limits\":null,\"project_connector_scope_limits\":null}},{\"gizmo\":{\"gizmo\":{\"id\":\"g-p-68f9ab22ba608191a6e9869778034a5d\",\"organization_id\":\"org-m5Ywkpb1hKSpPaDJHobQXoE5\",\"short_url\":\"g-p-68f9ab22ba608191a6e9869778034a5d-llm\",\"author\":{\"user_id\":\"user-AdO9rOu4i7uFZVxePkGkKIRX\",\"user_email\":\"kunalar2003@gmail.com\",\"display_name\":\"kunal arora\",\"link_to\":null,\"is_verified\":false,\"selected_display\":\"name\",\"will_receive_support_emails\":false,\"display_socials\":[]},\"voice\":{\"id\":\"ember\"},\"workspace_id\":null,\"model\":null,\"default_model\":null,\"instructions\":\"\",\"display\":{\"name\":\"LLM\",\"description\":\"\",\"prompt_starters\":[],\"profile_pic_id\":null,\"profile_picture_url\":null,\"categories\":[],\"emoji\":null,\"theme\":null},\"share_recipient\":\"private\",\"created_at\":\"2025-10-23T04:12:18.728097+00:00\",\"updated_at\":\"2025-10-23T04:12:21.333984+00:00\",\"last_interacted_at\":\"2025-10-23T04:57:56.062383+00:00\",\"num_interactions\":15,\"tags\":[\"private\"],\"is_unassigned\":false,\"version\":1,\"version_author\":null,\"version_created_at\":\"2025-10-23T04:12:19.270577+00:00\",\"version_updated_at\":\"2025-10-23T04:12:21.144662+00:00\",\"live_version\":1,\"training_disabled\":false,\"sharing_targets\":[{\"recipient\":\"private\",\"allowed\":true,\"moderated_fields\":null},{\"recipient\":\"link\",\"allowed\":true,\"moderated_fields\":null}],\"appeal_info\":null,\"vanity_metrics\":{\"num_conversations\":null,\"num_conversations_str\":null,\"created_ago_str\":null,\"review_stats\":null},\"workspace_approval_date\":null,\"workspace_approved\":null,\"sharing\":{\"subjects\":[],\"recipient\":\"private\"},\"current_user_permission\":{\"can_delete\":true,\"can_export\":true,\"can_read\":true,\"can_write\":true,\"can_share\":true,\"can_view_config\":true},\"gizmo_type\":\"snorlax\",\"context_stuffing_budget\":49152,\"use_injest_path\":null,\"conversation_copy_in_progress\":false,\"gizmo_snorlax_type\":null,\"archived_at\":null,\"is_archived\":false,\"memory_enabled\":true,\"memory_scope\":\"global\",\"goal\":null},\"tools\":[],\"files\":[],\"product_features\":{\"attachments\":{\"type\":\"retrieval\",\"accepted_mime_types\":[\"application/haansofthwpx\",\"text/x-rst\",\"application/x-yaml\",\"text/css\",\"application/x-sql\",\"text/rtf\",\"text/javascript\",\"text/x-asm\",\"application/vnd.openxmlformats-officedocument.wordprocessingml.document\",\"text/x-erb\",\"text/x-twig\",\"text/x-astro\",\"text/x-jinja2\",\"text/x-handlebars\",\"text/x-mustache\",\"application/x-hwp+zip\",\"text/x-objectivec\",\"text/x-erlang\",\"text/x-typescript\",\"text/x-c++\",\"application/x-hwp\",\"text/x-julia\",\"text/x-ruby\",\"application/x-hwp-v5\",\"application/vnd.ms-powerpoint\",\"text/x-php\",\"text/x-objectivec++\",\"text/x-shellscript\",\"text/x-vcard\",\"application/x-rust\",\"text/x-makefile\",\"text/x-swift\",\"text/x-elixir\",\"text/x-groovy\",\"text/jsx\",\"text/markdown\",\"application/x-scala\",\"text/x-dart\",\"text/x-lisp\",\"application/vnd.oasis.opendocument.text\",\"text/x-java\",\"text/x-python\",\"application/vnd.apple.keynote\",\"text/x-rust\",\"text/x-csharp\",\"text/x-perl\",\"text/vbscript\",\"text/x-script.python\",\"text/x-diff\",\"text/x-tex\",\"text/x-r\",\"text/x-pug\",\"text/x-sh\",\"application/x-powershell\",\"application/javascript\",\"text/plain\",\"text/x-tmpl\",\"application/json\",\"application/msword\",\"application/haansofthwp\",\"text/x-kotlin\",\"text/x-ejs\",\"text/x-liquid\",\"application/toml\",\"text/x-go\",\"text/x-jade\",\"text/tsx\",\"text/x-scala\",\"text/x-c\",\"text/calendar\",\"text/xml\",\"application/vnd.openxmlformats-officedocument.presentationml.presentation\",\"message/rfc822\",\"application/hwp+zip\",\"text/x-lua\",\"application/pdf\",\"application/rtf\",\"text/x-clojure\",\"text/x-haskell\",\"text/html\",\"application/vnd.hancom.hwpx\",\"application/vnd.apple.pages\"],\"can_accept_all_mime_types\":true,\"image_mime_types\":[\"image/webp\",\"image/png\",\"image/gif\",\"image/jpeg\"]},\"contextual_answers\":null},\"has_tpp_conversation\":false,\"project_file_limits\":null,\"project_connector_scope_limits\":null}},{\"gizmo\":{\"gizmo\":{\"id\":\"g-p-68ef36fac4dc81919768b86e318baecb\",\"organization_id\":\"org-m5Ywkpb1hKSpPaDJHobQXoE5\",\"short_url\":\"g-p-68ef36fac4dc81919768b86e318baecb-resume\",\"author\":{\"user_id\":\"user-AdO9rOu4i7uFZVxePkGkKIRX\",\"user_email\":\"kunalar2003@gmail.com\",\"display_name\":\"kunal arora\",\"link_to\":null,\"is_verified\":false,\"selected_display\":\"name\",\"will_receive_support_emails\":false,\"display_socials\":[]},\"voice\":{\"id\":\"ember\"},\"workspace_id\":null,\"model\":null,\"default_model\":null,\"instructions\":\"\",\"display\":{\"name\":\"resume\",\"description\":\"\",\"prompt_starters\":[],\"profile_pic_id\":null,\"profile_picture_url\":null,\"categories\":[],\"emoji\":null,\"theme\":null},\"share_recipient\":\"private\",\"created_at\":\"2025-10-15T05:54:02.769052+00:00\",\"updated_at\":\"2025-10-15T05:54:05.618731+00:00\",\"last_interacted_at\":\"2025-10-15T12:16:47.916488+00:00\",\"num_interactions\":27,\"tags\":[\"private\"],\"is_unassigned\":false,\"version\":1,\"version_author\":null,\"version_created_at\":\"2025-10-15T05:54:03.425719+00:00\",\"version_updated_at\":\"2025-10-15T05:54:05.374670+00:00\",\"live_version\":1,\"training_disabled\":false,\"sharing_targets\":[{\"recipient\":\"private\",\"allowed\":true,\"moderated_fields\":null},{\"recipient\":\"link\",\"allowed\":true,\"moderated_fields\":null}],\"appeal_info\":null,\"vanity_metrics\":{\"num_conversations\":null,\"num_conversations_str\":null,\"created_ago_str\":null,\"review_stats\":null},\"workspace_approval_date\":null,\"workspace_approved\":null,\"sharing\":{\"subjects\":[],\"recipient\":\"private\"},\"current_user_permission\":{\"can_delete\":true,\"can_export\":true,\"can_read\":true,\"can_write\":true,\"can_share\":true,\"can_view_config\":true},\"gizmo_type\":\"snorlax\",\"context_stuffing_budget\":49152,\"use_injest_path\":null,\"conversation_copy_in_progress\":false,\"gizmo_snorlax_type\":null,\"archived_at\":null,\"is_archived\":false,\"memory_enabled\":true,\"memory_scope\":\"global\",\"goal\":null},\"tools\":[],\"files\":[],\"product_features\":{\"attachments\":{\"type\":\"retrieval\",\"accepted_mime_types\":[\"application/haansofthwpx\",\"text/x-rst\",\"application/x-yaml\",\"text/css\",\"application/x-sql\",\"text/rtf\",\"text/javascript\",\"text/x-asm\",\"application/vnd.openxmlformats-officedocument.wordprocessingml.document\",\"text/x-erb\",\"text/x-twig\",\"text/x-astro\",\"text/x-jinja2\",\"text/x-handlebars\",\"text/x-mustache\",\"application/x-hwp+zip\",\"text/x-objectivec\",\"text/x-erlang\",\"text/x-typescript\",\"text/x-c++\",\"application/x-hwp\",\"text/x-julia\",\"text/x-ruby\",\"application/x-hwp-v5\",\"application/vnd.ms-powerpoint\",\"text/x-php\",\"text/x-objectivec++\",\"text/x-shellscript\",\"text/x-vcard\",\"application/x-rust\",\"text/x-makefile\",\"text/x-swift\",\"text/x-elixir\",\"text/x-groovy\",\"text/jsx\",\"text/markdown\",\"application/x-scala\",\"text/x-dart\",\"text/x-lisp\",\"application/vnd.oasis.opendocument.text\",\"text/x-java\",\"text/x-python\",\"application/vnd.apple.keynote\",\"text/x-rust\",\"text/x-csharp\",\"text/x-perl\",\"text/vbscript\",\"text/x-script.python\",\"text/x-diff\",\"text/x-tex\",\"text/x-r\",\"text/x-pug\",\"text/x-sh\",\"application/x-powershell\",\"application/javascript\",\"text/plain\",\"text/x-tmpl\",\"application/json\",\"application/msword\",\"application/haansofthwp\",\"text/x-kotlin\",\"text/x-ejs\",\"text/x-liquid\",\"application/toml\",\"text/x-go\",\"text/x-jade\",\"text/tsx\",\"text/x-scala\",\"text/x-c\",\"text/calendar\",\"text/xml\",\"application/vnd.openxmlformats-officedocument.presentationml.presentation\",\"message/rfc822\",\"application/hwp+zip\",\"text/x-lua\",\"application/pdf\",\"application/rtf\",\"text/x-clojure\",\"text/x-haskell\",\"text/html\",\"application/vnd.hancom.hwpx\",\"application/vnd.apple.pages\"],\"can_accept_all_mime_types\":true,\"image_mime_types\":[\"image/webp\",\"image/png\",\"image/gif\",\"image/jpeg\"]},\"contextual_answers\":null},\"has_tpp_conversation\":false,\"project_file_limits\":null,\"project_connector_scope_limits\":null}},{\"gizmo\":{\"gizmo\":{\"id\":\"g-p-68558bfe02188191a8f4be4d51e99063\",\"organization_id\":\"org-0QCnCgtkbkP74DdpWMwJkos3\",\"short_url\":\"g-p-68558bfe02188191a8f4be4d51e99063-vocab\",\"author\":{\"user_id\":\"user-AdO9rOu4i7uFZVxePkGkKIRX\",\"user_email\":\"kunalar2003@gmail.com\",\"display_name\":\"kunal arora\",\"link_to\":null,\"is_verified\":false,\"selected_display\":\"name\",\"will_receive_support_emails\":false,\"display_socials\":[]},\"voice\":{\"id\":\"ember\"},\"workspace_id\":null,\"model\":null,\"default_model\":null,\"instructions\":\"\",\"display\":{\"name\":\"vocab\",\"description\":\"\",\"prompt_starters\":[],\"profile_pic_id\":null,\"profile_picture_url\":null,\"categories\":[],\"emoji\":null,\"theme\":null},\"share_recipient\":\"private\",\"created_at\":\"2025-06-20T16:27:42.008262+00:00\",\"updated_at\":\"2025-09-04T21:33:01.585192+00:00\",\"last_interacted_at\":\"2025-10-12T11:18:35.609511+00:00\",\"num_interactions\":64,\"tags\":[\"private\"],\"is_unassigned\":false,\"version\":1,\"version_author\":null,\"version_created_at\":\"2025-06-20T16:27:42.318894+00:00\",\"version_updated_at\":\"2025-06-20T16:27:44.016696+00:00\",\"live_version\":1,\"training_disabled\":false,\"sharing_targets\":[{\"recipient\":\"private\",\"allowed\":true,\"moderated_fields\":null},{\"recipient\":\"link\",\"allowed\":true,\"moderated_fields\":null}],\"appeal_info\":null,\"vanity_metrics\":{\"num_conversations\":null,\"num_conversations_str\":null,\"created_ago_str\":null,\"review_stats\":null},\"workspace_approval_date\":null,\"workspace_approved\":null,\"sharing\":{\"subjects\":[],\"recipient\":\"private\"},\"current_user_permission\":{\"can_delete\":true,\"can_export\":true,\"can_read\":true,\"can_write\":true,\"can_share\":true,\"can_view_config\":true},\"gizmo_type\":\"snorlax\",\"context_stuffing_budget\":49152,\"use_injest_path\":null,\"conversation_copy_in_progress\":false,\"gizmo_snorlax_type\":null,\"archived_at\":null,\"is_archived\":false,\"memory_enabled\":true,\"memory_scope\":\"global\",\"goal\":null},\"tools\":[],\"files\":[],\"product_features\":{\"attachments\":{\"type\":\"retrieval\",\"accepted_mime_types\":[\"application/haansofthwpx\",\"text/x-rst\",\"application/x-yaml\",\"text/css\",\"application/x-sql\",\"text/rtf\",\"text/javascript\",\"text/x-asm\",\"application/vnd.openxmlformats-officedocument.wordprocessingml.document\",\"text/x-erb\",\"text/x-twig\",\"text/x-astro\",\"text/x-jinja2\",\"text/x-handlebars\",\"text/x-mustache\",\"application/x-hwp+zip\",\"text/x-objectivec\",\"text/x-erlang\",\"text/x-typescript\",\"text/x-c++\",\"application/x-hwp\",\"text/x-julia\",\"text/x-ruby\",\"application/x-hwp-v5\",\"application/vnd.ms-powerpoint\",\"text/x-php\",\"text/x-objectivec++\",\"text/x-shellscript\",\"text/x-vcard\",\"application/x-rust\",\"text/x-makefile\",\"text/x-swift\",\"text/x-elixir\",\"text/x-groovy\",\"text/jsx\",\"text/markdown\",\"application/x-scala\",\"text/x-dart\",\"text/x-lisp\",\"application/vnd.oasis.opendocument.text\",\"text/x-java\",\"text/x-python\",\"application/vnd.apple.keynote\",\"text/x-rust\",\"text/x-csharp\",\"text/x-perl\",\"text/vbscript\",\"text/x-script.python\",\"text/x-diff\",\"text/x-tex\",\"text/x-r\",\"text/x-pug\",\"text/x-sh\",\"application/x-powershell\",\"application/javascript\",\"text/plain\",\"text/x-tmpl\",\"application/json\",\"application/msword\",\"application/haansofthwp\",\"text/x-kotlin\",\"text/x-ejs\",\"text/x-liquid\",\"application/toml\",\"text/x-go\",\"text/x-jade\",\"text/tsx\",\"text/x-scala\",\"text/x-c\",\"text/calendar\",\"text/xml\",\"application/vnd.openxmlformats-officedocument.presentationml.presentation\",\"message/rfc822\",\"application/hwp+zip\",\"text/x-lua\",\"application/pdf\",\"application/rtf\",\"text/x-clojure\",\"text/x-haskell\",\"text/html\",\"application/vnd.hancom.hwpx\",\"application/vnd.apple.pages\"],\"can_accept_all_mime_types\":true,\"image_mime_types\":[\"image/webp\",\"image/png\",\"image/gif\",\"image/jpeg\"]},\"contextual_answers\":null},\"has_tpp_conversation\":false,\"project_file_limits\":null,\"project_connector_scope_limits\":null}},{\"gizmo\":{\"gizmo\":{\"id\":\"g-p-68baa4655a0c819180d746a9dc433793\",\"organization_id\":\"org-m5Ywkpb1hKSpPaDJHobQXoE5\",\"short_url\":\"g-p-68baa4655a0c819180d746a9dc433793-llm-interview\",\"author\":{\"user_id\":\"user-AdO9rOu4i7uFZVxePkGkKIRX\",\"user_email\":\"kunalar2003@gmail.com\",\"display_name\":\"kunal arora\",\"link_to\":null,\"is_verified\":false,\"selected_display\":\"name\",\"will_receive_support_emails\":false,\"display_socials\":[]},\"voice\":{\"id\":\"ember\"},\"workspace_id\":null,\"model\":null,\"default_model\":null,\"instructions\":\"\",\"display\":{\"name\":\"llm interview\",\"description\":\"\",\"prompt_starters\":[],\"profile_pic_id\":null,\"profile_picture_url\":null,\"categories\":[],\"emoji\":null,\"theme\":null},\"share_recipient\":\"private\",\"created_at\":\"2025-09-05T08:50:45.351835+00:00\",\"updated_at\":\"2025-09-05T08:50:49.942299+00:00\",\"last_interacted_at\":\"2025-10-11T07:52:06.039845+00:00\",\"num_interactions\":69,\"tags\":[\"private\"],\"is_unassigned\":false,\"version\":1,\"version_author\":null,\"version_created_at\":\"2025-09-05T08:50:45.986644+00:00\",\"version_updated_at\":\"2025-09-05T08:50:49.726319+00:00\",\"live_version\":1,\"training_disabled\":false,\"sharing_targets\":[{\"recipient\":\"private\",\"allowed\":true,\"moderated_fields\":null},{\"recipient\":\"link\",\"allowed\":true,\"moderated_fields\":null}],\"appeal_info\":null,\"vanity_metrics\":{\"num_conversations\":null,\"num_conversations_str\":null,\"created_ago_str\":null,\"review_stats\":null},\"workspace_approval_date\":null,\"workspace_approved\":null,\"sharing\":{\"subjects\":[],\"recipient\":\"private\"},\"current_user_permission\":{\"can_delete\":true,\"can_export\":true,\"can_read\":true,\"can_write\":true,\"can_share\":true,\"can_view_config\":true},\"gizmo_type\":\"snorlax\",\"context_stuffing_budget\":49152,\"use_injest_path\":null,\"conversation_copy_in_progress\":false,\"gizmo_snorlax_type\":null,\"archived_at\":null,\"is_archived\":false,\"memory_enabled\":true,\"memory_scope\":\"global\",\"goal\":null},\"tools\":[],\"files\":[],\"product_features\":{\"attachments\":{\"type\":\"retrieval\",\"accepted_mime_types\":[\"application/haansofthwpx\",\"text/x-rst\",\"application/x-yaml\",\"text/css\",\"application/x-sql\",\"text/rtf\",\"text/javascript\",\"text/x-asm\",\"application/vnd.openxmlformats-officedocument.wordprocessingml.document\",\"text/x-erb\",\"text/x-twig\",\"text/x-astro\",\"text/x-jinja2\",\"text/x-handlebars\",\"text/x-mustache\",\"application/x-hwp+zip\",\"text/x-objectivec\",\"text/x-erlang\",\"text/x-typescript\",\"text/x-c++\",\"application/x-hwp\",\"text/x-julia\",\"text/x-ruby\",\"application/x-hwp-v5\",\"application/vnd.ms-powerpoint\",\"text/x-php\",\"text/x-objectivec++\",\"text/x-shellscript\",\"text/x-vcard\",\"application/x-rust\",\"text/x-makefile\",\"text/x-swift\",\"text/x-elixir\",\"text/x-groovy\",\"text/jsx\",\"text/markdown\",\"application/x-scala\",\"text/x-dart\",\"text/x-lisp\",\"application/vnd.oasis.opendocument.text\",\"text/x-java\",\"text/x-python\",\"application/vnd.apple.keynote\",\"text/x-rust\",\"text/x-csharp\",\"text/x-perl\",\"text/vbscript\",\"text/x-script.python\",\"text/x-diff\",\"text/x-tex\",\"text/x-r\",\"text/x-pug\",\"text/x-sh\",\"application/x-powershell\",\"application/javascript\",\"text/plain\",\"text/x-tmpl\",\"application/json\",\"application/msword\",\"application/haansofthwp\",\"text/x-kotlin\",\"text/x-ejs\",\"text/x-liquid\",\"application/toml\",\"text/x-go\",\"text/x-jade\",\"text/tsx\",\"text/x-scala\",\"text/x-c\",\"text/calendar\",\"text/xml\",\"application/vnd.openxmlformats-officedocument.presentationml.presentation\",\"message/rfc822\",\"application/hwp+zip\",\"text/x-lua\",\"application/pdf\",\"application/rtf\",\"text/x-clojure\",\"text/x-haskell\",\"text/html\",\"application/vnd.hancom.hwpx\",\"application/vnd.apple.pages\"],\"can_accept_all_mime_types\":true,\"image_mime_types\":[\"image/webp\",\"image/png\",\"image/gif\",\"image/jpeg\"]},\"contextual_answers\":null},\"has_tpp_conversation\":false,\"project_file_limits\":null,\"project_connector_scope_limits\":null}},{\"gizmo\":{\"gizmo\":{\"id\":\"g-p-68722a9456908191b1f95c3e3011a2d9\",\"organization_id\":\"org-m5Ywkpb1hKSpPaDJHobQXoE5\",\"short_url\":\"g-p-68722a9456908191b1f95c3e3011a2d9-infosys\",\"author\":{\"user_id\":\"user-AdO9rOu4i7uFZVxePkGkKIRX\",\"user_email\":\"kunalar2003@gmail.com\",\"display_name\":\"kunal arora\",\"link_to\":null,\"is_verified\":false,\"selected_display\":\"name\",\"will_receive_support_emails\":false,\"display_socials\":[]},\"voice\":{\"id\":\"ember\"},\"workspace_id\":null,\"model\":null,\"default_model\":null,\"instructions\":\"\",\"display\":{\"name\":\"Infosys\",\"description\":\"\",\"prompt_starters\":null,\"profile_pic_id\":null,\"profile_picture_url\":null,\"categories\":[],\"emoji\":null,\"theme\":null},\"share_recipient\":\"private\",\"created_at\":\"2025-07-12T09:27:48.338227+00:00\",\"updated_at\":\"2025-09-04T21:33:01.454812+00:00\",\"last_interacted_at\":\"2025-09-26T05:32:47.560684+00:00\",\"num_interactions\":152,\"tags\":[\"private\"],\"is_unassigned\":false,\"version\":1,\"version_author\":null,\"version_created_at\":\"2025-07-12T09:27:48.540473+00:00\",\"version_updated_at\":\"2025-07-12T09:27:49.254136+00:00\",\"live_version\":1,\"training_disabled\":null,\"sharing_targets\":[{\"recipient\":\"private\",\"allowed\":true,\"moderated_fields\":null},{\"recipient\":\"link\",\"allowed\":true,\"moderated_fields\":null}],\"appeal_info\":null,\"vanity_metrics\":{\"num_conversations\":null,\"num_conversations_str\":null,\"created_ago_str\":null,\"review_stats\":null},\"workspace_approval_date\":null,\"workspace_approved\":null,\"sharing\":{\"subjects\":[],\"recipient\":\"private\"},\"current_user_permission\":{\"can_delete\":true,\"can_export\":true,\"can_read\":true,\"can_write\":true,\"can_share\":true,\"can_view_config\":true},\"gizmo_type\":\"snorlax\",\"context_stuffing_budget\":49152,\"use_injest_path\":null,\"conversation_copy_in_progress\":false,\"gizmo_snorlax_type\":null,\"archived_at\":null,\"is_archived\":false,\"memory_enabled\":true,\"memory_scope\":\"global\",\"goal\":null},\"tools\":[],\"files\":[],\"product_features\":{\"attachments\":{\"type\":\"retrieval\",\"accepted_mime_types\":[\"application/haansofthwpx\",\"text/x-rst\",\"application/x-yaml\",\"text/css\",\"application/x-sql\",\"text/rtf\",\"text/javascript\",\"text/x-asm\",\"application/vnd.openxmlformats-officedocument.wordprocessingml.document\",\"text/x-erb\",\"text/x-twig\",\"text/x-astro\",\"text/x-jinja2\",\"text/x-handlebars\",\"text/x-mustache\",\"application/x-hwp+zip\",\"text/x-objectivec\",\"text/x-erlang\",\"text/x-typescript\",\"text/x-c++\",\"application/x-hwp\",\"text/x-julia\",\"text/x-ruby\",\"application/x-hwp-v5\",\"application/vnd.ms-powerpoint\",\"text/x-php\",\"text/x-objectivec++\",\"text/x-shellscript\",\"text/x-vcard\",\"application/x-rust\",\"text/x-makefile\",\"text/x-swift\",\"text/x-elixir\",\"text/x-groovy\",\"text/jsx\",\"text/markdown\",\"application/x-scala\",\"text/x-dart\",\"text/x-lisp\",\"application/vnd.oasis.opendocument.text\",\"text/x-java\",\"text/x-python\",\"application/vnd.apple.keynote\",\"text/x-rust\",\"text/x-csharp\",\"text/x-perl\",\"text/vbscript\",\"text/x-script.python\",\"text/x-diff\",\"text/x-tex\",\"text/x-r\",\"text/x-pug\",\"text/x-sh\",\"application/x-powershell\",\"application/javascript\",\"text/plain\",\"text/x-tmpl\",\"application/json\",\"application/msword\",\"application/haansofthwp\",\"text/x-kotlin\",\"text/x-ejs\",\"text/x-liquid\",\"application/toml\",\"text/x-go\",\"text/x-jade\",\"text/tsx\",\"text/x-scala\",\"text/x-c\",\"text/calendar\",\"text/xml\",\"application/vnd.openxmlformats-officedocument.presentationml.presentation\",\"message/rfc822\",\"application/hwp+zip\",\"text/x-lua\",\"application/pdf\",\"application/rtf\",\"text/x-clojure\",\"text/x-haskell\",\"text/html\",\"application/vnd.hancom.hwpx\",\"application/vnd.apple.pages\"],\"can_accept_all_mime_types\":true,\"image_mime_types\":[\"image/webp\",\"image/png\",\"image/gif\",\"image/jpeg\"]},\"contextual_answers\":null},\"has_tpp_conversation\":false,\"project_file_limits\":null,\"project_connector_scope_limits\":null}},{\"gizmo\":{\"gizmo\":{\"id\":\"g-p-68c30e5330248191995c4396895ccf68\",\"organization_id\":\"org-m5Ywkpb1hKSpPaDJHobQXoE5\",\"short_url\":\"g-p-68c30e5330248191995c4396895ccf68-ppg\",\"author\":{\"user_id\":\"user-AdO9rOu4i7uFZVxePkGkKIRX\",\"user_email\":\"kunalar2003@gmail.com\",\"display_name\":\"kunal arora\",\"link_to\":null,\"is_verified\":false,\"selected_display\":\"name\",\"will_receive_support_emails\":false,\"display_socials\":[]},\"voice\":{\"id\":\"ember\"},\"workspace_id\":null,\"model\":null,\"default_model\":null,\"instructions\":\"\",\"display\":{\"name\":\"ppg\",\"description\":\"\",\"prompt_starters\":[],\"profile_pic_id\":null,\"profile_picture_url\":null,\"categories\":[],\"emoji\":null,\"theme\":null},\"share_recipient\":\"private\",\"created_at\":\"2025-09-11T18:00:51.188208+00:00\",\"updated_at\":\"2025-09-12T15:02:39.522395+00:00\",\"last_interacted_at\":\"2025-09-12T20:37:06.840109+00:00\",\"num_interactions\":38,\"tags\":[\"private\"],\"is_unassigned\":false,\"version\":4,\"version_author\":null,\"version_created_at\":\"2025-09-12T15:02:35.410189+00:00\",\"version_updated_at\":\"2025-09-12T15:02:39.291256+00:00\",\"live_version\":4,\"training_disabled\":false,\"sharing_targets\":[{\"recipient\":\"private\",\"allowed\":true,\"moderated_fields\":null},{\"recipient\":\"link\",\"allowed\":true,\"moderated_fields\":null}],\"appeal_info\":null,\"vanity_metrics\":{\"num_conversations\":null,\"num_conversations_str\":null,\"created_ago_str\":null,\"review_stats\":null},\"workspace_approval_date\":null,\"workspace_approved\":null,\"sharing\":{\"subjects\":[],\"recipient\":\"private\"},\"current_user_permission\":{\"can_delete\":true,\"can_export\":true,\"can_read\":true,\"can_write\":true,\"can_share\":true,\"can_view_config\":true},\"gizmo_type\":\"snorlax\",\"context_stuffing_budget\":49152,\"use_injest_path\":null,\"conversation_copy_in_progress\":false,\"gizmo_snorlax_type\":null,\"archived_at\":null,\"is_archived\":false,\"memory_enabled\":true,\"memory_scope\":\"global\",\"goal\":null},\"tools\":[],\"files\":[],\"product_features\":{\"attachments\":{\"type\":\"retrieval\",\"accepted_mime_types\":[\"application/haansofthwpx\",\"text/x-rst\",\"application/x-yaml\",\"text/css\",\"application/x-sql\",\"text/rtf\",\"text/javascript\",\"text/x-asm\",\"application/vnd.openxmlformats-officedocument.wordprocessingml.document\",\"text/x-erb\",\"text/x-twig\",\"text/x-astro\",\"text/x-jinja2\",\"text/x-handlebars\",\"text/x-mustache\",\"application/x-hwp+zip\",\"text/x-objectivec\",\"text/x-erlang\",\"text/x-typescript\",\"text/x-c++\",\"application/x-hwp\",\"text/x-julia\",\"text/x-ruby\",\"application/x-hwp-v5\",\"application/vnd.ms-powerpoint\",\"text/x-php\",\"text/x-objectivec++\",\"text/x-shellscript\",\"text/x-vcard\",\"application/x-rust\",\"text/x-makefile\",\"text/x-swift\",\"text/x-elixir\",\"text/x-groovy\",\"text/jsx\",\"text/markdown\",\"application/x-scala\",\"text/x-dart\",\"text/x-lisp\",\"application/vnd.oasis.opendocument.text\",\"text/x-java\",\"text/x-python\",\"application/vnd.apple.keynote\",\"text/x-rust\",\"text/x-csharp\",\"text/x-perl\",\"text/vbscript\",\"text/x-script.python\",\"text/x-diff\",\"text/x-tex\",\"text/x-r\",\"text/x-pug\",\"text/x-sh\",\"application/x-powershell\",\"application/javascript\",\"text/plain\",\"text/x-tmpl\",\"application/json\",\"application/msword\",\"application/haansofthwp\",\"text/x-kotlin\",\"text/x-ejs\",\"text/x-liquid\",\"application/toml\",\"text/x-go\",\"text/x-jade\",\"text/tsx\",\"text/x-scala\",\"text/x-c\",\"text/calendar\",\"text/xml\",\"application/vnd.openxmlformats-officedocument.presentationml.presentation\",\"message/rfc822\",\"application/hwp+zip\",\"text/x-lua\",\"application/pdf\",\"application/rtf\",\"text/x-clojure\",\"text/x-haskell\",\"text/html\",\"application/vnd.hancom.hwpx\",\"application/vnd.apple.pages\"],\"can_accept_all_mime_types\":true,\"image_mime_types\":[\"image/webp\",\"image/png\",\"image/gif\",\"image/jpeg\"]},\"contextual_answers\":null},\"has_tpp_conversation\":false,\"project_file_limits\":null,\"project_connector_scope_limits\":null}},{\"gizmo\":{\"gizmo\":{\"id\":\"g-p-6845881b285081919d5b04a89531a45b\",\"organization_id\":\"org-0QCnCgtkbkP74DdpWMwJkos3\",\"short_url\":\"g-p-6845881b285081919d5b04a89531a45b-cloud-native-solution\",\"author\":{\"user_id\":\"user-AdO9rOu4i7uFZVxePkGkKIRX\",\"user_email\":\"kunalar2003@gmail.com\",\"display_name\":\"kunal arora\",\"link_to\":null,\"is_verified\":false,\"selected_display\":\"name\",\"will_receive_support_emails\":false,\"display_socials\":[]},\"voice\":{\"id\":\"ember\"},\"workspace_id\":null,\"model\":null,\"default_model\":null,\"instructions\":\"\",\"display\":{\"name\":\"cloud native solution\",\"description\":\"\",\"prompt_starters\":[],\"profile_pic_id\":null,\"profile_picture_url\":null,\"categories\":[],\"emoji\":null,\"theme\":null},\"share_recipient\":\"private\",\"created_at\":\"2025-06-08T12:54:51.157670+00:00\",\"updated_at\":\"2025-09-04T21:30:58.660770+00:00\",\"last_interacted_at\":\"2025-09-09T16:06:42.085410+00:00\",\"num_interactions\":276,\"tags\":[\"private\"],\"is_unassigned\":false,\"version\":1,\"version_author\":null,\"version_created_at\":\"2025-06-08T12:54:51.294841+00:00\",\"version_updated_at\":\"2025-06-08T12:54:52.323497+00:00\",\"live_version\":1,\"training_disabled\":false,\"sharing_targets\":[{\"recipient\":\"private\",\"allowed\":true,\"moderated_fields\":null},{\"recipient\":\"link\",\"allowed\":true,\"moderated_fields\":null}],\"appeal_info\":null,\"vanity_metrics\":{\"num_conversations\":null,\"num_conversations_str\":null,\"created_ago_str\":null,\"review_stats\":null},\"workspace_approval_date\":null,\"workspace_approved\":null,\"sharing\":{\"subjects\":[],\"recipient\":\"private\"},\"current_user_permission\":{\"can_delete\":true,\"can_export\":true,\"can_read\":true,\"can_write\":true,\"can_share\":true,\"can_view_config\":true},\"gizmo_type\":\"snorlax\",\"context_stuffing_budget\":49152,\"use_injest_path\":null,\"conversation_copy_in_progress\":false,\"gizmo_snorlax_type\":null,\"archived_at\":null,\"is_archived\":false,\"memory_enabled\":true,\"memory_scope\":\"global\",\"goal\":null},\"tools\":[],\"files\":[],\"product_features\":{\"attachments\":{\"type\":\"retrieval\",\"accepted_mime_types\":[\"application/haansofthwpx\",\"text/x-rst\",\"application/x-yaml\",\"text/css\",\"application/x-sql\",\"text/rtf\",\"text/javascript\",\"text/x-asm\",\"application/vnd.openxmlformats-officedocument.wordprocessingml.document\",\"text/x-erb\",\"text/x-twig\",\"text/x-astro\",\"text/x-jinja2\",\"text/x-handlebars\",\"text/x-mustache\",\"application/x-hwp+zip\",\"text/x-objectivec\",\"text/x-erlang\",\"text/x-typescript\",\"text/x-c++\",\"application/x-hwp\",\"text/x-julia\",\"text/x-ruby\",\"application/x-hwp-v5\",\"application/vnd.ms-powerpoint\",\"text/x-php\",\"text/x-objectivec++\",\"text/x-shellscript\",\"text/x-vcard\",\"application/x-rust\",\"text/x-makefile\",\"text/x-swift\",\"text/x-elixir\",\"text/x-groovy\",\"text/jsx\",\"text/markdown\",\"application/x-scala\",\"text/x-dart\",\"text/x-lisp\",\"application/vnd.oasis.opendocument.text\",\"text/x-java\",\"text/x-python\",\"application/vnd.apple.keynote\",\"text/x-rust\",\"text/x-csharp\",\"text/x-perl\",\"text/vbscript\",\"text/x-script.python\",\"text/x-diff\",\"text/x-tex\",\"text/x-r\",\"text/x-pug\",\"text/x-sh\",\"application/x-powershell\",\"application/javascript\",\"text/plain\",\"text/x-tmpl\",\"application/json\",\"application/msword\",\"application/haansofthwp\",\"text/x-kotlin\",\"text/x-ejs\",\"text/x-liquid\",\"application/toml\",\"text/x-go\",\"text/x-jade\",\"text/tsx\",\"text/x-scala\",\"text/x-c\",\"text/calendar\",\"text/xml\",\"application/vnd.openxmlformats-officedocument.presentationml.presentation\",\"message/rfc822\",\"application/hwp+zip\",\"text/x-lua\",\"application/pdf\",\"application/rtf\",\"text/x-clojure\",\"text/x-haskell\",\"text/html\",\"application/vnd.hancom.hwpx\",\"application/vnd.apple.pages\"],\"can_accept_all_mime_types\":true,\"image_mime_types\":[\"image/webp\",\"image/png\",\"image/gif\",\"image/jpeg\"]},\"contextual_answers\":null},\"has_tpp_conversation\":false,\"project_file_limits\":null,\"project_connector_scope_limits\":null}},{\"gizmo\":{\"gizmo\":{\"id\":\"g-p-68b747fcf5448191aa8ce5678955b8f1\",\"organization_id\":\"org-m5Ywkpb1hKSpPaDJHobQXoE5\",\"short_url\":\"g-p-68b747fcf5448191aa8ce5678955b8f1-sdg\",\"author\":{\"user_id\":\"user-AdO9rOu4i7uFZVxePkGkKIRX\",\"user_email\":\"kunalar2003@gmail.com\",\"display_name\":\"kunal arora\",\"link_to\":null,\"is_verified\":false,\"selected_display\":\"name\",\"will_receive_support_emails\":false,\"display_socials\":[]},\"voice\":{\"id\":\"ember\"},\"workspace_id\":null,\"model\":null,\"default_model\":null,\"instructions\":\"\",\"display\":{\"name\":\"sdg\",\"description\":\"\",\"prompt_starters\":[],\"profile_pic_id\":null,\"profile_picture_url\":null,\"categories\":[],\"emoji\":null,\"theme\":null},\"share_recipient\":\"private\",\"created_at\":\"2025-09-02T19:39:40.958170+00:00\",\"updated_at\":\"2025-09-02T19:39:46.467820+00:00\",\"last_interacted_at\":\"2025-09-05T09:34:14.378049+00:00\",\"num_interactions\":50,\"tags\":[\"private\"],\"is_unassigned\":false,\"version\":1,\"version_author\":null,\"version_created_at\":\"2025-09-02T19:39:41.681528+00:00\",\"version_updated_at\":\"2025-09-02T19:39:45.980464+00:00\",\"live_version\":1,\"training_disabled\":false,\"sharing_targets\":[{\"recipient\":\"private\",\"allowed\":true,\"moderated_fields\":null},{\"recipient\":\"link\",\"allowed\":true,\"moderated_fields\":null}],\"appeal_info\":null,\"vanity_metrics\":{\"num_conversations\":null,\"num_conversations_str\":null,\"created_ago_str\":null,\"review_stats\":null},\"workspace_approval_date\":null,\"workspace_approved\":null,\"sharing\":{\"subjects\":[],\"recipient\":\"private\"},\"current_user_permission\":{\"can_delete\":true,\"can_export\":true,\"can_read\":true,\"can_write\":true,\"can_share\":true,\"can_view_config\":true},\"gizmo_type\":\"snorlax\",\"context_stuffing_budget\":49152,\"use_injest_path\":null,\"conversation_copy_in_progress\":false,\"gizmo_snorlax_type\":null,\"archived_at\":null,\"is_archived\":false,\"memory_enabled\":true,\"memory_scope\":\"global\",\"goal\":null},\"tools\":[],\"files\":[],\"product_features\":{\"attachments\":{\"type\":\"retrieval\",\"accepted_mime_types\":[\"application/haansofthwpx\",\"text/x-rst\",\"application/x-yaml\",\"text/css\",\"application/x-sql\",\"text/rtf\",\"text/javascript\",\"text/x-asm\",\"application/vnd.openxmlformats-officedocument.wordprocessingml.document\",\"text/x-erb\",\"text/x-twig\",\"text/x-astro\",\"text/x-jinja2\",\"text/x-handlebars\",\"text/x-mustache\",\"application/x-hwp+zip\",\"text/x-objectivec\",\"text/x-erlang\",\"text/x-typescript\",\"text/x-c++\",\"application/x-hwp\",\"text/x-julia\",\"text/x-ruby\",\"application/x-hwp-v5\",\"application/vnd.ms-powerpoint\",\"text/x-php\",\"text/x-objectivec++\",\"text/x-shellscript\",\"text/x-vcard\",\"application/x-rust\",\"text/x-makefile\",\"text/x-swift\",\"text/x-elixir\",\"text/x-groovy\",\"text/jsx\",\"text/markdown\",\"application/x-scala\",\"text/x-dart\",\"text/x-lisp\",\"application/vnd.oasis.opendocument.text\",\"text/x-java\",\"text/x-python\",\"application/vnd.apple.keynote\",\"text/x-rust\",\"text/x-csharp\",\"text/x-perl\",\"text/vbscript\",\"text/x-script.python\",\"text/x-diff\",\"text/x-tex\",\"text/x-r\",\"text/x-pug\",\"text/x-sh\",\"application/x-powershell\",\"application/javascript\",\"text/plain\",\"text/x-tmpl\",\"application/json\",\"application/msword\",\"application/haansofthwp\",\"text/x-kotlin\",\"text/x-ejs\",\"text/x-liquid\",\"application/toml\",\"text/x-go\",\"text/x-jade\",\"text/tsx\",\"text/x-scala\",\"text/x-c\",\"text/calendar\",\"text/xml\",\"application/vnd.openxmlformats-officedocument.presentationml.presentation\",\"message/rfc822\",\"application/hwp+zip\",\"text/x-lua\",\"application/pdf\",\"application/rtf\",\"text/x-clojure\",\"text/x-haskell\",\"text/html\",\"application/vnd.hancom.hwpx\",\"application/vnd.apple.pages\"],\"can_accept_all_mime_types\":true,\"image_mime_types\":[\"image/webp\",\"image/png\",\"image/gif\",\"image/jpeg\"]},\"contextual_answers\":null},\"has_tpp_conversation\":false,\"project_file_limits\":null,\"project_connector_scope_limits\":null}},{\"gizmo\":{\"gizmo\":{\"id\":\"g-p-68b5997164d08191954cbdfc42d2b67a\",\"organization_id\":\"org-m5Ywkpb1hKSpPaDJHobQXoE5\",\"short_url\":\"g-p-68b5997164d08191954cbdfc42d2b67a-llm-interview\",\"author\":{\"user_id\":\"user-AdO9rOu4i7uFZVxePkGkKIRX\",\"user_email\":\"kunalar2003@gmail.com\",\"display_name\":\"kunal arora\",\"link_to\":null,\"is_verified\":false,\"selected_display\":\"name\",\"will_receive_support_emails\":false,\"display_socials\":[]},\"voice\":{\"id\":\"ember\"},\"workspace_id\":null,\"model\":null,\"default_model\":null,\"instructions\":\"\",\"display\":{\"name\":\"LLM Interview\",\"description\":\"\",\"prompt_starters\":[],\"profile_pic_id\":null,\"profile_picture_url\":null,\"categories\":[],\"emoji\":null,\"theme\":null},\"share_recipient\":\"private\",\"created_at\":\"2025-09-01T13:02:41.393930+00:00\",\"updated_at\":\"2025-09-01T13:02:42.524224+00:00\",\"last_interacted_at\":\"2025-09-02T06:37:32.762025+00:00\",\"num_interactions\":54,\"tags\":[\"private\"],\"is_unassigned\":false,\"version\":1,\"version_author\":null,\"version_created_at\":\"2025-09-01T13:02:41.524416+00:00\",\"version_updated_at\":\"2025-09-01T13:02:42.462096+00:00\",\"live_version\":1,\"training_disabled\":false,\"sharing_targets\":[{\"recipient\":\"private\",\"allowed\":true,\"moderated_fields\":null},{\"recipient\":\"link\",\"allowed\":true,\"moderated_fields\":null}],\"appeal_info\":null,\"vanity_metrics\":{\"num_conversations\":null,\"num_conversations_str\":null,\"created_ago_str\":null,\"review_stats\":null},\"workspace_approval_date\":null,\"workspace_approved\":null,\"sharing\":{\"subjects\":[],\"recipient\":\"private\"},\"current_user_permission\":{\"can_delete\":true,\"can_export\":true,\"can_read\":true,\"can_write\":true,\"can_share\":true,\"can_view_config\":true},\"gizmo_type\":\"snorlax\",\"context_stuffing_budget\":49152,\"use_injest_path\":null,\"conversation_copy_in_progress\":false,\"gizmo_snorlax_type\":null,\"archived_at\":null,\"is_archived\":false,\"memory_enabled\":true,\"memory_scope\":\"global\",\"goal\":null},\"tools\":[],\"files\":[],\"product_features\":{\"attachments\":{\"type\":\"retrieval\",\"accepted_mime_types\":[\"application/haansofthwpx\",\"text/x-rst\",\"application/x-yaml\",\"text/css\",\"application/x-sql\",\"text/rtf\",\"text/javascript\",\"text/x-asm\",\"application/vnd.openxmlformats-officedocument.wordprocessingml.document\",\"text/x-erb\",\"text/x-twig\",\"text/x-astro\",\"text/x-jinja2\",\"text/x-handlebars\",\"text/x-mustache\",\"application/x-hwp+zip\",\"text/x-objectivec\",\"text/x-erlang\",\"text/x-typescript\",\"text/x-c++\",\"application/x-hwp\",\"text/x-julia\",\"text/x-ruby\",\"application/x-hwp-v5\",\"application/vnd.ms-powerpoint\",\"text/x-php\",\"text/x-objectivec++\",\"text/x-shellscript\",\"text/x-vcard\",\"application/x-rust\",\"text/x-makefile\",\"text/x-swift\",\"text/x-elixir\",\"text/x-groovy\",\"text/jsx\",\"text/markdown\",\"application/x-scala\",\"text/x-dart\",\"text/x-lisp\",\"application/vnd.oasis.opendocument.text\",\"text/x-java\",\"text/x-python\",\"application/vnd.apple.keynote\",\"text/x-rust\",\"text/x-csharp\",\"text/x-perl\",\"text/vbscript\",\"text/x-script.python\",\"text/x-diff\",\"text/x-tex\",\"text/x-r\",\"text/x-pug\",\"text/x-sh\",\"application/x-powershell\",\"application/javascript\",\"text/plain\",\"text/x-tmpl\",\"application/json\",\"application/msword\",\"application/haansofthwp\",\"text/x-kotlin\",\"text/x-ejs\",\"text/x-liquid\",\"application/toml\",\"text/x-go\",\"text/x-jade\",\"text/tsx\",\"text/x-scala\",\"text/x-c\",\"text/calendar\",\"text/xml\",\"application/vnd.openxmlformats-officedocument.presentationml.presentation\",\"message/rfc822\",\"application/hwp+zip\",\"text/x-lua\",\"application/pdf\",\"application/rtf\",\"text/x-clojure\",\"text/x-haskell\",\"text/html\",\"application/vnd.hancom.hwpx\",\"application/vnd.apple.pages\"],\"can_accept_all_mime_types\":true,\"image_mime_types\":[\"image/webp\",\"image/png\",\"image/gif\",\"image/jpeg\"]},\"contextual_answers\":null},\"has_tpp_conversation\":false,\"project_file_limits\":null,\"project_connector_scope_limits\":null}},{\"gizmo\":{\"gizmo\":{\"id\":\"g-p-68a3631a3fd88191a9ea2f816b5db101\",\"organization_id\":\"org-m5Ywkpb1hKSpPaDJHobQXoE5\",\"short_url\":\"g-p-68a3631a3fd88191a9ea2f816b5db101-ai-cctv\",\"author\":{\"user_id\":\"user-AdO9rOu4i7uFZVxePkGkKIRX\",\"user_email\":\"kunalar2003@gmail.com\",\"display_name\":\"kunal arora\",\"link_to\":null,\"is_verified\":false,\"selected_display\":\"name\",\"will_receive_support_emails\":false,\"display_socials\":[]},\"voice\":{\"id\":\"ember\"},\"workspace_id\":null,\"model\":null,\"default_model\":null,\"instructions\":\"\",\"display\":{\"name\":\"ai cctv\",\"description\":\"\",\"prompt_starters\":[],\"profile_pic_id\":null,\"profile_picture_url\":null,\"categories\":[],\"emoji\":null,\"theme\":null},\"share_recipient\":\"private\",\"created_at\":\"2025-08-18T17:30:02.249552+00:00\",\"updated_at\":\"2025-09-04T21:33:31.040178+00:00\",\"last_interacted_at\":\"2025-08-18T19:19:33.351356+00:00\",\"num_interactions\":7,\"tags\":[\"private\"],\"is_unassigned\":false,\"version\":11,\"version_author\":null,\"version_created_at\":\"2025-08-18T17:53:30.073758+00:00\",\"version_updated_at\":\"2025-08-18T17:53:32.556288+00:00\",\"live_version\":11,\"training_disabled\":null,\"sharing_targets\":[{\"recipient\":\"private\",\"allowed\":true,\"moderated_fields\":null},{\"recipient\":\"link\",\"allowed\":true,\"moderated_fields\":null}],\"appeal_info\":null,\"vanity_metrics\":{\"num_conversations\":null,\"num_conversations_str\":null,\"created_ago_str\":null,\"review_stats\":null},\"workspace_approval_date\":null,\"workspace_approved\":null,\"sharing\":{\"subjects\":[],\"recipient\":\"private\"},\"current_user_permission\":{\"can_delete\":true,\"can_export\":true,\"can_read\":true,\"can_write\":true,\"can_share\":true,\"can_view_config\":true},\"gizmo_type\":\"snorlax\",\"context_stuffing_budget\":49152,\"use_injest_path\":null,\"conversation_copy_in_progress\":false,\"gizmo_snorlax_type\":null,\"archived_at\":null,\"is_archived\":false,\"memory_enabled\":true,\"memory_scope\":\"global\",\"goal\":null},\"tools\":[],\"files\":[{\"file_response_type\":\"full_file_response\",\"id\":\"68a363364e388191aeabb91b5919b3bf\",\"file_id\":\"file-QjEaufmFdJ838eaYGCzi2E\",\"name\":\"trespass.py\",\"type\":\"text/x-script.python\",\"size\":874,\"created_at\":\"2025-08-18T17:30:30.306571+00:00\",\"last_modified\":1754953210000,\"location\":\"fs\",\"metadata\":null,\"library_file_id\":null,\"file_size_tokens\":194},{\"file_response_type\":\"full_file_response\",\"id\":\"68a363392c1481919a8af264e4a53493\",\"file_id\":\"file-T6vPDLSA3eYY8ShpXjwgX1\",\"name\":\"event_logger.py\",\"type\":\"text/x-script.python\",\"size\":701,\"created_at\":\"2025-08-18T17:30:33.174314+00:00\",\"last_modified\":1754953204000,\"location\":\"fs\",\"metadata\":null,\"library_file_id\":null,\"file_size_tokens\":163},{\"file_response_type\":\"full_file_response\",\"id\":\"68a3637bebf081919416e4652b7a2927\",\"file_id\":\"file-CeyRBTZDK9jJ9PLbqN72Jq\",\"name\":\"yolo_detector.py\",\"type\":\"text/x-script.python\",\"size\":1046,\"created_at\":\"2025-08-18T17:31:39.922497+00:00\",\"last_modified\":1754953002000,\"location\":\"fs\",\"metadata\":null,\"library_file_id\":null,\"file_size_tokens\":283},{\"file_response_type\":\"full_file_response\",\"id\":\"68a3637bec4c8191b423688d587f4d77\",\"file_id\":\"file-Qf1nNnxnP9nPB6yM7JbLz5\",\"name\":\"plate_detector.py\",\"type\":\"text/x-script.python\",\"size\":1531,\"created_at\":\"2025-08-18T17:31:39.924045+00:00\",\"last_modified\":1754955020000,\"location\":\"fs\",\"metadata\":null,\"library_file_id\":null,\"file_size_tokens\":371},{\"file_response_type\":\"full_file_response\",\"id\":\"68a3638ba2c0819183782408f0713287\",\"file_id\":\"file-8DN5LxibKWD9whUhTk1ba6\",\"name\":\"face_detector.py\",\"type\":\"text/x-script.python\",\"size\":1691,\"created_at\":\"2025-08-18T17:31:55.637027+00:00\",\"last_modified\":1754953022000,\"location\":\"fs\",\"metadata\":null,\"library_file_id\":null,\"file_size_tokens\":445},{\"file_response_type\":\"full_file_response\",\"id\":\"68a3686599188191bec39c8b928d687a\",\"file_id\":\"file-TSmKxZAwPf63LP9wZSN4bj\",\"name\":\"roi_editor.py\",\"type\":\"text/x-python-script\",\"size\":10652,\"created_at\":\"2025-08-18T17:52:37.598669+00:00\",\"last_modified\":null,\"location\":\"fs\",\"metadata\":null,\"library_file_id\":null,\"file_size_tokens\":null},{\"file_response_type\":\"full_file_response\",\"id\":\"68a36867fec08191bee6019b19547222\",\"file_id\":\"file-G7jZCcxhtwmTN9hRwaft1w\",\"name\":\"zones.py\",\"type\":\"text/x-python-script\",\"size\":2739,\"created_at\":\"2025-08-18T17:52:39.996541+00:00\",\"last_modified\":null,\"location\":\"fs\",\"metadata\":null,\"library_file_id\":null,\"file_size_tokens\":null},{\"file_response_type\":\"full_file_response\",\"id\":\"68a3686d981c819181808909f24446ac\",\"file_id\":\"file-8GiHPcFp2rXfRrXM41VLSb\",\"name\":\"centroid_tracker.py\",\"type\":\"text/x-python-script\",\"size\":1988,\"created_at\":\"2025-08-18T17:52:45.594869+00:00\",\"last_modified\":null,\"location\":\"fs\",\"metadata\":null,\"library_file_id\":null,\"file_size_tokens\":null},{\"file_response_type\":\"full_file_response\",\"id\":\"68a36881f3f08191b121d215b37be82d\",\"file_id\":\"file-Khsk7L6frZc2SkZnMuZeMH\",\"name\":\"draw.py\",\"type\":\"text/x-python-script\",\"size\":1222,\"created_at\":\"2025-08-18T17:53:05.953722+00:00\",\"last_modified\":null,\"location\":\"fs\",\"metadata\":null,\"library_file_id\":null,\"file_size_tokens\":null},{\"file_response_type\":\"full_file_response\",\"id\":\"68a36883b6088191a9ef7f56b390cf54\",\"file_id\":\"file-GcTJ3ViGnxJkqKC3gwy2jN\",\"name\":\"video.py\",\"type\":\"text/x-python-script\",\"size\":350,\"created_at\":\"2025-08-18T17:53:07.711577+00:00\",\"last_modified\":null,\"location\":\"fs\",\"metadata\":null,\"library_file_id\":null,\"file_size_tokens\":null},{\"file_response_type\":\"full_file_response\",\"id\":\"68a36885a8a88191a9f360d2917b613d\",\"file_id\":\"file-VPkfKaGru1PK4faNwEKGC1\",\"name\":\"structures.py\",\"type\":\"text/x-python-script\",\"size\":447,\"created_at\":\"2025-08-18T17:53:09.659356+00:00\",\"last_modified\":null,\"location\":\"fs\",\"metadata\":null,\"library_file_id\":null,\"file_size_tokens\":null}],\"product_features\":{\"attachments\":{\"type\":\"retrieval\",\"accepted_mime_types\":[\"application/haansofthwpx\",\"text/x-rst\",\"application/x-yaml\",\"text/css\",\"application/x-sql\",\"text/rtf\",\"text/javascript\",\"text/x-asm\",\"application/vnd.openxmlformats-officedocument.wordprocessingml.document\",\"text/x-erb\",\"text/x-twig\",\"text/x-astro\",\"text/x-jinja2\",\"text/x-handlebars\",\"text/x-mustache\",\"application/x-hwp+zip\",\"text/x-objectivec\",\"text/x-erlang\",\"text/x-typescript\",\"text/x-c++\",\"application/x-hwp\",\"text/x-julia\",\"text/x-ruby\",\"application/x-hwp-v5\",\"application/vnd.ms-powerpoint\",\"text/x-php\",\"text/x-objectivec++\",\"text/x-shellscript\",\"text/x-vcard\",\"application/x-rust\",\"text/x-makefile\",\"text/x-swift\",\"text/x-elixir\",\"text/x-groovy\",\"text/jsx\",\"text/markdown\",\"application/x-scala\",\"text/x-dart\",\"text/x-lisp\",\"application/vnd.oasis.opendocument.text\",\"text/x-java\",\"text/x-python\",\"application/vnd.apple.keynote\",\"text/x-rust\",\"text/x-csharp\",\"text/x-perl\",\"text/vbscript\",\"text/x-script.python\",\"text/x-diff\",\"text/x-tex\",\"text/x-r\",\"text/x-pug\",\"text/x-sh\",\"application/x-powershell\",\"application/javascript\",\"text/plain\",\"text/x-tmpl\",\"application/json\",\"application/msword\",\"application/haansofthwp\",\"text/x-kotlin\",\"text/x-ejs\",\"text/x-liquid\",\"application/toml\",\"text/x-go\",\"text/x-jade\",\"text/tsx\",\"text/x-scala\",\"text/x-c\",\"text/calendar\",\"text/xml\",\"application/vnd.openxmlformats-officedocument.presentationml.presentation\",\"message/rfc822\",\"application/hwp+zip\",\"text/x-lua\",\"application/pdf\",\"application/rtf\",\"text/x-clojure\",\"text/x-haskell\",\"text/html\",\"application/vnd.hancom.hwpx\",\"application/vnd.apple.pages\"],\"can_accept_all_mime_types\":true,\"image_mime_types\":[\"image/webp\",\"image/png\",\"image/gif\",\"image/jpeg\"]},\"contextual_answers\":null},\"has_tpp_conversation\":false,\"project_file_limits\":null,\"project_connector_scope_limits\":null}},{\"gizmo\":{\"gizmo\":{\"id\":\"g-p-68a3631245f481918cbb49d6b6f145af\",\"organization_id\":\"org-m5Ywkpb1hKSpPaDJHobQXoE5\",\"short_url\":\"g-p-68a3631245f481918cbb49d6b6f145af-ai-cctv\",\"author\":{\"user_id\":\"user-AdO9rOu4i7uFZVxePkGkKIRX\",\"user_email\":\"kunalar2003@gmail.com\",\"display_name\":\"kunal arora\",\"link_to\":null,\"is_verified\":false,\"selected_display\":\"name\",\"will_receive_support_emails\":false,\"display_socials\":[]},\"voice\":{\"id\":\"ember\"},\"workspace_id\":null,\"model\":null,\"default_model\":null,\"instructions\":\"\",\"display\":{\"name\":\"ai cctv\",\"description\":\"\",\"prompt_starters\":[],\"profile_pic_id\":null,\"profile_picture_url\":null,\"categories\":[],\"emoji\":null,\"theme\":null},\"share_recipient\":\"private\",\"created_at\":\"2025-08-18T17:29:54.273370+00:00\",\"updated_at\":\"2025-09-04T21:47:46.930096+00:00\",\"last_interacted_at\":\"2025-08-18T17:29:56.882240+00:00\",\"num_interactions\":0,\"tags\":[\"private\"],\"is_unassigned\":false,\"version\":1,\"version_author\":null,\"version_created_at\":\"2025-08-18T17:29:54.477790+00:00\",\"version_updated_at\":\"2025-08-18T17:29:56.375909+00:00\",\"live_version\":1,\"training_disabled\":false,\"sharing_targets\":[{\"recipient\":\"private\",\"allowed\":true,\"moderated_fields\":null},{\"recipient\":\"link\",\"allowed\":true,\"moderated_fields\":null}],\"appeal_info\":null,\"vanity_metrics\":{\"num_conversations\":null,\"num_conversations_str\":null,\"created_ago_str\":null,\"review_stats\":null},\"workspace_approval_date\":null,\"workspace_approved\":null,\"sharing\":{\"subjects\":[],\"recipient\":\"private\"},\"current_user_permission\":{\"can_delete\":true,\"can_export\":true,\"can_read\":true,\"can_write\":true,\"can_share\":true,\"can_view_config\":true},\"gizmo_type\":\"snorlax\",\"context_stuffing_budget\":49152,\"use_injest_path\":null,\"conversation_copy_in_progress\":false,\"gizmo_snorlax_type\":null,\"archived_at\":null,\"is_archived\":false,\"memory_enabled\":true,\"memory_scope\":\"global\",\"goal\":null},\"tools\":[],\"files\":[],\"product_features\":{\"attachments\":{\"type\":\"retrieval\",\"accepted_mime_types\":[\"application/haansofthwpx\",\"text/x-rst\",\"application/x-yaml\",\"text/css\",\"application/x-sql\",\"text/rtf\",\"text/javascript\",\"text/x-asm\",\"application/vnd.openxmlformats-officedocument.wordprocessingml.document\",\"text/x-erb\",\"text/x-twig\",\"text/x-astro\",\"text/x-jinja2\",\"text/x-handlebars\",\"text/x-mustache\",\"application/x-hwp+zip\",\"text/x-objectivec\",\"text/x-erlang\",\"text/x-typescript\",\"text/x-c++\",\"application/x-hwp\",\"text/x-julia\",\"text/x-ruby\",\"application/x-hwp-v5\",\"application/vnd.ms-powerpoint\",\"text/x-php\",\"text/x-objectivec++\",\"text/x-shellscript\",\"text/x-vcard\",\"application/x-rust\",\"text/x-makefile\",\"text/x-swift\",\"text/x-elixir\",\"text/x-groovy\",\"text/jsx\",\"text/markdown\",\"application/x-scala\",\"text/x-dart\",\"text/x-lisp\",\"application/vnd.oasis.opendocument.text\",\"text/x-java\",\"text/x-python\",\"application/vnd.apple.keynote\",\"text/x-rust\",\"text/x-csharp\",\"text/x-perl\",\"text/vbscript\",\"text/x-script.python\",\"text/x-diff\",\"text/x-tex\",\"text/x-r\",\"text/x-pug\",\"text/x-sh\",\"application/x-powershell\",\"application/javascript\",\"text/plain\",\"text/x-tmpl\",\"application/json\",\"application/msword\",\"application/haansofthwp\",\"text/x-kotlin\",\"text/x-ejs\",\"text/x-liquid\",\"application/toml\",\"text/x-go\",\"text/x-jade\",\"text/tsx\",\"text/x-scala\",\"text/x-c\",\"text/calendar\",\"text/xml\",\"application/vnd.openxmlformats-officedocument.presentationml.presentation\",\"message/rfc822\",\"application/hwp+zip\",\"text/x-lua\",\"application/pdf\",\"application/rtf\",\"text/x-clojure\",\"text/x-haskell\",\"text/html\",\"application/vnd.hancom.hwpx\",\"application/vnd.apple.pages\"],\"can_accept_all_mime_types\":true,\"image_mime_types\":[\"image/webp\",\"image/png\",\"image/gif\",\"image/jpeg\"]},\"contextual_answers\":null},\"has_tpp_conversation\":false,\"project_file_limits\":null,\"project_connector_scope_limits\":null}},{\"gizmo\":{\"gizmo\":{\"id\":\"g-p-687a3105c6988191920abbad01af0a37\",\"organization_id\":\"org-m5Ywkpb1hKSpPaDJHobQXoE5\",\"short_url\":\"g-p-687a3105c6988191920abbad01af0a37-under-water\",\"author\":{\"user_id\":\"user-AdO9rOu4i7uFZVxePkGkKIRX\",\"user_email\":\"kunalar2003@gmail.com\",\"display_name\":\"kunal arora\",\"link_to\":null,\"is_verified\":false,\"selected_display\":\"name\",\"will_receive_support_emails\":false,\"display_socials\":[]},\"voice\":{\"id\":\"ember\"},\"workspace_id\":null,\"model\":null,\"default_model\":null,\"instructions\":\"\",\"display\":{\"name\":\"under water\",\"description\":\"\",\"prompt_starters\":[],\"profile_pic_id\":null,\"profile_picture_url\":null,\"categories\":[],\"emoji\":null,\"theme\":null},\"share_recipient\":\"private\",\"created_at\":\"2025-07-18T11:33:25.775886+00:00\",\"updated_at\":\"2025-09-04T21:33:30.781364+00:00\",\"last_interacted_at\":\"2025-08-07T12:55:51.760765+00:00\",\"num_interactions\":6,\"tags\":[\"private\"],\"is_unassigned\":false,\"version\":13,\"version_author\":null,\"version_created_at\":\"2025-07-18T11:40:07.257749+00:00\",\"version_updated_at\":\"2025-07-18T11:40:08.057442+00:00\",\"live_version\":13,\"training_disabled\":false,\"sharing_targets\":[{\"recipient\":\"private\",\"allowed\":true,\"moderated_fields\":null},{\"recipient\":\"link\",\"allowed\":true,\"moderated_fields\":null}],\"appeal_info\":null,\"vanity_metrics\":{\"num_conversations\":null,\"num_conversations_str\":null,\"created_ago_str\":null,\"review_stats\":null},\"workspace_approval_date\":null,\"workspace_approved\":null,\"sharing\":{\"subjects\":[],\"recipient\":\"private\"},\"current_user_permission\":{\"can_delete\":true,\"can_export\":true,\"can_read\":true,\"can_write\":true,\"can_share\":true,\"can_view_config\":true},\"gizmo_type\":\"snorlax\",\"context_stuffing_budget\":49152,\"use_injest_path\":null,\"conversation_copy_in_progress\":false,\"gizmo_snorlax_type\":null,\"archived_at\":null,\"is_archived\":false,\"memory_enabled\":true,\"memory_scope\":\"global\",\"goal\":null},\"tools\":[],\"files\":[{\"file_response_type\":\"full_file_response\",\"id\":\"687a313631488191925e27934469ecb7\",\"file_id\":\"file-LUNKCzEfpgjiU9sxvbvaMb\",\"name\":\"train.py\",\"type\":\"text/x-script.python\",\"size\":3592,\"created_at\":\"2025-07-18T11:34:14.192744+00:00\",\"last_modified\":1752149180000,\"location\":\"fs\",\"metadata\":null,\"library_file_id\":null,\"file_size_tokens\":876},{\"file_response_type\":\"full_file_response\",\"id\":\"687a3136318c81919e1d8266543192fd\",\"file_id\":\"file-AgPBkr9hu1xxd1eDCgU7YB\",\"name\":\"metrics.py\",\"type\":\"text/x-script.python\",\"size\":1228,\"created_at\":\"2025-07-18T11:34:14.193868+00:00\",\"last_modified\":1752148313000,\"location\":\"fs\",\"metadata\":null,\"library_file_id\":null,\"file_size_tokens\":365},{\"file_response_type\":\"full_file_response\",\"id\":\"687a313631b48191b569b7216363fe66\",\"file_id\":\"file-L4nDHzenvT5fUMD7U7v63x\",\"name\":\"train_gan.py\",\"type\":\"text/x-script.python\",\"size\":4479,\"created_at\":\"2025-07-18T11:34:14.194458+00:00\",\"last_modified\":1752149485000,\"location\":\"fs\",\"metadata\":null,\"library_file_id\":null,\"file_size_tokens\":1104},{\"file_response_type\":\"full_file_response\",\"id\":\"687a313631dc819191cdebf022507468\",\"file_id\":\"file-AkwL6pD2im4iERzTmMwU55\",\"name\":\"uiqm.py\",\"type\":\"text/x-script.python\",\"size\":414,\"created_at\":\"2025-07-18T11:34:14.195045+00:00\",\"last_modified\":1752146016000,\"location\":\"fs\",\"metadata\":null,\"library_file_id\":null,\"file_size_tokens\":137},{\"file_response_type\":\"full_file_response\",\"id\":\"687a313632008191bc3a5b3798973b9b\",\"file_id\":\"file-SJxGmpgqf4KSzooQTJV7XS\",\"name\":\"kan_gan_model.py\",\"type\":\"text/x-script.python\",\"size\":5600,\"created_at\":\"2025-07-18T11:34:14.195561+00:00\",\"last_modified\":1752147166000,\"location\":\"fs\",\"metadata\":null,\"library_file_id\":null,\"file_size_tokens\":1480},{\"file_response_type\":\"full_file_response\",\"id\":\"687a31363224819198e3b194731c0080\",\"file_id\":\"file-KQZvrtFmYkb2KpBgXfPVVE\",\"name\":\"model.py\",\"type\":\"text/x-script.python\",\"size\":4770,\"created_at\":\"2025-07-18T11:34:14.196095+00:00\",\"last_modified\":1752161371000,\"location\":\"fs\",\"metadata\":null,\"library_file_id\":null,\"file_size_tokens\":1231},{\"file_response_type\":\"full_file_response\",\"id\":\"687a3136325481919ca40508e2c0a5d4\",\"file_id\":\"file-LfP8MqsJ6UZMExFppffXMw\",\"name\":\"gradcam.py\",\"type\":\"text/x-script.python\",\"size\":1824,\"created_at\":\"2025-07-18T11:34:14.196844+00:00\",\"last_modified\":1752148435000,\"location\":\"fs\",\"metadata\":null,\"library_file_id\":null,\"file_size_tokens\":475},{\"file_response_type\":\"full_file_response\",\"id\":\"687a313632788191b4a891b103d19d72\",\"file_id\":\"file-C2Hrq4cGic1gKnNbpVzRs4\",\"name\":\"loss.py\",\"type\":\"text/x-script.python\",\"size\":2889,\"created_at\":\"2025-07-18T11:34:14.197375+00:00\",\"last_modified\":1752148180000,\"location\":\"fs\",\"metadata\":null,\"library_file_id\":null,\"file_size_tokens\":811},{\"file_response_type\":\"full_file_response\",\"id\":\"687a313632b48191b2d1f20dddfbc1e8\",\"file_id\":\"file-S7duiDqjvwFM9nQ6XhNEHw\",\"name\":\"dataset.py\",\"type\":\"text/x-script.python\",\"size\":1002,\"created_at\":\"2025-07-18T11:34:14.198266+00:00\",\"last_modified\":1752139332000,\"location\":\"fs\",\"metadata\":null,\"library_file_id\":null,\"file_size_tokens\":207},{\"file_response_type\":\"full_file_response\",\"id\":\"687a313632d08191b9da7d7ef3129d2c\",\"file_id\":\"file-76m38RFHwMxtuZ8o9TLtfi\",\"name\":\"uciqe_score.py\",\"type\":\"text/x-script.python\",\"size\":624,\"created_at\":\"2025-07-18T11:34:14.198744+00:00\",\"last_modified\":1752148784000,\"location\":\"fs\",\"metadata\":null,\"library_file_id\":null,\"file_size_tokens\":226},{\"file_response_type\":\"full_file_response\",\"id\":\"687a315599bc81919d99ca7c9b207740\",\"file_id\":\"file-YFQkQuZ2QPCLbgKKWdd2FF\",\"name\":\"Untitled.ipynb\",\"type\":\"\",\"size\":3351,\"created_at\":\"2025-07-18T11:34:45.600836+00:00\",\"last_modified\":1752081848000,\"location\":\"fs\",\"metadata\":null,\"library_file_id\":null,\"file_size_tokens\":null}],\"product_features\":{\"attachments\":{\"type\":\"retrieval\",\"accepted_mime_types\":[\"application/haansofthwpx\",\"text/x-rst\",\"application/x-yaml\",\"text/css\",\"application/x-sql\",\"text/rtf\",\"text/javascript\",\"text/x-asm\",\"application/vnd.openxmlformats-officedocument.wordprocessingml.document\",\"text/x-erb\",\"text/x-twig\",\"text/x-astro\",\"text/x-jinja2\",\"text/x-handlebars\",\"text/x-mustache\",\"application/x-hwp+zip\",\"text/x-objectivec\",\"text/x-erlang\",\"text/x-typescript\",\"text/x-c++\",\"application/x-hwp\",\"text/x-julia\",\"text/x-ruby\",\"application/x-hwp-v5\",\"application/vnd.ms-powerpoint\",\"text/x-php\",\"text/x-objectivec++\",\"text/x-shellscript\",\"text/x-vcard\",\"application/x-rust\",\"text/x-makefile\",\"text/x-swift\",\"text/x-elixir\",\"text/x-groovy\",\"text/jsx\",\"text/markdown\",\"application/x-scala\",\"text/x-dart\",\"text/x-lisp\",\"application/vnd.oasis.opendocument.text\",\"text/x-java\",\"text/x-python\",\"application/vnd.apple.keynote\",\"text/x-rust\",\"text/x-csharp\",\"text/x-perl\",\"text/vbscript\",\"text/x-script.python\",\"text/x-diff\",\"text/x-tex\",\"text/x-r\",\"text/x-pug\",\"text/x-sh\",\"application/x-powershell\",\"application/javascript\",\"text/plain\",\"text/x-tmpl\",\"application/json\",\"application/msword\",\"application/haansofthwp\",\"text/x-kotlin\",\"text/x-ejs\",\"text/x-liquid\",\"application/toml\",\"text/x-go\",\"text/x-jade\",\"text/tsx\",\"text/x-scala\",\"text/x-c\",\"text/calendar\",\"text/xml\",\"application/vnd.openxmlformats-officedocument.presentationml.presentation\",\"message/rfc822\",\"application/hwp+zip\",\"text/x-lua\",\"application/pdf\",\"application/rtf\",\"text/x-clojure\",\"text/x-haskell\",\"text/html\",\"application/vnd.hancom.hwpx\",\"application/vnd.apple.pages\"],\"can_accept_all_mime_types\":true,\"image_mime_types\":[\"image/webp\",\"image/png\",\"image/gif\",\"image/jpeg\"]},\"contextual_answers\":null},\"has_tpp_conversation\":false,\"project_file_limits\":null,\"project_connector_scope_limits\":null}},{\"gizmo\":{\"gizmo\":{\"id\":\"g-p-685aeafcea1481919ea03ebe726d6312\",\"organization_id\":\"org-0QCnCgtkbkP74DdpWMwJkos3\",\"short_url\":\"g-p-685aeafcea1481919ea03ebe726d6312-underwater-kan\",\"author\":{\"user_id\":\"user-AdO9rOu4i7uFZVxePkGkKIRX\",\"user_email\":\"kunalar2003@gmail.com\",\"display_name\":\"kunal arora\",\"link_to\":null,\"is_verified\":false,\"selected_display\":\"name\",\"will_receive_support_emails\":false,\"display_socials\":[]},\"voice\":{\"id\":\"ember\"},\"workspace_id\":null,\"model\":null,\"default_model\":null,\"instructions\":\"\",\"display\":{\"name\":\"underwater KAN\",\"description\":\"\",\"prompt_starters\":[],\"profile_pic_id\":null,\"profile_picture_url\":null,\"categories\":[],\"emoji\":null,\"theme\":null},\"share_recipient\":\"private\",\"created_at\":\"2025-06-24T18:14:20.914455+00:00\",\"updated_at\":\"2025-09-07T11:34:23.009852+00:00\",\"last_interacted_at\":\"2025-06-25T08:37:16.600464+00:00\",\"num_interactions\":27,\"tags\":[\"private\"],\"is_unassigned\":false,\"version\":1,\"version_author\":null,\"version_created_at\":\"2025-06-24T18:14:21.063564+00:00\",\"version_updated_at\":\"2025-06-24T18:14:24.648003+00:00\",\"live_version\":1,\"training_disabled\":false,\"sharing_targets\":[{\"recipient\":\"private\",\"allowed\":true,\"moderated_fields\":null},{\"recipient\":\"link\",\"allowed\":true,\"moderated_fields\":null}],\"appeal_info\":null,\"vanity_metrics\":{\"num_conversations\":null,\"num_conversations_str\":null,\"created_ago_str\":null,\"review_stats\":null},\"workspace_approval_date\":null,\"workspace_approved\":null,\"sharing\":{\"subjects\":[],\"recipient\":\"private\"},\"current_user_permission\":{\"can_delete\":true,\"can_export\":true,\"can_read\":true,\"can_write\":true,\"can_share\":true,\"can_view_config\":true},\"gizmo_type\":\"snorlax\",\"context_stuffing_budget\":49152,\"use_injest_path\":null,\"conversation_copy_in_progress\":false,\"gizmo_snorlax_type\":null,\"archived_at\":null,\"is_archived\":false,\"memory_enabled\":true,\"memory_scope\":\"global\",\"goal\":null},\"tools\":[],\"files\":[],\"product_features\":{\"attachments\":{\"type\":\"retrieval\",\"accepted_mime_types\":[\"application/haansofthwpx\",\"text/x-rst\",\"application/x-yaml\",\"text/css\",\"application/x-sql\",\"text/rtf\",\"text/javascript\",\"text/x-asm\",\"application/vnd.openxmlformats-officedocument.wordprocessingml.document\",\"text/x-erb\",\"text/x-twig\",\"text/x-astro\",\"text/x-jinja2\",\"text/x-handlebars\",\"text/x-mustache\",\"application/x-hwp+zip\",\"text/x-objectivec\",\"text/x-erlang\",\"text/x-typescript\",\"text/x-c++\",\"application/x-hwp\",\"text/x-julia\",\"text/x-ruby\",\"application/x-hwp-v5\",\"application/vnd.ms-powerpoint\",\"text/x-php\",\"text/x-objectivec++\",\"text/x-shellscript\",\"text/x-vcard\",\"application/x-rust\",\"text/x-makefile\",\"text/x-swift\",\"text/x-elixir\",\"text/x-groovy\",\"text/jsx\",\"text/markdown\",\"application/x-scala\",\"text/x-dart\",\"text/x-lisp\",\"application/vnd.oasis.opendocument.text\",\"text/x-java\",\"text/x-python\",\"application/vnd.apple.keynote\",\"text/x-rust\",\"text/x-csharp\",\"text/x-perl\",\"text/vbscript\",\"text/x-script.python\",\"text/x-diff\",\"text/x-tex\",\"text/x-r\",\"text/x-pug\",\"text/x-sh\",\"application/x-powershell\",\"application/javascript\",\"text/plain\",\"text/x-tmpl\",\"application/json\",\"application/msword\",\"application/haansofthwp\",\"text/x-kotlin\",\"text/x-ejs\",\"text/x-liquid\",\"application/toml\",\"text/x-go\",\"text/x-jade\",\"text/tsx\",\"text/x-scala\",\"text/x-c\",\"text/calendar\",\"text/xml\",\"application/vnd.openxmlformats-officedocument.presentationml.presentation\",\"message/rfc822\",\"application/hwp+zip\",\"text/x-lua\",\"application/pdf\",\"application/rtf\",\"text/x-clojure\",\"text/x-haskell\",\"text/html\",\"application/vnd.hancom.hwpx\",\"application/vnd.apple.pages\"],\"can_accept_all_mime_types\":true,\"image_mime_types\":[\"image/webp\",\"image/png\",\"image/gif\",\"image/jpeg\"]},\"contextual_answers\":null},\"has_tpp_conversation\":false,\"project_file_limits\":null,\"project_connector_scope_limits\":null}},{\"gizmo\":{\"gizmo\":{\"id\":\"g-p-6809f66dd974819189f327ed32df3676\",\"organization_id\":\"org-0QCnCgtkbkP74DdpWMwJkos3\",\"short_url\":\"g-p-6809f66dd974819189f327ed32df3676-sam\",\"author\":{\"user_id\":\"user-AdO9rOu4i7uFZVxePkGkKIRX\",\"user_email\":\"kunalar2003@gmail.com\",\"display_name\":\"kunal arora\",\"link_to\":null,\"is_verified\":false,\"selected_display\":\"name\",\"will_receive_support_emails\":false,\"display_socials\":[]},\"voice\":{\"id\":\"ember\"},\"workspace_id\":null,\"model\":null,\"default_model\":null,\"instructions\":\"\",\"display\":{\"name\":\"SAM\",\"description\":\"\",\"prompt_starters\":[],\"profile_pic_id\":null,\"profile_picture_url\":null,\"categories\":[],\"emoji\":null,\"theme\":null},\"share_recipient\":\"private\",\"created_at\":\"2025-04-24T08:29:33.849512+00:00\",\"updated_at\":\"2025-09-07T11:34:22.255230+00:00\",\"last_interacted_at\":\"2025-05-26T02:48:59.788645+00:00\",\"num_interactions\":178,\"tags\":[\"private\"],\"is_unassigned\":false,\"version\":1,\"version_author\":null,\"version_created_at\":\"2025-04-24T08:29:34.077822+00:00\",\"version_updated_at\":\"2025-04-24T08:29:36.512523+00:00\",\"live_version\":1,\"training_disabled\":false,\"sharing_targets\":[{\"recipient\":\"private\",\"allowed\":true,\"moderated_fields\":null},{\"recipient\":\"link\",\"allowed\":true,\"moderated_fields\":null}],\"appeal_info\":null,\"vanity_metrics\":{\"num_conversations\":null,\"num_conversations_str\":null,\"created_ago_str\":null,\"review_stats\":null},\"workspace_approval_date\":null,\"workspace_approved\":null,\"sharing\":{\"subjects\":[],\"recipient\":\"private\"},\"current_user_permission\":{\"can_delete\":true,\"can_export\":true,\"can_read\":true,\"can_write\":true,\"can_share\":true,\"can_view_config\":true},\"gizmo_type\":\"snorlax\",\"context_stuffing_budget\":49152,\"use_injest_path\":null,\"conversation_copy_in_progress\":false,\"gizmo_snorlax_type\":null,\"archived_at\":null,\"is_archived\":false,\"memory_enabled\":true,\"memory_scope\":\"global\",\"goal\":null},\"tools\":[],\"files\":[],\"product_features\":{\"attachments\":{\"type\":\"retrieval\",\"accepted_mime_types\":[\"application/haansofthwpx\",\"text/x-rst\",\"application/x-yaml\",\"text/css\",\"application/x-sql\",\"text/rtf\",\"text/javascript\",\"text/x-asm\",\"application/vnd.openxmlformats-officedocument.wordprocessingml.document\",\"text/x-erb\",\"text/x-twig\",\"text/x-astro\",\"text/x-jinja2\",\"text/x-handlebars\",\"text/x-mustache\",\"application/x-hwp+zip\",\"text/x-objectivec\",\"text/x-erlang\",\"text/x-typescript\",\"text/x-c++\",\"application/x-hwp\",\"text/x-julia\",\"text/x-ruby\",\"application/x-hwp-v5\",\"application/vnd.ms-powerpoint\",\"text/x-php\",\"text/x-objectivec++\",\"text/x-shellscript\",\"text/x-vcard\",\"application/x-rust\",\"text/x-makefile\",\"text/x-swift\",\"text/x-elixir\",\"text/x-groovy\",\"text/jsx\",\"text/markdown\",\"application/x-scala\",\"text/x-dart\",\"text/x-lisp\",\"application/vnd.oasis.opendocument.text\",\"text/x-java\",\"text/x-python\",\"application/vnd.apple.keynote\",\"text/x-rust\",\"text/x-csharp\",\"text/x-perl\",\"text/vbscript\",\"text/x-script.python\",\"text/x-diff\",\"text/x-tex\",\"text/x-r\",\"text/x-pug\",\"text/x-sh\",\"application/x-powershell\",\"application/javascript\",\"text/plain\",\"text/x-tmpl\",\"application/json\",\"application/msword\",\"application/haansofthwp\",\"text/x-kotlin\",\"text/x-ejs\",\"text/x-liquid\",\"application/toml\",\"text/x-go\",\"text/x-jade\",\"text/tsx\",\"text/x-scala\",\"text/x-c\",\"text/calendar\",\"text/xml\",\"application/vnd.openxmlformats-officedocument.presentationml.presentation\",\"message/rfc822\",\"application/hwp+zip\",\"text/x-lua\",\"application/pdf\",\"application/rtf\",\"text/x-clojure\",\"text/x-haskell\",\"text/html\",\"application/vnd.hancom.hwpx\",\"application/vnd.apple.pages\"],\"can_accept_all_mime_types\":true,\"image_mime_types\":[\"image/webp\",\"image/png\",\"image/gif\",\"image/jpeg\"]},\"contextual_answers\":null},\"has_tpp_conversation\":false,\"project_file_limits\":null,\"project_connector_scope_limits\":null}},{\"gizmo\":{\"gizmo\":{\"id\":\"g-p-680a443fc7a08191af1404d8a644a3f7\",\"organization_id\":\"org-0QCnCgtkbkP74DdpWMwJkos3\",\"short_url\":\"g-p-680a443fc7a08191af1404d8a644a3f7-affordable-and-clean-energy\",\"author\":{\"user_id\":\"user-AdO9rOu4i7uFZVxePkGkKIRX\",\"user_email\":\"kunalar2003@gmail.com\",\"display_name\":\"kunal arora\",\"link_to\":null,\"is_verified\":false,\"selected_display\":\"name\",\"will_receive_support_emails\":false,\"display_socials\":[]},\"voice\":{\"id\":\"ember\"},\"workspace_id\":null,\"model\":null,\"default_model\":null,\"instructions\":\"\",\"display\":{\"name\":\" Affordable and Clean Energy\",\"description\":\"\",\"prompt_starters\":[],\"profile_pic_id\":null,\"profile_picture_url\":null,\"categories\":[],\"emoji\":null,\"theme\":null},\"share_recipient\":\"private\",\"created_at\":\"2025-04-24T14:01:35.779844+00:00\",\"updated_at\":\"2025-09-07T11:34:22.336463+00:00\",\"last_interacted_at\":\"2025-05-09T20:12:07.829258+00:00\",\"num_interactions\":9,\"tags\":[\"private\"],\"is_unassigned\":false,\"version\":1,\"version_author\":null,\"version_created_at\":\"2025-04-24T14:01:37.640623+00:00\",\"version_updated_at\":\"2025-04-24T14:01:45.911581+00:00\",\"live_version\":1,\"training_disabled\":false,\"sharing_targets\":[{\"recipient\":\"private\",\"allowed\":true,\"moderated_fields\":null},{\"recipient\":\"link\",\"allowed\":true,\"moderated_fields\":null}],\"appeal_info\":null,\"vanity_metrics\":{\"num_conversations\":null,\"num_conversations_str\":null,\"created_ago_str\":null,\"review_stats\":null},\"workspace_approval_date\":null,\"workspace_approved\":null,\"sharing\":{\"subjects\":[],\"recipient\":\"private\"},\"current_user_permission\":{\"can_delete\":true,\"can_export\":true,\"can_read\":true,\"can_write\":true,\"can_share\":true,\"can_view_config\":true},\"gizmo_type\":\"snorlax\",\"context_stuffing_budget\":49152,\"use_injest_path\":null,\"conversation_copy_in_progress\":false,\"gizmo_snorlax_type\":null,\"archived_at\":null,\"is_archived\":false,\"memory_enabled\":true,\"memory_scope\":\"global\",\"goal\":null},\"tools\":[],\"files\":[],\"product_features\":{\"attachments\":{\"type\":\"retrieval\",\"accepted_mime_types\":[\"application/haansofthwpx\",\"text/x-rst\",\"application/x-yaml\",\"text/css\",\"application/x-sql\",\"text/rtf\",\"text/javascript\",\"text/x-asm\",\"application/vnd.openxmlformats-officedocument.wordprocessingml.document\",\"text/x-erb\",\"text/x-twig\",\"text/x-astro\",\"text/x-jinja2\",\"text/x-handlebars\",\"text/x-mustache\",\"application/x-hwp+zip\",\"text/x-objectivec\",\"text/x-erlang\",\"text/x-typescript\",\"text/x-c++\",\"application/x-hwp\",\"text/x-julia\",\"text/x-ruby\",\"application/x-hwp-v5\",\"application/vnd.ms-powerpoint\",\"text/x-php\",\"text/x-objectivec++\",\"text/x-shellscript\",\"text/x-vcard\",\"application/x-rust\",\"text/x-makefile\",\"text/x-swift\",\"text/x-elixir\",\"text/x-groovy\",\"text/jsx\",\"text/markdown\",\"application/x-scala\",\"text/x-dart\",\"text/x-lisp\",\"application/vnd.oasis.opendocument.text\",\"text/x-java\",\"text/x-python\",\"application/vnd.apple.keynote\",\"text/x-rust\",\"text/x-csharp\",\"text/x-perl\",\"text/vbscript\",\"text/x-script.python\",\"text/x-diff\",\"text/x-tex\",\"text/x-r\",\"text/x-pug\",\"text/x-sh\",\"application/x-powershell\",\"application/javascript\",\"text/plain\",\"text/x-tmpl\",\"application/json\",\"application/msword\",\"application/haansofthwp\",\"text/x-kotlin\",\"text/x-ejs\",\"text/x-liquid\",\"application/toml\",\"text/x-go\",\"text/x-jade\",\"text/tsx\",\"text/x-scala\",\"text/x-c\",\"text/calendar\",\"text/xml\",\"application/vnd.openxmlformats-officedocument.presentationml.presentation\",\"message/rfc822\",\"application/hwp+zip\",\"text/x-lua\",\"application/pdf\",\"application/rtf\",\"text/x-clojure\",\"text/x-haskell\",\"text/html\",\"application/vnd.hancom.hwpx\",\"application/vnd.apple.pages\"],\"can_accept_all_mime_types\":true,\"image_mime_types\":[\"image/webp\",\"image/png\",\"image/gif\",\"image/jpeg\"]},\"contextual_answers\":null},\"has_tpp_conversation\":false,\"project_file_limits\":null,\"project_connector_scope_limits\":null}}]}],\"pageParams\":[null]},\"timestamp\":1782457012187,\"version\":1}"
+        },
+        {
+          "name": "oai/apps/capExpiresAt",
+          "value": "{\"state\":{\"isoDate\":\"\"},\"version\":0}"
+        },
+        {
+          "name": "oai/apps/hasAnyProjects",
+          "value": "true"
+        },
+        {
+          "name": "statsig.session_id.1792610830",
+          "value": "{\"sessionID\":\"1176757b-a335-4d32-b329-1809795ed337\",\"startTime\":1782457009488,\"lastUpdate\":1782457009488}"
+        },
+        {
+          "name": "oai/apps/lastKnownPinnedSidebarItemsCount",
+          "value": "{\"userId\":\"user-AdO9rOu4i7uFZVxePkGkKIRX\",\"workspaceId\":null,\"count\":1}"
+        },
+        {
+          "name": "oai/apps/chatTheme/user-AdO9rOu4i7uFZVxePkGkKIRX",
+          "value": "\"default\""
+        },
+        {
+          "name": "oai/apps/lastPageLoadDate",
+          "value": "\"2026-06-26T06:56:49.843Z\""
+        },
+        {
+          "name": "cache/user-AdO9rOu4i7uFZVxePkGkKIRX/a3475953-1c0a-40c7-8e9b-c7aa3cf083c1/pinned-items",
+          "value": "{\"value\":[{\"item_type\":\"conversation\",\"item\":{\"id\":\"69aeb1b8-9f6c-8322-b8ff-5c6d6629df68\",\"title\":\"Cold message to Karan\",\"create_time\":\"2026-03-09T11:40:57.064710Z\",\"update_time\":\"2026-06-04T02:43:23.620241Z\",\"pinned_time\":\"2026-03-22T13:13:48.702309Z\",\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":true,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},\"pinned_at\":\"2026-03-22T13:13:48.490474Z\"}],\"timestamp\":1782457011639,\"version\":2}"
+        },
+        {
+          "name": "client-correlated-secret",
+          "value": "{\"alg\":\"HS512\",\"ext\":true,\"k\":\"_1hPuevC1ldqDRliYYiQCttq64F1DdcX6z86dqMnOh06fUqvzPqxzTsMo1L_HYi5KBayO364ArcYAtl5XtpBIYLkWTStZIR8egWDc1VYn6cvx6xbRpskV1b-CudI0D_y82UKqDAyHN67aDzHRWFwyKQ3bOQGFOvDZvDGkx_4JsE\",\"key_ops\":[\"sign\",\"verify\"],\"kty\":\"oct\"}"
+        },
+        {
+          "name": "oai/apps/recentsOrganization/user-AdO9rOu4i7uFZVxePkGkKIRX",
+          "value": "\"by_project\""
+        },
+        {
+          "name": "oai/apps/connectorInContextUpsellBannerV1",
+          "value": "null"
+        },
+        {
+          "name": "statsig.stable_id.1792610830",
+          "value": "\"db92f778-b3f8-4e87-940e-2552b062541b\""
+        },
+        {
+          "name": "oai/apps/debugSettings",
+          "value": "{\"state\":{\"fConversationEndpoint\":\"default\",\"forceFloraCca\":false,\"jsonViewerFilters\":{},\"recordRendering\":false,\"recordSearchClassifierPrompt\":false,\"recordTransformedConvoJson\":false,\"showDebugConversationTurns\":false,\"showPerformanceOverlay\":false,\"maxStreamingCharsPerSecondOverride\":null,\"streamingTextColorDecayDurationMsOverride\":null,\"streamingTextColorDecayHoldPercentOverride\":null},\"version\":0}"
+        },
+        {
+          "name": "oai/apps/tatertotInContextUpsellBannerV2",
+          "value": "null"
+        },
+        {
+          "name": "7a130ac2a239793c",
+          "value": "1"
+        },
+        {
+          "name": "oai/apps/lastSignupAttribution",
+          "value": "{}"
+        }
+      ]
+    }
+  ]
+}
