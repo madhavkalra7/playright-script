@@ -3,15 +3,15 @@
   {
     "type": "resume_conversation_token",
     "kind": "topic",
-    "token": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb25kdWl0X3V1aWQiOiI2ZWFiNmQzMDFmODQ0NzI2OTg3ZWQxZmIwZTZlZjU3NCIsImNvbmR1aXRfbG9jYXRpb24iOiIxMC4xMjkuMjA1LjI1NDo4MzA4IiwiY2x1c3RlciI6InVuaWZpZWQtNzEiLCJpYXQiOjE3ODIzODc0OTIsImV4cCI6MTc4MjM5NDY5MiwidHVybl90b3BpY19pZCI6ImNvbnZlcnNhdGlvbi10dXJuLWRmZmVlMzYwLTU3ZDgtNDA2ZS1iNWU4LTBkZTdkNTdjMzBmOSJ9.py3gEpoQDnSADYLQqm4uvbxMFkh9Oqlp12WKqfyyrljKZUovF5nui5qK1rC-L7Q5VRIlZBtMjnZOxmFo2axVmg",
-    "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43"
+    "token": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb25kdWl0X3V1aWQiOiI3YThlNGNlZDcyZTM0NTE4YjY0OGU1ODEyYzg3YzI5NSIsImNvbmR1aXRfbG9jYXRpb24iOiIxMC4xMzIuMzkuNDg6ODMwNCIsImNsdXN0ZXIiOiJ1bmlmaWVkLTczIiwiaWF0IjoxNzgyNDc3Mjc4LCJleHAiOjE3ODI0ODQ0NzgsInR1cm5fdG9waWNfaWQiOiJjb252ZXJzYXRpb24tdHVybi05NmY5MDdkYy1lMmMzLTRjZjAtOTE0MS1mYjdkNDZiZTYzMDgifQ.t_2hSRpRYkcYmmCNG0ufknoR0-32wHJoazwM14nKNoDHhqHXOGZQDfU5IetdVy5HYkuclRO54HkxtTYdmgZ1iA",
+    "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762"
   },
   {
     "p": "",
     "o": "add",
     "v": {
       "message": {
-        "id": "9992c63b-573f-4b89-ac1f-d905ac92c1bb",
+        "id": "97e67720-03c8-4298-80e0-fa87864ecfa6",
         "author": {
           "role": "system",
           "name": null,
@@ -35,7 +35,7 @@
         "recipient": "all",
         "channel": null
       },
-      "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43",
+      "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762",
       "error": null,
       "error_code": null
     },
@@ -44,7 +44,7 @@
   {
     "v": {
       "message": {
-        "id": "ea7e79b7-5386-4fcd-94b4-0638f1cafc1a",
+        "id": "aa277dc4-4a26-4fec-b59e-94ef2da13414",
         "author": {
           "role": "system",
           "name": null,
@@ -69,7 +69,7 @@
         "recipient": "all",
         "channel": null
       },
-      "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43",
+      "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762",
       "error": null,
       "error_code": null
     },
@@ -78,18 +78,18 @@
   {
     "v": {
       "message": {
-        "id": "14f1c7f8-520c-422d-b0f9-630d53eabb0d",
+        "id": "db9d8e0d-4c94-4c38-9261-9aba46f13dc3",
         "author": {
           "role": "user",
           "name": null,
           "metadata": {}
         },
-        "create_time": 1782387491.092,
+        "create_time": 1782477278.04,
         "update_time": null,
         "content": {
           "content_type": "text",
           "parts": [
-            "What does peer-reviewed evidence say about screen time and kids?"
+            "What happened in the stock market today?"
           ]
         },
         "status": "finished_successfully",
@@ -99,17 +99,17 @@
           "serialization_metadata": {
             "custom_symbol_offsets": []
           },
-          "request_id": "07432423-e1e2-48c4-8225-0000caf431a8",
+          "request_id": "2b132164-9bcc-4b39-85a8-d2badd258510",
           "message_source": null,
-          "turn_exchange_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
-          "working_turn_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
+          "turn_exchange_id": "96f907dc-e2c3-4cf0-9141-fb7d46be6308",
+          "working_turn_id": "96f907dc-e2c3-4cf0-9141-fb7d46be6308",
           "resolved_model_slug": "gpt-5-5",
           "model_switcher_deny": []
         },
         "recipient": "all",
         "channel": null
       },
-      "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43",
+      "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762",
       "error": null,
       "error_code": null
     },
@@ -118,18 +118,18 @@
   {
     "type": "input_message",
     "input_message": {
-      "id": "14f1c7f8-520c-422d-b0f9-630d53eabb0d",
+      "id": "db9d8e0d-4c94-4c38-9261-9aba46f13dc3",
       "author": {
         "role": "user",
         "name": null,
         "metadata": {}
       },
-      "create_time": 1782387491.092,
+      "create_time": 1782477278.04,
       "update_time": null,
       "content": {
         "content_type": "text",
         "parts": [
-          "What does peer-reviewed evidence say about screen time and kids?"
+          "What happened in the stock market today?"
         ]
       },
       "status": "finished_successfully",
@@ -139,12 +139,12 @@
         "serialization_metadata": {
           "custom_symbol_offsets": []
         },
-        "request_id": "07432423-e1e2-48c4-8225-0000caf431a8",
-        "otrace_id": "6a3d132300000000e06f50c2e4518894",
+        "request_id": "2b132164-9bcc-4b39-85a8-d2badd258510",
+        "otrace_id": "6a3e71de00000000112b21556fa3e6a7",
         "message_source": null,
-        "turn_exchange_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
-        "working_turn_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
-        "turn_trace_id": "4424beb5-c9ae-4100-8b7e-6dd04583c843",
+        "turn_exchange_id": "96f907dc-e2c3-4cf0-9141-fb7d46be6308",
+        "working_turn_id": "96f907dc-e2c3-4cf0-9141-fb7d46be6308",
+        "turn_trace_id": "cfa3ea90-7c7c-40a3-a1a6-279d9dff1cc5",
         "useragent": {
           "client_type": "web",
           "is_mobile": false,
@@ -192,23 +192,23 @@
         },
         "paragen_stream_type": "default",
         "resolved_model_slug": "gpt-5-5",
-        "parent_id": "ea7e79b7-5386-4fcd-94b4-0638f1cafc1a"
+        "parent_id": "aa277dc4-4a26-4fec-b59e-94ef2da13414"
       },
       "recipient": "all",
       "channel": null
     },
-    "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43"
+    "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762"
   },
   {
     "v": {
       "message": {
-        "id": "8beba06f-11d2-4b0f-b9c8-18753dc4b4b4",
+        "id": "18320e2f-6916-4e55-9c1a-c0fad11ad94d",
         "author": {
           "role": "assistant",
           "name": null,
           "metadata": {}
         },
-        "create_time": 1782387492.119875,
+        "create_time": 1782477278.655557,
         "update_time": null,
         "content": {
           "content_type": "model_editable_context",
@@ -222,20 +222,20 @@
         "weight": 1,
         "metadata": {
           "search_result_groups": [],
-          "request_id": "07432423-e1e2-48c4-8225-0000caf431a8",
+          "request_id": "2b132164-9bcc-4b39-85a8-d2badd258510",
           "message_type": "next",
-          "turn_exchange_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
-          "working_turn_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
+          "turn_exchange_id": "96f907dc-e2c3-4cf0-9141-fb7d46be6308",
+          "working_turn_id": "96f907dc-e2c3-4cf0-9141-fb7d46be6308",
           "model_slug": "gpt-5-5",
           "default_model_slug": "gpt-5-5",
           "can_save": false,
-          "parent_id": "14f1c7f8-520c-422d-b0f9-630d53eabb0d",
+          "parent_id": "db9d8e0d-4c94-4c38-9261-9aba46f13dc3",
           "model_switcher_deny": []
         },
         "recipient": "all",
         "channel": null
       },
-      "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43",
+      "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762",
       "error": null,
       "error_code": null
     },
@@ -244,13 +244,13 @@
   {
     "v": {
       "message": {
-        "id": "b1391c1f-b983-452c-83cf-a4e94f36cafe",
+        "id": "4c264b69-8929-4007-bfd0-a7b8a9674ef2",
         "author": {
           "role": "system",
           "name": null,
           "metadata": {}
         },
-        "create_time": 1782387492.1537178,
+        "create_time": 1782477278.6783483,
         "update_time": null,
         "content": {
           "content_type": "text",
@@ -267,19 +267,19 @@
           "command": "prompt",
           "contextual_answers_message_type": "api_tool_v2_files_developer_prompt",
           "exclusive_key": "api_tool_v2_files_developer_prompt",
-          "request_id": "07432423-e1e2-48c4-8225-0000caf431a8",
+          "request_id": "2b132164-9bcc-4b39-85a8-d2badd258510",
           "message_type": "next",
-          "turn_exchange_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
-          "working_turn_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
+          "turn_exchange_id": "96f907dc-e2c3-4cf0-9141-fb7d46be6308",
+          "working_turn_id": "96f907dc-e2c3-4cf0-9141-fb7d46be6308",
           "model_slug": "gpt-5-5",
           "default_model_slug": "gpt-5-5",
-          "parent_id": "8beba06f-11d2-4b0f-b9c8-18753dc4b4b4",
+          "parent_id": "18320e2f-6916-4e55-9c1a-c0fad11ad94d",
           "model_switcher_deny": []
         },
         "recipient": "all",
         "channel": null
       },
-      "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43",
+      "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762",
       "error": null,
       "error_code": null
     },
@@ -288,13 +288,13 @@
   {
     "v": {
       "message": {
-        "id": "a8f9375c-58a0-41e2-9d87-ac3f39dea4d9",
+        "id": "adad318b-e110-422b-9550-6db5d09e85b2",
         "author": {
           "role": "system",
           "name": null,
           "metadata": {}
         },
-        "create_time": 1782387492.1543157,
+        "create_time": 1782477278.678963,
         "update_time": null,
         "content": {
           "content_type": "text",
@@ -304,62 +304,75 @@
         },
         "status": "finished_successfully",
         "end_turn": null,
-        "weight": 0,
+        "weight": 1,
         "metadata": {
-          "request_id": "07432423-e1e2-48c4-8225-0000caf431a8",
+          "is_visually_hidden_from_conversation": true,
+          "citations": [],
+          "content_references": [],
+          "story_events": [],
+          "resolved_model_slug": "gpt-5-5",
+          "request_id": "2b132164-9bcc-4b39-85a8-d2badd258510",
           "message_type": "next",
-          "turn_exchange_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
-          "working_turn_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
+          "turn_exchange_id": "96f907dc-e2c3-4cf0-9141-fb7d46be6308",
+          "working_turn_id": "96f907dc-e2c3-4cf0-9141-fb7d46be6308",
           "model_slug": "gpt-5-5",
           "default_model_slug": "gpt-5-5",
-          "parent_id": "b1391c1f-b983-452c-83cf-a4e94f36cafe",
-          "model_switcher_deny": [],
-          "is_visually_hidden_from_conversation": true
+          "parent_id": "4c264b69-8929-4007-bfd0-a7b8a9674ef2",
+          "model_switcher_deny": []
         },
-        "recipient": "all",
+        "recipient": "assistant",
         "channel": null
       },
-      "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43",
+      "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762",
       "error": null,
       "error_code": null
     },
     "c": 5
   },
   {
+    "type": "message_marker",
+    "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762",
+    "message_id": "b8a5c013-665a-49c2-9687-15f39fce0bf2",
+    "marker": "search_start",
+    "event": "first"
+  },
+  {
     "v": {
       "message": {
-        "id": "ffe79a28-2725-464b-9a18-03b6c29495c5",
+        "id": "b8a5c013-665a-49c2-9687-15f39fce0bf2",
         "author": {
-          "role": "system",
+          "role": "assistant",
           "name": null,
           "metadata": {}
         },
-        "create_time": 1782387492.1546676,
+        "create_time": 1782477278.6540885,
         "update_time": null,
         "content": {
-          "content_type": "text",
-          "parts": [
-            ""
-          ]
+          "content_type": "code",
+          "language": "unknown",
+          "response_format_name": null,
+          "text": "search(\"What happened in the stock market today?\")"
         },
         "status": "finished_successfully",
         "end_turn": null,
-        "weight": 0,
+        "weight": 1,
         "metadata": {
-          "request_id": "07432423-e1e2-48c4-8225-0000caf431a8",
+          "citations": [],
+          "content_references": [],
+          "resolved_model_slug": "gpt-5-5",
+          "request_id": "2b132164-9bcc-4b39-85a8-d2badd258510",
           "message_type": "next",
-          "turn_exchange_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
-          "working_turn_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
+          "turn_exchange_id": "96f907dc-e2c3-4cf0-9141-fb7d46be6308",
+          "working_turn_id": "96f907dc-e2c3-4cf0-9141-fb7d46be6308",
           "model_slug": "gpt-5-5",
           "default_model_slug": "gpt-5-5",
-          "parent_id": "a8f9375c-58a0-41e2-9d87-ac3f39dea4d9",
-          "model_switcher_deny": [],
-          "is_visually_hidden_from_conversation": true
+          "parent_id": "adad318b-e110-422b-9550-6db5d09e85b2",
+          "model_switcher_deny": []
         },
-        "recipient": "all",
+        "recipient": "web",
         "channel": null
       },
-      "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43",
+      "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762",
       "error": null,
       "error_code": null
     },
@@ -368,13 +381,147 @@
   {
     "v": {
       "message": {
-        "id": "66d51538-84c8-43d0-be16-e9607fd11cca",
+        "id": "e4e4641a-cef6-4642-b6e7-9f0a50126c85",
         "author": {
-          "role": "assistant",
+          "role": "system",
           "name": null,
           "metadata": {}
         },
-        "create_time": 1782387492.110332,
+        "create_time": 1782477278.735914,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 0,
+        "metadata": {
+          "request_id": "2b132164-9bcc-4b39-85a8-d2badd258510",
+          "message_type": "next",
+          "turn_exchange_id": "96f907dc-e2c3-4cf0-9141-fb7d46be6308",
+          "working_turn_id": "96f907dc-e2c3-4cf0-9141-fb7d46be6308",
+          "model_slug": "gpt-5-5",
+          "default_model_slug": "gpt-5-5",
+          "parent_id": "b8a5c013-665a-49c2-9687-15f39fce0bf2",
+          "model_switcher_deny": [],
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762",
+      "error": null,
+      "error_code": null
+    },
+    "c": 7
+  },
+  {
+    "v": {
+      "message": {
+        "id": "6b0eb87c-0b56-4825-8e02-2ff921e25fb9",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1782477278.7365103,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 0,
+        "metadata": {
+          "request_id": "2b132164-9bcc-4b39-85a8-d2badd258510",
+          "message_type": "next",
+          "turn_exchange_id": "96f907dc-e2c3-4cf0-9141-fb7d46be6308",
+          "working_turn_id": "96f907dc-e2c3-4cf0-9141-fb7d46be6308",
+          "model_slug": "gpt-5-5",
+          "default_model_slug": "gpt-5-5",
+          "parent_id": "e4e4641a-cef6-4642-b6e7-9f0a50126c85",
+          "model_switcher_deny": [],
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762",
+      "error": null,
+      "error_code": null
+    },
+    "c": 8
+  },
+  {
+    "v": {
+      "message": {
+        "id": "2571b715-47b2-40a9-a08d-80df98dc3bcf",
+        "author": {
+          "role": "tool",
+          "name": "web.run",
+          "metadata": {
+            "real_author": "tool:web.run"
+          }
+        },
+        "create_time": 1782477279.452574,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1,
+        "metadata": {
+          "search_model_queries": {
+            "type": "search_model_queries",
+            "queries": [
+              "stock market today June 26 2026 India and US market summary"
+            ]
+          },
+          "request_id": "2b132164-9bcc-4b39-85a8-d2badd258510",
+          "message_type": "next",
+          "turn_exchange_id": "96f907dc-e2c3-4cf0-9141-fb7d46be6308",
+          "working_turn_id": "96f907dc-e2c3-4cf0-9141-fb7d46be6308",
+          "model_slug": "gpt-5-5",
+          "default_model_slug": "gpt-5-5",
+          "parent_id": "6b0eb87c-0b56-4825-8e02-2ff921e25fb9",
+          "model_switcher_deny": []
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762",
+      "error": null,
+      "error_code": null
+    },
+    "c": 9
+  },
+  {
+    "type": "title_generation",
+    "title": "Stock Market Update",
+    "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762"
+  },
+  {
+    "v": {
+      "message": {
+        "id": "f2721940-f400-48fb-a72c-7fbfb16580c6",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {
+            "real_author": "tool:web"
+          }
+        },
+        "create_time": 1782477281.246834,
         "update_time": null,
         "content": {
           "content_type": "text",
@@ -390,127 +537,63 @@
           "content_references": [],
           "story_events": [],
           "resolved_model_slug": "gpt-5-5",
-          "request_id": "07432423-e1e2-48c4-8225-0000caf431a8",
+          "request_id": "2b132164-9bcc-4b39-85a8-d2badd258510",
           "message_type": "next",
-          "turn_exchange_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
-          "working_turn_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
+          "turn_exchange_id": "96f907dc-e2c3-4cf0-9141-fb7d46be6308",
+          "working_turn_id": "96f907dc-e2c3-4cf0-9141-fb7d46be6308",
           "model_slug": "gpt-5-5",
           "default_model_slug": "gpt-5-5",
-          "parent_id": "ffe79a28-2725-464b-9a18-03b6c29495c5",
+          "parent_id": "2571b715-47b2-40a9-a08d-80df98dc3bcf",
           "model_switcher_deny": []
         },
         "recipient": "all",
         "channel": "final"
       },
-      "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43",
+      "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762",
       "error": null,
       "error_code": null
     },
-    "c": 7
+    "c": 10
   },
   {
     "type": "message_marker",
-    "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43",
-    "message_id": "66d51538-84c8-43d0-be16-e9607fd11cca",
+    "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762",
+    "message_id": "f2721940-f400-48fb-a72c-7fbfb16580c6",
     "marker": "user_visible_token",
     "event": "first"
   },
   {
     "type": "message_marker",
-    "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43",
-    "message_id": "66d51538-84c8-43d0-be16-e9607fd11cca",
+    "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762",
+    "message_id": "f2721940-f400-48fb-a72c-7fbfb16580c6",
     "marker": "final_channel_token",
     "event": "first"
   },
   {
+    "o": "patch",
+    "v": [
+      {
+        "p": "/message/content/parts/0",
+        "o": "append",
+        "v": "**Stock"
+      },
+      {
+        "p": "/message/metadata/safe_urls",
+        "o": "add",
+        "v": []
+      }
+    ]
+  },
+  {
     "p": "/message/content/parts/0",
     "o": "append",
-    "v": "The peer"
+    "v": " Market Update — Friday, 26 June "
   },
   {
-    "v": "-reviewed evidence suggests that **screen time itself"
+    "v": "2026**\n\n### 🇮🇳 Indian Markets\nThe"
   },
   {
-    "v": " is not uniformly harmful**."
-  },
-  {
-    "type": "title_generation",
-    "title": "Screen Time and Kids",
-    "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43"
-  },
-  {
-    "v": " The effects depend on factors such as **what children are doing on screens, how much time they spend, their age,"
-  },
-  {
-    "v": " whether screens replace sleep or physical activity, and the quality of parental involvement**.\n\n## What the"
-  },
-  {
-    "v": " evidence consistently shows\n\n### 1. Sleep is one of the clearest concerns\nMany"
-  },
-  {
-    "v": " studies have found that higher screen use—especially before bedtime—is associated with:\n- Short"
-  },
-  {
-    "v": "er sleep duration\n- Delayed bedtimes\n- Poorer sleep quality\n\nThe relationship"
-  },
-  {
-    "v": " is strongest for devices used in the bedroom and for nighttime media"
-  },
-  {
-    "v": " use.\n\n### 2. Excessive recreational screen time is linked to some mental health risks\nLarge"
-  },
-  {
-    "v": " observational studies have reported associations between heavy recreational screen use and:\n- Increased symptoms of anxiety and depression\n- Lower life"
-  },
-  {
-    "v": " satisfaction\n- More behavioral problems in some children and adolescents\n\nHowever, these associations are generally **"
-  },
-  {
-    "v": "small to moderate**, and researchers caution that causation is difficult to establish. Children"
-  },
-  {
-    "v": " experiencing emotional difficulties may also turn to screens more often.\n\n### 3. Physical health can be affected when"
-  },
-  {
-    "v": " screens displace other activities\nHigher sedentary screen time is associated with:\n- Lower physical activity levels\n- Increased"
-  },
-  {
-    "v": " risk of overweight and obesity\n- More musculoskeletal complaints (such as neck pain"
-  },
-  {
-    "v": ")\n\nThese effects appear largely because screen time can replace exercise,"
-  },
-  {
-    "v": " outdoor play, and sleep.\n\n### 4. Educational and interactive"
-  },
-  {
-    "type": "title_generation",
-    "title": "Screen Time and Kids",
-    "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43"
-  },
-  {
-    "v": " content can be beneficial\nResearch indicates that:\n- High-quality educational programming can support language and literacy development in young children.\n-"
-  },
-  {
-    "v": " Interactive educational apps can aid learning when they are age-appropriate and used with adult"
-  },
-  {
-    "v": " guidance.\n- Co-viewing and discussing content with children generally improves learning outcomes.\n\n"
-  },
-  {
-    "v": "## What the evidence does *not* support\nRecent reviews have challenged"
-  },
-  {
-    "v": " the idea that any specific number of daily screen hours automatically causes major harm.\n\nResearchers"
-  },
-  {
-    "v": " increasingly emphasize:\n- **Content** (educational vs. passive consumption)\n- **Context** (alone"
-  },
-  {
-    "v": " or with family)\n- **Timing** (especially before bed"
-  },
-  {
-    "v": ")\n- **Balance** with sleep, exercise, schoolwork, and face-to-face"
+    "v": " Indian stock market was **closed today** because of the Muharr"
   },
   {
     "p": "",
@@ -519,17 +602,17 @@
       {
         "p": "/message/content/parts/0",
         "o": "append",
-        "v": " interactions\n\n## Age considerations\n\nimage_group{\"layout"
+        "v": "am holiday. Trading on both the National Stock Exchange (NSE) and Bombay Stock Exchange (BSE) will resume on **Monday, 29 June 2026**. citeturn0search10turn0search12"
       },
       {
         "p": "/message/metadata/content_references",
         "o": "append",
         "v": [
           {
-            "matched_text": "image_group{\"layout",
+            "matched_text": "citeturn0search10turn0search12",
             "prefix": null,
-            "start_idx": 2331,
-            "end_idx": 2352,
+            "start_idx": 271,
+            "end_idx": 304,
             "safe_urls": [],
             "refs": [],
             "alt": null,
@@ -546,273 +629,132 @@
       {
         "p": "/message/content/parts/0",
         "o": "append",
-        "v": "\":\"carousel\",\"query\":[\"parent reading with infant instead of screen time\",\"preschool child using educational tablet"
+        "v": "\n\n### 🌏 Global Markets\nGlobal markets were mostly"
       },
       {
         "p": "/message/metadata/content_references/0/matched_text",
         "o": "append",
-        "v": "\":\"carousel\",\"query\":[\"parent reading with infant instead of screen time\",\"preschool child using educational tablet"
+        "v": ""
       },
       {
         "p": "/message/metadata/content_references/0/end_idx",
         "o": "replace",
-        "v": 2467
+        "v": 305
       }
     ]
+  },
+  {
+    "type": "url_moderation",
+    "url_moderation_result": {
+      "full_url": "https://m.economictimes.com/markets/stocks/news/stock-market-holiday-2026-is-bse-nse-open-or-closed-today-for-muharram/articleshow/131996163.cms?utm_source=chatgpt.com",
+      "is_safe": true,
+      "is_blocked": false
+    },
+    "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762",
+    "message_id": "f2721940-f400-48fb-a72c-7fbfb16580c6"
+  },
+  {
+    "type": "url_moderation",
+    "url_moderation_result": {
+      "full_url": "https://www.moneycontrol.com/news/business/markets/stock-market-closed-today-nse-bse-shut-for-muharram-on-june-26-13958855.html?utm_source=chatgpt.com",
+      "is_safe": true,
+      "is_blocked": false
+    },
+    "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762",
+    "message_id": "f2721940-f400-48fb-a72c-7fbfb16580c6"
   },
   {
     "v": [
       {
         "p": "/message/content/parts/0",
         "o": "append",
-        "v": " with parent\",\"school-age children balancing homework outdoor play and screen use\",\""
-      },
-      {
-        "p": "/message/metadata/content_references/0/matched_text",
-        "o": "append",
-        "v": " with parent\",\"school-age children balancing homework outdoor play and screen use\",\""
-      },
-      {
-        "p": "/message/metadata/content_references/0/end_idx",
-        "o": "replace",
-        "v": 2551
-      }
-    ]
-  },
-  {
-    "v": [
-      {
-        "p": "/message/content/parts/0",
-        "o": "append",
-        "v": "teenager using smartphone with healthy routines illustration\"]}\n\n- **Under 18 months:** Very"
-      },
-      {
-        "p": "/message/metadata/content_references/0/matched_text",
-        "o": "append",
-        "v": "teenager using smartphone with healthy routines illustration\"]}"
-      },
-      {
-        "p": "/message/metadata/content_references/0/end_idx",
-        "o": "replace",
-        "v": 2615
-      }
-    ]
-  },
-  {
-    "v": [
-      {
-        "p": "/message/content/parts/0",
-        "o": "append",
-        "v": " limited screen exposure, except video chatting.\n- **18–24 months:** If screens are"
-      },
-      {
-        "p": "/message/metadata/content_references/0/alt",
-        "o": "replace",
-        "v": "\n\n\n\n\n\n"
-      },
-      {
-        "p": "/message/metadata/content_references/0/type",
-        "o": "replace",
-        "v": "image_group"
-      },
-      {
-        "p": "/message/metadata/content_references/0/invalid",
-        "o": "replace",
-        "v": false
-      },
-      {
-        "p": "/message/metadata/content_references/0",
-        "o": "append",
-        "v": {
-          "aspect_ratio": "1:1",
-          "images": [
-            {
-              "image_result": null,
-              "image_ref_id": null,
-              "image_search_query": "parent reading with infant instead of screen time",
-              "image_search_system": null
-            },
-            {
-              "image_result": null,
-              "image_ref_id": null,
-              "image_search_query": "preschool child using educational tablet with parent",
-              "image_search_system": null
-            },
-            {
-              "image_result": null,
-              "image_ref_id": null,
-              "image_search_query": "school-age children balancing homework outdoor play and screen use",
-              "image_search_system": null
-            },
-            {
-              "image_result": null,
-              "image_ref_id": null,
-              "image_search_query": "teenager using smartphone with healthy routines illustration",
-              "image_search_system": null
-            }
-          ],
-          "layout": "carousel"
-        }
-      }
-    ]
-  },
-  {
-    "p": "/message/content/parts/0",
-    "o": "append",
-    "v": " introduced, choose high-quality programming and use it together with an adult.\n- **2–5 years:**"
-  },
-  {
-    "v": " Prioritize educational content and maintain reasonable limits.\n- **School-age children and teens"
-  },
-  {
-    "v": ":** Focus on healthy routines rather than strict hourly caps, ensuring screens do not interfere with sleep, exercise,"
-  },
-  {
-    "v": " learning, and social relationships.\n\n## Current scientific consensus\nThe peer-reviewed literature increasingly supports a nuanced"
-  },
-  {
-    "v": " view:\n\n> Screens are tools, not inherently harmful or beneficial.\n\nThe strongest evidence of"
-  },
-  {
-    "v": " harm arises when heavy recreational screen use consistently displaces:\n"
-  },
-  {
-    "v": "1. Sleep\n2. Physical activity\n3. In-person social interaction\n4. Development"
-  },
-  {
-    "p": "",
-    "o": "patch",
-    "v": [
-      {
-        "p": "/message/content/parts/0",
-        "o": "append",
-        "v": "ally appropriate activities\n\nModerate, purposeful, and supervised use—particularly"
+        "v": " under pressure today:\n\n- 🇰🇷 South Korea's KOSPI plunged as"
       },
       {
         "p": "/message/metadata/content_references/0/safe_urls",
         "o": "append",
         "v": [
-          "https://images.openai.com/static-rsc-4/3CmlNbiyDlUxIDK9rJeVo8Ia6ZDNZaVYzLuPDeIHBq4fz1ZhhlWO5DNBCWAZhsgmxu0_L6jnGLBrjHWvGUdL_YgPjdrcH22lyBYnFAjKdspCFaZd2YRdkiaq8MuA_w_vSollQWvyoDsBOs-KTwG1GDC8WsYB8LSxpBQDlfaKKJKcZylBTgyzDgJ_zIuo2kOB?purpose=fullsize",
-          "https://images.openai.com/static-rsc-4/BZmOtXPumOc509jOs-1_gCg74-U1rsJ6jgILEqI7fKnGLnntDsUEah-AMnQdX1Q4AOaZBV5nGbu2P9SU8rB8JkNQaeskJD2zCvNw86Lx2wNwN-3AvARFs000WdOcN54XffXPznmfu__43YNd2QsjcmH9k8dzimh3zJjNTbMtHkVTGNP5qjaV03tGOSUYZpRU?purpose=fullsize",
-          "https://images.openai.com/static-rsc-4/Nd2kDTeAYlbIKpjHWaSGvlmlao81fan1svoSZhoCs783Epl94rZRmdXIzp9XZXHsdOgwIOCPZLYOxjXpQtpkjooBG33eWUdUiPbVOH3d1EqUrKu5Rp4Pz9mKRkzs3qBgLE6JO_nsllOzHIaLW8ss5tlzXpxF9HRRnGqp5wQX6VpzA6it-glaKxeGZqwRdZO9?purpose=fullsize",
-          "https://images.openai.com/static-rsc-4/nY53OJHxK_lOaiAMYwO4AZ_tpp8OlcZMyHYjb1Xfaq-ewgg6dH1LN3ps9ulsKPCTmeIHKqchK3EroduPM35CWRtknY1fb1QX5kSWksCHm8G7me2GjplBIE8sBJ3Xl39eS6M_wS4nShJ3wP0GN-MgukvSs4LNCr8DJ3idLkgPcEuuzH_uH7yj_wXdzCRQWqux?purpose=fullsize"
+          "https://m.economictimes.com/markets/stocks/news/stock-market-holiday-2026-is-bse-nse-open-or-closed-today-for-muharram/articleshow/131996163.cms",
+          "https://m.economictimes.com/markets/stocks/news/stock-market-holiday-2026-is-bse-nse-open-or-closed-today-for-muharram/articleshow/131996163.cms?utm_source=chatgpt.com",
+          "https://www.moneycontrol.com/news/business/markets/stock-market-closed-today-nse-bse-shut-for-muharram-on-june-26-13958855.html",
+          "https://www.moneycontrol.com/news/business/markets/stock-market-closed-today-nse-bse-shut-for-muharram-on-june-26-13958855.html?utm_source=chatgpt.com"
         ]
       },
       {
         "p": "/message/metadata/content_references/0/alt",
         "o": "replace",
-        "v": "![Image](https://images.openai.com/static-rsc-4/BZmOtXPumOc509jOs-1_gCg74-U1rsJ6jgILEqI7fKnGLnntDsUEah-AMnQdX1Q4AOaZBV5nGbu2P9SU8rB8JkNQaeskJD2zCvNw86Lx2wNwN-3AvARFs000WdOcN54XffXPznmfu__43YNd2QsjcmH9k8dzimh3zJjNTbMtHkVTGNP5qjaV03tGOSUYZpRU?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/nY53OJHxK_lOaiAMYwO4AZ_tpp8OlcZMyHYjb1Xfaq-ewgg6dH1LN3ps9ulsKPCTmeIHKqchK3EroduPM35CWRtknY1fb1QX5kSWksCHm8G7me2GjplBIE8sBJ3Xl39eS6M_wS4nShJ3wP0GN-MgukvSs4LNCr8DJ3idLkgPcEuuzH_uH7yj_wXdzCRQWqux?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/Nd2kDTeAYlbIKpjHWaSGvlmlao81fan1svoSZhoCs783Epl94rZRmdXIzp9XZXHsdOgwIOCPZLYOxjXpQtpkjooBG33eWUdUiPbVOH3d1EqUrKu5Rp4Pz9mKRkzs3qBgLE6JO_nsllOzHIaLW8ss5tlzXpxF9HRRnGqp5wQX6VpzA6it-glaKxeGZqwRdZO9?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/3CmlNbiyDlUxIDK9rJeVo8Ia6ZDNZaVYzLuPDeIHBq4fz1ZhhlWO5DNBCWAZhsgmxu0_L6jnGLBrjHWvGUdL_YgPjdrcH22lyBYnFAjKdspCFaZd2YRdkiaq8MuA_w_vSollQWvyoDsBOs-KTwG1GDC8WsYB8LSxpBQDlfaKKJKcZylBTgyzDgJ_zIuo2kOB?purpose=fullsize)"
+        "v": "([moneycontrol.com](https://www.moneycontrol.com/news/business/markets/stock-market-closed-today-nse-bse-shut-for-muharram-on-june-26-13958855.html?utm_source=chatgpt.com))"
       },
       {
-        "p": "/message/metadata/content_references/0/images/0/image_result",
+        "p": "/message/metadata/content_references/0/type",
         "o": "replace",
+        "v": "grouped_webpages"
+      },
+      {
+        "p": "/message/metadata/content_references/0/invalid",
+        "o": "remove"
+      },
+      {
+        "p": "/message/metadata/content_references/0",
+        "o": "append",
         "v": {
-          "url": "https://muallim.edu.az/usaga-kitab-oxuyun?utm_source=chatgpt.com",
-          "content_url": "https://images.openai.com/static-rsc-4/BZmOtXPumOc509jOs-1_gCg74-U1rsJ6jgILEqI7fKnGLnntDsUEah-AMnQdX1Q4AOaZBV5nGbu2P9SU8rB8JkNQaeskJD2zCvNw86Lx2wNwN-3AvARFs000WdOcN54XffXPznmfu__43YNd2QsjcmH9k8dzimh3zJjNTbMtHkVTGNP5qjaV03tGOSUYZpRU?purpose=fullsize",
-          "content_size": {
-            "width": 750,
-            "height": 521
-          },
-          "thumbnail_url": "https://images.openai.com/static-rsc-4/gMnLHx6X_Vv1vZeLdSx-5y0RBPVnUmOpwHS76Hh2sfFYwjIdoDyJXrJDWJuQNcL5kntfRIYnOxRLAw3AJbJvyjOzPlYl2ApoSeWPtB97q_cWGXKincaugjSu8MZ3Ey0h1lVJGBMDFMDITC9wRgvbFk4mnVSr528_h8GaqONXL-E?purpose=inline",
-          "thumbnail_size": {
-            "width": 750,
-            "height": 521
-          },
-          "thumbnail_crop_info": {
-            "center_x_percent": 0.5333333333333333,
-            "center_y_percent": 0.2783109404990403
-          },
-          "title": "Uşağa kitab oxuyun  - Muallim.edu.az",
-          "thumbnail_render_mode": "thumbnail_only",
-          "show_url": true,
-          "scores": null,
-          "original_content_url": "https://muallim.edu.az/uploads/images/202510/usaga-kitab-oxuyun.jpg"
+          "items": [
+            {
+              "title": "Stock market closed: NSE, BSE shut for Muharram today",
+              "url": "https://www.moneycontrol.com/news/business/markets/stock-market-closed-today-nse-bse-shut-for-muharram-on-june-26-13958855.html?utm_source=chatgpt.com",
+              "attribution": "moneycontrol.com",
+              "pub_date": 1782434080.563515,
+              "snippet": null,
+              "attribution_segments": null,
+              "supporting_websites": [
+                {
+                  "title": "Stock Market Holiday 2026: Is BSE, NSE open or closed today for Muharram?",
+                  "url": "https://m.economictimes.com/markets/stocks/news/stock-market-holiday-2026-is-bse-nse-open-or-closed-today-for-muharram/articleshow/131996163.cms?utm_source=chatgpt.com",
+                  "pub_date": null,
+                  "snippet": "On June 26, 2026, the Indian stock market, including the Bombay Stock Exchange (BSE) and the National Stock Exchange (NSE), is closed in observance of Muharram. Trading activities are suspended for the day due to this religious holiday.",
+                  "result_source": "bright",
+                  "attribution": "m.economictimes.com"
+                }
+              ],
+              "result_source": "bright",
+              "refs": [
+                {
+                  "turn_index": 0,
+                  "ref_type": "search",
+                  "ref_index": 10
+                },
+                {
+                  "turn_index": 0,
+                  "ref_type": "search",
+                  "ref_index": 12
+                }
+              ],
+              "hue": null,
+              "attributions": null
+            }
+          ],
+          "status": "done",
+          "style": null,
+          "fallback_items": null,
+          "error": null
         }
       },
       {
-        "p": "/message/metadata/content_references/0/images/1/image_result",
-        "o": "replace",
-        "v": {
-          "url": "https://wonjo.kids/blog/learning/benefits-of-educational-apps-for-preschoolers/?utm_source=chatgpt.com",
-          "content_url": "https://images.openai.com/static-rsc-4/nY53OJHxK_lOaiAMYwO4AZ_tpp8OlcZMyHYjb1Xfaq-ewgg6dH1LN3ps9ulsKPCTmeIHKqchK3EroduPM35CWRtknY1fb1QX5kSWksCHm8G7me2GjplBIE8sBJ3Xl39eS6M_wS4nShJ3wP0GN-MgukvSs4LNCr8DJ3idLkgPcEuuzH_uH7yj_wXdzCRQWqux?purpose=fullsize",
-          "content_size": {
-            "width": 2121,
-            "height": 1414
-          },
-          "thumbnail_url": "https://images.openai.com/static-rsc-4/FvnrL2Oh2kwn9rJ6o3qCmLvoYOc6ALYagmdm0VWIrh1e_gvhOkPB_mvBZLoRhCbZHokMAvwNYYe8CYM8ay48gLbehezTWf-zQRZgdZJffb-RNyeA3_oZChBT32gvsKjBKn5HAh09Bu1pDeZa1MLq6MbU_RYWwtF9BY0Mx0yMLR0?purpose=inline",
-          "thumbnail_size": {
-            "width": 1290,
-            "height": 860
-          },
-          "thumbnail_crop_info": {
-            "center_x_percent": 0.652050919377652,
-            "center_y_percent": 0.3330975954738331
-          },
-          "title": "Benefits of Educational Apps for Kids",
-          "thumbnail_render_mode": "thumbnail_only",
-          "show_url": true,
-          "scores": null,
-          "original_content_url": "https://wonjo.kids/wp-content/uploads/2025/10/iStock-1352645101.jpg"
-        }
-      },
-      {
-        "p": "/message/metadata/content_references/0/images/2/image_result",
-        "o": "replace",
-        "v": {
-          "url": "https://ace.edu/blog/new-kids-on-the-block-reaching-and-teaching-generation-alpha/?utm_source=chatgpt.com",
-          "content_url": "https://images.openai.com/static-rsc-4/Nd2kDTeAYlbIKpjHWaSGvlmlao81fan1svoSZhoCs783Epl94rZRmdXIzp9XZXHsdOgwIOCPZLYOxjXpQtpkjooBG33eWUdUiPbVOH3d1EqUrKu5Rp4Pz9mKRkzs3qBgLE6JO_nsllOzHIaLW8ss5tlzXpxF9HRRnGqp5wQX6VpzA6it-glaKxeGZqwRdZO9?purpose=fullsize",
-          "content_size": {
-            "width": 1024,
-            "height": 628
-          },
-          "thumbnail_url": "https://images.openai.com/static-rsc-4/OYAsrbjUE1X8dzZP-SG-jbHSRD5Rfxfp0trC2PljFsk4rs1L9Aogqj_NYago6PI0wD2gxPk6Zv5sBG-E8SwSrZ1oGH1qus5kclulff9avAadWesF1443J5VcyVKbwvIeuZGRIpJ5m1d1RyEj8fS85hutD1ohqQeGv-8aRb4Ua9M?purpose=inline",
-          "thumbnail_size": {
-            "width": 1024,
-            "height": 628
-          },
-          "thumbnail_crop_info": {
-            "center_x_percent": 0.537109375,
-            "center_y_percent": 0.24363057324840764
-          },
-          "title": "New Kids on the Block: Reaching and Teaching Generation Alpha | ACE Blog",
-          "thumbnail_render_mode": "thumbnail_only",
-          "show_url": true,
-          "scores": null,
-          "original_content_url": "https://ace.edu/wp-content/uploads/2023/08/08-teaching-generation-alpha_Blog-1024x628.png"
-        }
-      },
-      {
-        "p": "/message/metadata/content_references/0/images/3/image_result",
-        "o": "replace",
-        "v": {
-          "url": "https://www.confidanthealth.com/patients/substance-use-disorder-treatment?utm_source=chatgpt.com",
-          "content_url": "https://images.openai.com/static-rsc-4/3CmlNbiyDlUxIDK9rJeVo8Ia6ZDNZaVYzLuPDeIHBq4fz1ZhhlWO5DNBCWAZhsgmxu0_L6jnGLBrjHWvGUdL_YgPjdrcH22lyBYnFAjKdspCFaZd2YRdkiaq8MuA_w_vSollQWvyoDsBOs-KTwG1GDC8WsYB8LSxpBQDlfaKKJKcZylBTgyzDgJ_zIuo2kOB?purpose=fullsize",
-          "content_size": {
-            "width": 845,
-            "height": 549
-          },
-          "thumbnail_url": "https://images.openai.com/static-rsc-4/-bDESnf93AwguuUL9OBcQQfpcS4vQ41y_NyugEI1JVwDwR8RTKGC2zXPNXQO0hHiP2eFf4VByi3NFuVy_4RHLsUNCkpB7GAZLFXqCJwh3pt85aCkjZX_zESmQIEdhf-BGXUz9raJ1K-NPOVX-0WVPeV0aZ09OUMuJQq7S3hPLUo?purpose=inline",
-          "thumbnail_size": {
-            "width": 845,
-            "height": 549
-          },
-          "thumbnail_crop_info": {
-            "center_x_percent": 0.4461538461538462,
-            "center_y_percent": 0.3151183970856102
-          },
-          "title": "Substance Use Disorder Treatment & Support | Confidant Health",
-          "thumbnail_render_mode": "thumbnail_only",
-          "show_url": true,
-          "scores": null,
-          "original_content_url": "https://cdn.prod.website-files.com/63e30b2d88285e413bb78459/6965e0eed1d1d5448bf3c7d4_bad-working.jpg"
-        }
+        "p": "/message/metadata/safe_urls",
+        "o": "append",
+        "v": [
+          "https://m.economictimes.com/markets/stocks/news/stock-market-holiday-2026-is-bse-nse-open-or-closed-today-for-muharram/articleshow/131996163.cms",
+          "https://m.economictimes.com/markets/stocks/news/stock-market-holiday-2026-is-bse-nse-open-or-closed-today-for-muharram/articleshow/131996163.cms?utm_source=chatgpt.com",
+          "https://www.moneycontrol.com/news/business/markets/stock-market-closed-today-nse-bse-shut-for-muharram-on-june-26-13958855.html",
+          "https://www.moneycontrol.com/news/business/markets/stock-market-closed-today-nse-bse-shut-for-muharram-on-june-26-13958855.html?utm_source=chatgpt.com"
+        ]
       }
     ]
   },
   {
     "p": "/message/content/parts/0",
     "o": "append",
-    "v": " educational use—does not appear to produce large negative effects for most children and"
+    "v": " much as **8%**, triggering a temporary trading halt. Major chipmakers, including Samsung and SK Hynix, saw sharp declines amid selling"
   },
   {
     "p": "",
@@ -821,7 +763,781 @@
       {
         "p": "/message/content/parts/0",
         "o": "append",
-        "v": " may provide meaningful benefits in certain contexts."
+        "v": " in AI and semiconductor stocks. citeturn0search4turn0search6\n- 🇯"
+      },
+      {
+        "p": "/message/metadata/content_references/0/items/0/supporting_websites/0/attribution",
+        "o": "replace",
+        "v": "The Economic Times"
+      },
+      {
+        "p": "/message/metadata/content_references",
+        "o": "append",
+        "v": [
+          {
+            "matched_text": "citeturn0search4turn0search6",
+            "prefix": null,
+            "start_idx": 581,
+            "end_idx": 613,
+            "safe_urls": [],
+            "refs": [],
+            "alt": null,
+            "prompt_text": null,
+            "type": "hidden",
+            "invalid": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "v": [
+      {
+        "p": "/message/content/parts/0",
+        "o": "append",
+        "v": "🇵 Japanese equities also fell significantly, with technology shares leading losses. citeturn"
+      },
+      {
+        "p": "/message/metadata/content_references",
+        "o": "append",
+        "v": [
+          {
+            "matched_text": "citeturn",
+            "prefix": null,
+            "start_idx": 701,
+            "end_idx": 711,
+            "safe_urls": [],
+            "refs": [],
+            "alt": null,
+            "prompt_text": null,
+            "type": "hidden",
+            "invalid": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "url_moderation",
+    "url_moderation_result": {
+      "full_url": "https://www.aajtak.in/business/news/story/south-korean-stock-market-kospi-trading-halts-after-chipmaker-slide-tutd-dskc-2588027-2026-06-26?utm_source=chatgpt.com",
+      "is_safe": true,
+      "is_blocked": false
+    },
+    "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762",
+    "message_id": "f2721940-f400-48fb-a72c-7fbfb16580c6"
+  },
+  {
+    "type": "url_moderation",
+    "url_moderation_result": {
+      "full_url": "https://m.economictimes.com/tech/artificial-intelligence/south-koreas-favourite-ai-stocks-slide-again-drag-kospi-index-down-8/articleshow/132012720.cms?utm_source=chatgpt.com",
+      "is_safe": true,
+      "is_blocked": false
+    },
+    "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762",
+    "message_id": "f2721940-f400-48fb-a72c-7fbfb16580c6"
+  },
+  {
+    "v": [
+      {
+        "p": "/message/content/parts/0",
+        "o": "append",
+        "v": "0search4turn0news24\n- 🇪🇺 European"
+      },
+      {
+        "p": "/message/metadata/content_references/1/safe_urls",
+        "o": "append",
+        "v": [
+          "https://m.economictimes.com/tech/artificial-intelligence/south-koreas-favourite-ai-stocks-slide-again-drag-kospi-index-down-8/articleshow/132012720.cms",
+          "https://m.economictimes.com/tech/artificial-intelligence/south-koreas-favourite-ai-stocks-slide-again-drag-kospi-index-down-8/articleshow/132012720.cms?utm_source=chatgpt.com",
+          "https://www.aajtak.in/business/news/story/south-korean-stock-market-kospi-trading-halts-after-chipmaker-slide-tutd-dskc-2588027-2026-06-26",
+          "https://www.aajtak.in/business/news/story/south-korean-stock-market-kospi-trading-halts-after-chipmaker-slide-tutd-dskc-2588027-2026-06-26?utm_source=chatgpt.com"
+        ]
+      },
+      {
+        "p": "/message/metadata/content_references/1/alt",
+        "o": "replace",
+        "v": "([aajtak.in](https://www.aajtak.in/business/news/story/south-korean-stock-market-kospi-trading-halts-after-chipmaker-slide-tutd-dskc-2588027-2026-06-26?utm_source=chatgpt.com))"
+      },
+      {
+        "p": "/message/metadata/content_references/1/type",
+        "o": "replace",
+        "v": "grouped_webpages"
+      },
+      {
+        "p": "/message/metadata/content_references/1/invalid",
+        "o": "remove"
+      },
+      {
+        "p": "/message/metadata/content_references/1",
+        "o": "append",
+        "v": {
+          "items": [
+            {
+              "title": "Stock Market Trading Halts: आज फिर क्रैश... साउथ कोरिया के बाजार को क्या हुआ? Samsung का बुरा हाल",
+              "url": "https://www.aajtak.in/business/news/story/south-korean-stock-market-kospi-trading-halts-after-chipmaker-slide-tutd-dskc-2588027-2026-06-26?utm_source=chatgpt.com",
+              "attribution": "aajtak.in",
+              "pub_date": 1782459280.265217,
+              "snippet": null,
+              "attribution_segments": null,
+              "supporting_websites": [
+                {
+                  "title": "South Korea’s favourite AI stocks slide again, drag Kospi index down 8%",
+                  "url": "https://m.economictimes.com/tech/artificial-intelligence/south-koreas-favourite-ai-stocks-slide-again-drag-kospi-index-down-8/articleshow/132012720.cms?utm_source=chatgpt.com",
+                  "pub_date": null,
+                  "snippet": null,
+                  "result_source": "bright",
+                  "attribution": "The Economic Times"
+                }
+              ],
+              "result_source": "bright",
+              "refs": [
+                {
+                  "turn_index": 0,
+                  "ref_type": "search",
+                  "ref_index": 4
+                },
+                {
+                  "turn_index": 0,
+                  "ref_type": "search",
+                  "ref_index": 6
+                }
+              ],
+              "hue": null,
+              "attributions": null
+            }
+          ],
+          "status": "done",
+          "style": null,
+          "fallback_items": null,
+          "error": null
+        }
+      },
+      {
+        "p": "/message/metadata/content_references/2/matched_text",
+        "o": "append",
+        "v": "0search4turn0news24"
+      },
+      {
+        "p": "/message/metadata/content_references/2/end_idx",
+        "o": "replace",
+        "v": 732
+      },
+      {
+        "p": "/message/metadata/safe_urls/2",
+        "o": "replace",
+        "v": "https://m.economictimes.com/tech/artificial-intelligence/south-koreas-favourite-ai-stocks-slide-again-drag-kospi-index-down-8/articleshow/132012720.cms"
+      },
+      {
+        "p": "/message/metadata/safe_urls/3",
+        "o": "replace",
+        "v": "https://m.economictimes.com/tech/artificial-intelligence/south-koreas-favourite-ai-stocks-slide-again-drag-kospi-index-down-8/articleshow/132012720.cms?utm_source=chatgpt.com"
+      },
+      {
+        "p": "/message/metadata/safe_urls",
+        "o": "append",
+        "v": [
+          "https://www.aajtak.in/business/news/story/south-korean-stock-market-kospi-trading-halts-after-chipmaker-slide-tutd-dskc-2588027-2026-06-26",
+          "https://www.aajtak.in/business/news/story/south-korean-stock-market-kospi-trading-halts-after-chipmaker-slide-tutd-dskc-2588027-2026-06-26?utm_source=chatgpt.com",
+          "https://www.moneycontrol.com/news/business/markets/stock-market-closed-today-nse-bse-shut-for-muharram-on-june-26-13958855.html",
+          "https://www.moneycontrol.com/news/business/markets/stock-market-closed-today-nse-bse-shut-for-muharram-on-june-26-13958855.html?utm_source=chatgpt.com"
+        ]
+      }
+    ]
+  },
+  {
+    "v": [
+      {
+        "p": "/message/content/parts/0",
+        "o": "append",
+        "v": " markets traded lower due to concerns about technology valuations and inflation risks. citeturn0news24turn"
+      },
+      {
+        "p": "/message/metadata/content_references",
+        "o": "append",
+        "v": [
+          {
+            "matched_text": "citeturn0news24turn",
+            "prefix": null,
+            "start_idx": 833,
+            "end_idx": 855,
+            "safe_urls": [],
+            "refs": [],
+            "alt": null,
+            "prompt_text": null,
+            "type": "hidden",
+            "invalid": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "url_moderation",
+    "url_moderation_result": {
+      "full_url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-26/?utm_source=chatgpt.com",
+      "is_safe": true,
+      "is_blocked": false
+    },
+    "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762",
+    "message_id": "f2721940-f400-48fb-a72c-7fbfb16580c6"
+  },
+  {
+    "v": [
+      {
+        "p": "/message/content/parts/0",
+        "o": "append",
+        "v": "0news28\n\n### 🇺🇸 U.S. Markets\nU.S. stock futures were mixed as investors awaited key"
+      },
+      {
+        "p": "/message/metadata/content_references/1/alt",
+        "o": "replace",
+        "v": "([AajTak](https://www.aajtak.in/business/news/story/south-korean-stock-market-kospi-trading-halts-after-chipmaker-slide-tutd-dskc-2588027-2026-06-26?utm_source=chatgpt.com))"
+      },
+      {
+        "p": "/message/metadata/content_references/1/items/0/attribution",
+        "o": "replace",
+        "v": "AajTak"
+      },
+      {
+        "p": "/message/metadata/content_references/2/safe_urls",
+        "o": "append",
+        "v": [
+          "https://www.aajtak.in/business/news/story/south-korean-stock-market-kospi-trading-halts-after-chipmaker-slide-tutd-dskc-2588027-2026-06-26",
+          "https://www.aajtak.in/business/news/story/south-korean-stock-market-kospi-trading-halts-after-chipmaker-slide-tutd-dskc-2588027-2026-06-26?utm_source=chatgpt.com",
+          "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-26/",
+          "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-26/?utm_source=chatgpt.com"
+        ]
+      },
+      {
+        "p": "/message/metadata/content_references/2/alt",
+        "o": "replace",
+        "v": "([AajTak](https://www.aajtak.in/business/news/story/south-korean-stock-market-kospi-trading-halts-after-chipmaker-slide-tutd-dskc-2588027-2026-06-26?utm_source=chatgpt.com))"
+      },
+      {
+        "p": "/message/metadata/content_references/2/type",
+        "o": "replace",
+        "v": "grouped_webpages"
+      },
+      {
+        "p": "/message/metadata/content_references/2/invalid",
+        "o": "remove"
+      },
+      {
+        "p": "/message/metadata/content_references/2",
+        "o": "append",
+        "v": {
+          "items": [
+            {
+              "title": "Stock Market Trading Halts: आज फिर क्रैश... साउथ कोरिया के बाजार को क्या हुआ? Samsung का बुरा हाल",
+              "url": "https://www.aajtak.in/business/news/story/south-korean-stock-market-kospi-trading-halts-after-chipmaker-slide-tutd-dskc-2588027-2026-06-26?utm_source=chatgpt.com",
+              "attribution": "AajTak",
+              "pub_date": 1782459280.265217,
+              "snippet": null,
+              "attribution_segments": null,
+              "supporting_websites": [
+                {
+                  "title": "Stocks slip as Apple price hikes fan tech jitters, oil slides",
+                  "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-26/?utm_source=chatgpt.com",
+                  "pub_date": null,
+                  "snippet": "Global stock markets declined on Friday, primarily driven by concerns over inflation linked to Apple’s latest price hikes, which reflect increased costs for memory and storage chips. This move triggered broader unease about tech sector spending and its inflationary impact. Apple’s shares had dropped 6% on Thursday and remained under scrutiny. Adding to the market's cautious mood, reports emerged that OpenAI might delay its IPO to next year.\n\nMeanwhile, oil prices fell over 3%, nearing four-month lows despite ongoing challenges reopening the Strait of Hormuz. Contributing to the downward pressure on oil was Saudi Aramco’s resumption of exports from Ras Tanura, likely increasing global supply. European stocks dropped about 1%, with tech falling 2%, while Wall Street futures pointed to additional declines. Asian tech stocks also suffered, with South Korea’s KOSPI plunging up to 9%, triggering a trading halt.\n\nCurrency markets saw the yen approach its weakest level in 40 years against the dollar, despite in-line U.S. inflation data and reduced expectations of a Federal Reserve rate hike. The U.S. economy grew faster in Q1 due to lower imports, but nearly flat consumer spending raised concerns for Q2. U.S. Treasury yields fell, and gold prices rose slightly by 0.5% to $4,046.",
+                  "result_source": "labrador",
+                  "attribution": "reuters.com"
+                }
+              ],
+              "result_source": "bright",
+              "refs": [
+                {
+                  "turn_index": 0,
+                  "ref_type": "search",
+                  "ref_index": 4
+                },
+                {
+                  "turn_index": 0,
+                  "ref_type": "news",
+                  "ref_index": 24
+                }
+              ],
+              "hue": null,
+              "attributions": null
+            }
+          ],
+          "status": "done",
+          "style": null,
+          "fallback_items": null,
+          "error": null
+        }
+      },
+      {
+        "p": "/message/metadata/content_references/3/matched_text",
+        "o": "append",
+        "v": "0news28"
+      },
+      {
+        "p": "/message/metadata/content_references/3/end_idx",
+        "o": "replace",
+        "v": 863
+      },
+      {
+        "p": "/message/metadata/safe_urls",
+        "o": "append",
+        "v": [
+          "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-26/",
+          "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-26/?utm_source=chatgpt.com"
+        ]
+      }
+    ]
+  },
+  {
+    "p": "/message/content/parts/0",
+    "o": "append",
+    "v": " economic data and assessed inflation concerns:\n\n- Investors are closely"
+  },
+  {
+    "type": "url_moderation",
+    "url_moderation_result": {
+      "full_url": "https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates?utm_source=chatgpt.com",
+      "is_safe": true,
+      "is_blocked": false
+    },
+    "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762",
+    "message_id": "f2721940-f400-48fb-a72c-7fbfb16580c6"
+  },
+  {
+    "p": "",
+    "o": "patch",
+    "v": [
+      {
+        "p": "/message/content/parts/0",
+        "o": "append",
+        "v": " watching upcoming U.S. economic reports that could influence expectations for interest-rate decisions.\n"
+      },
+      {
+        "p": "/message/metadata/content_references/2/items/0/supporting_websites/0/attribution",
+        "o": "replace",
+        "v": "Reuters"
+      },
+      {
+        "p": "/message/metadata/content_references/3/safe_urls",
+        "o": "append",
+        "v": [
+          "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-26/",
+          "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-26/?utm_source=chatgpt.com",
+          "https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates",
+          "https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates?utm_source=chatgpt.com"
+        ]
+      },
+      {
+        "p": "/message/metadata/content_references/3/alt",
+        "o": "replace",
+        "v": "([Reuters](https://www.reuters.com/world/china/global-markets-global-markets-2026-06-26/?utm_source=chatgpt.com))"
+      },
+      {
+        "p": "/message/metadata/content_references/3/type",
+        "o": "replace",
+        "v": "grouped_webpages"
+      },
+      {
+        "p": "/message/metadata/content_references/3/invalid",
+        "o": "remove"
+      },
+      {
+        "p": "/message/metadata/content_references/3",
+        "o": "append",
+        "v": {
+          "items": [
+            {
+              "title": "Stocks slip as Apple price hikes fan tech jitters, oil slides",
+              "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-26/?utm_source=chatgpt.com",
+              "attribution": "Reuters",
+              "pub_date": 1782440535,
+              "snippet": "Global stock markets declined on Friday, primarily driven by concerns over inflation linked to Apple’s latest price hikes, which reflect increased costs for memory and storage chips. This move triggered broader unease about tech sector spending and its inflationary impact. Apple’s shares had dropped 6% on Thursday and remained under scrutiny. Adding to the market's cautious mood, reports emerged that OpenAI might delay its IPO to next year.\n\nMeanwhile, oil prices fell over 3%, nearing four-month lows despite ongoing challenges reopening the Strait of Hormuz. Contributing to the downward pressure on oil was Saudi Aramco’s resumption of exports from Ras Tanura, likely increasing global supply. European stocks dropped about 1%, with tech falling 2%, while Wall Street futures pointed to additional declines. Asian tech stocks also suffered, with South Korea’s KOSPI plunging up to 9%, triggering a trading halt.\n\nCurrency markets saw the yen approach its weakest level in 40 years against the dollar, despite in-line U.S. inflation data and reduced expectations of a Federal Reserve rate hike. The U.S. economy grew faster in Q1 due to lower imports, but nearly flat consumer spending raised concerns for Q2. U.S. Treasury yields fell, and gold prices rose slightly by 0.5% to $4,046.",
+              "attribution_segments": null,
+              "supporting_websites": [
+                {
+                  "title": "Markets fall as tech worries rise; Brexit and Trump tariffs take bite out of UK food exports - business live",
+                  "url": "https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates?utm_source=chatgpt.com",
+                  "pub_date": null,
+                  "snippet": "Global financial markets are under pressure as investor sentiment shifts due to falling tech stocks and geopolitical risks. The FTSE 100 and FTSE 250 indices in the UK fell, following similar losses across European and Asian markets. Key tech companies like Nvidia, Palantir, and Oracle are driving the decline, with growing fears that the AI boom may fuel inflation rather than spur economic growth.\n\nIn the UK, food and drink exports dropped to their lowest in a decade due to Brexit-related trade friction and US tariffs, with exports to the US falling 28%. This also resulted in a significant reduction in the UK’s export surplus with the US. At the same time, a heatwave has increased electricity demand, prompting energy supply warnings and requests for additional capacity in Britain.\n\nPubs and bars saw a surge in customers due to the heatwave, though London restaurants recorded a drop in activity. Meanwhile, Volkswagen plans to cut up to 100,000 jobs, and Brent crude prices eased after tensions in the Strait of Hormuz. Ofgem has favored 16 new energy storage projects to reduce reliance on fossil fuels, emphasizing the UK’s push for clean energy investments amid international conflict and climate challenges.",
+                  "result_source": "labrador",
+                  "attribution": "theguardian.com"
+                }
+              ],
+              "result_source": "labrador",
+              "refs": [
+                {
+                  "turn_index": 0,
+                  "ref_type": "news",
+                  "ref_index": 24
+                },
+                {
+                  "turn_index": 0,
+                  "ref_type": "news",
+                  "ref_index": 28
+                }
+              ],
+              "hue": null,
+              "attributions": null
+            }
+          ],
+          "status": "done",
+          "style": null,
+          "fallback_items": null,
+          "error": null
+        }
+      },
+      {
+        "p": "/message/metadata/safe_urls",
+        "o": "append",
+        "v": [
+          "https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates",
+          "https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates?utm_source=chatgpt.com"
+        ]
+      }
+    ]
+  },
+  {
+    "v": [
+      {
+        "p": "/message/content/parts/0",
+        "o": "append",
+        "v": "- Technology and semiconductor stocks remain volatile after recent AI-driven rallies. citeturn0news3"
+      },
+      {
+        "p": "/message/metadata/content_references",
+        "o": "append",
+        "v": [
+          {
+            "matched_text": "citeturn0news3",
+            "prefix": null,
+            "start_idx": 1201,
+            "end_idx": 1217,
+            "safe_urls": [],
+            "refs": [],
+            "alt": null,
+            "prompt_text": null,
+            "type": "hidden",
+            "invalid": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "v": [
+      {
+        "p": "/message/content/parts/0",
+        "o": "append",
+        "v": "turn0news25\n\n### Key Themes Driving Markets Today\n- Selling"
+      },
+      {
+        "p": "/message/metadata/content_references/3/items/0/supporting_websites/0/attribution",
+        "o": "replace",
+        "v": "The Guardian"
+      },
+      {
+        "p": "/message/metadata/content_references/4/matched_text",
+        "o": "append",
+        "v": "turn0news25"
+      },
+      {
+        "p": "/message/metadata/content_references/4/end_idx",
+        "o": "replace",
+        "v": 1230
+      }
+    ]
+  },
+  {
+    "p": "/message/content/parts/0",
+    "o": "append",
+    "v": " pressure in AI and semiconductor stocks\n- Inflation concerns linked to higher technology costs\n- Expectations regarding future central"
+  },
+  {
+    "type": "title_generation",
+    "title": "Stock Market Update 26 June",
+    "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762"
+  },
+  {
+    "type": "url_moderation",
+    "url_moderation_result": {
+      "full_url": "https://www.reuters.com/business/wall-st-week-ahead-jobs-data-rate-bets-focus-us-stocks-close-solid-first-half-2026-06-26/?utm_source=chatgpt.com",
+      "is_safe": true,
+      "is_blocked": false
+    },
+    "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762",
+    "message_id": "f2721940-f400-48fb-a72c-7fbfb16580c6"
+  },
+  {
+    "type": "url_moderation",
+    "url_moderation_result": {
+      "full_url": "https://simplywall.st/stocks/us/consumer-services/nasdaq-tcom/tripcom-group/news/us-stock-market-today-sp-500-futures-climb-as-pce-inflation/amp?utm_source=chatgpt.com",
+      "is_safe": true,
+      "is_blocked": false
+    },
+    "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762",
+    "message_id": "f2721940-f400-48fb-a72c-7fbfb16580c6"
+  },
+  {
+    "p": "",
+    "o": "patch",
+    "v": [
+      {
+        "p": "/message/content/parts/0",
+        "o": "append",
+        "v": " bank interest-rate decisions\n- Falling oil prices and ongoing geopolitical developments affecting investor sentiment citeturn"
+      },
+      {
+        "p": "/message/metadata/content_references/4/safe_urls",
+        "o": "append",
+        "v": [
+          "https://simplywall.st/stocks/us/consumer-services/nasdaq-tcom/tripcom-group/news/us-stock-market-today-sp-500-futures-climb-as-pce-inflation/amp",
+          "https://simplywall.st/stocks/us/consumer-services/nasdaq-tcom/tripcom-group/news/us-stock-market-today-sp-500-futures-climb-as-pce-inflation/amp?utm_source=chatgpt.com",
+          "https://www.reuters.com/business/wall-st-week-ahead-jobs-data-rate-bets-focus-us-stocks-close-solid-first-half-2026-06-26/",
+          "https://www.reuters.com/business/wall-st-week-ahead-jobs-data-rate-bets-focus-us-stocks-close-solid-first-half-2026-06-26/?utm_source=chatgpt.com"
+        ]
+      },
+      {
+        "p": "/message/metadata/content_references/4/alt",
+        "o": "replace",
+        "v": "([simplywall.st](https://simplywall.st/stocks/us/consumer-services/nasdaq-tcom/tripcom-group/news/us-stock-market-today-sp-500-futures-climb-as-pce-inflation/amp?utm_source=chatgpt.com))"
+      },
+      {
+        "p": "/message/metadata/content_references/4/type",
+        "o": "replace",
+        "v": "grouped_webpages"
+      },
+      {
+        "p": "/message/metadata/content_references/4/invalid",
+        "o": "remove"
+      },
+      {
+        "p": "/message/metadata/content_references/4",
+        "o": "append",
+        "v": {
+          "items": [
+            {
+              "title": "US Stock Market Today: S&P 500 Futures Climb As PCE Inflation Report Looms",
+              "url": "https://simplywall.st/stocks/us/consumer-services/nasdaq-tcom/tripcom-group/news/us-stock-market-today-sp-500-futures-climb-as-pce-inflation/amp?utm_source=chatgpt.com",
+              "attribution": "simplywall.st",
+              "pub_date": 1782462366.431634,
+              "snippet": "The Morning Bull - US Market Morning Update Friday, Jun, 26 2026 US stock futures are pointing higher this morning, with E mini S&P 500...",
+              "attribution_segments": null,
+              "supporting_websites": [
+                {
+                  "title": "Wall St Week Ahead Jobs data, rate bets in focus as US stocks close solid first half",
+                  "url": "https://www.reuters.com/business/wall-st-week-ahead-jobs-data-rate-bets-focus-us-stocks-close-solid-first-half-2026-06-26/?utm_source=chatgpt.com",
+                  "pub_date": null,
+                  "snippet": "U.S. markets are heading into the end of a strong first half of 2026, with the S&P 500 up over 7% year-to-date. However, June has been more volatile, especially for technology and semiconductor stocks. Investor focus is now turning to upcoming U.S. jobs data, due Thursday, which could influence expectations for Federal Reserve interest rate hikes. A strong report may increase fears of a rate hike, as the Fed remains focused on controlling inflation, which has surpassed 4% due to a spike in energy prices amid Middle East tensions.\n\nSemiconductor stocks, which have led tech performance, remain a market focal point, though some investors are reassessing the sustainability of AI-related gains. Micron's strong earnings provided temporary support to the sector, but concerns linger about the impact of higher interest rates on tech and broader markets.\n\nEconomists expect moderate job growth in June, following months of solid gains. Fed funds futures now suggest increased odds of a rate hike by September, shifting sentiment from earlier in the year when rate cuts were anticipated. Meanwhile, investors are also watching corporate earnings, including Nike’s results next week, and geopolitical developments that could affect oil prices and inflation.",
+                  "result_source": "labrador",
+                  "attribution": "Reuters"
+                }
+              ],
+              "result_source": "oxylabs",
+              "refs": [
+                {
+                  "turn_index": 0,
+                  "ref_type": "news",
+                  "ref_index": 3
+                },
+                {
+                  "turn_index": 0,
+                  "ref_type": "news",
+                  "ref_index": 25
+                }
+              ],
+              "hue": null,
+              "attributions": null
+            }
+          ],
+          "status": "done",
+          "style": null,
+          "fallback_items": null,
+          "error": null
+        }
+      },
+      {
+        "p": "/message/metadata/content_references",
+        "o": "append",
+        "v": [
+          {
+            "matched_text": "citeturn",
+            "prefix": null,
+            "start_idx": 1531,
+            "end_idx": 1541,
+            "safe_urls": [],
+            "refs": [],
+            "alt": null,
+            "prompt_text": null,
+            "type": "hidden",
+            "invalid": true
+          }
+        ]
+      },
+      {
+        "p": "/message/metadata/safe_urls/4",
+        "o": "replace",
+        "v": "https://simplywall.st/stocks/us/consumer-services/nasdaq-tcom/tripcom-group/news/us-stock-market-today-sp-500-futures-climb-as-pce-inflation/amp"
+      },
+      {
+        "p": "/message/metadata/safe_urls/5",
+        "o": "replace",
+        "v": "https://simplywall.st/stocks/us/consumer-services/nasdaq-tcom/tripcom-group/news/us-stock-market-today-sp-500-futures-climb-as-pce-inflation/amp?utm_source=chatgpt.com"
+      },
+      {
+        "p": "/message/metadata/safe_urls/6",
+        "o": "replace",
+        "v": "https://www.aajtak.in/business/news/story/south-korean-stock-market-kospi-trading-halts-after-chipmaker-slide-tutd-dskc-2588027-2026-06-26"
+      },
+      {
+        "p": "/message/metadata/safe_urls/7",
+        "o": "replace",
+        "v": "https://www.aajtak.in/business/news/story/south-korean-stock-market-kospi-trading-halts-after-chipmaker-slide-tutd-dskc-2588027-2026-06-26?utm_source=chatgpt.com"
+      },
+      {
+        "p": "/message/metadata/safe_urls/8",
+        "o": "replace",
+        "v": "https://www.moneycontrol.com/news/business/markets/stock-market-closed-today-nse-bse-shut-for-muharram-on-june-26-13958855.html"
+      },
+      {
+        "p": "/message/metadata/safe_urls/9",
+        "o": "replace",
+        "v": "https://www.moneycontrol.com/news/business/markets/stock-market-closed-today-nse-bse-shut-for-muharram-on-june-26-13958855.html?utm_source=chatgpt.com"
+      },
+      {
+        "p": "/message/metadata/safe_urls/10",
+        "o": "replace",
+        "v": "https://www.reuters.com/business/wall-st-week-ahead-jobs-data-rate-bets-focus-us-stocks-close-solid-first-half-2026-06-26/"
+      },
+      {
+        "p": "/message/metadata/safe_urls/11",
+        "o": "replace",
+        "v": "https://www.reuters.com/business/wall-st-week-ahead-jobs-data-rate-bets-focus-us-stocks-close-solid-first-half-2026-06-26/?utm_source=chatgpt.com"
+      },
+      {
+        "p": "/message/metadata/safe_urls",
+        "o": "append",
+        "v": [
+          "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-26/",
+          "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-26/?utm_source=chatgpt.com",
+          "https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates",
+          "https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates?utm_source=chatgpt.com"
+        ]
+      }
+    ]
+  },
+  {
+    "v": [
+      {
+        "p": "/message/content/parts/0",
+        "o": "append",
+        "v": "0news24turn0news25\n\nI can also provide a **sector-wise breakdown"
+      },
+      {
+        "p": "/message/metadata/content_references/5/matched_text",
+        "o": "append",
+        "v": "0news24turn0news25"
+      },
+      {
+        "p": "/message/metadata/content_references/5/end_idx",
+        "o": "replace",
+        "v": 1561
+      }
+    ]
+  },
+  {
+    "v": [
+      {
+        "p": "/message/content/parts/0",
+        "o": "append",
+        "v": " (IT, banking, pharma, energy)** or discuss **which Indian stocks may be in focus"
+      },
+      {
+        "p": "/message/metadata/content_references/4/alt",
+        "o": "replace",
+        "v": "([Simply Wall St](https://simplywall.st/stocks/us/consumer-services/nasdaq-tcom/tripcom-group/news/us-stock-market-today-sp-500-futures-climb-as-pce-inflation/amp?utm_source=chatgpt.com))"
+      },
+      {
+        "p": "/message/metadata/content_references/4/items/0/attribution",
+        "o": "replace",
+        "v": "Simply Wall St"
+      },
+      {
+        "p": "/message/metadata/content_references/5/safe_urls",
+        "o": "append",
+        "v": [
+          "https://www.reuters.com/business/wall-st-week-ahead-jobs-data-rate-bets-focus-us-stocks-close-solid-first-half-2026-06-26/",
+          "https://www.reuters.com/business/wall-st-week-ahead-jobs-data-rate-bets-focus-us-stocks-close-solid-first-half-2026-06-26/?utm_source=chatgpt.com",
+          "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-26/",
+          "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-26/?utm_source=chatgpt.com"
+        ]
+      },
+      {
+        "p": "/message/metadata/content_references/5/alt",
+        "o": "replace",
+        "v": "([Reuters](https://www.reuters.com/world/china/global-markets-global-markets-2026-06-26/?utm_source=chatgpt.com))"
+      },
+      {
+        "p": "/message/metadata/content_references/5/type",
+        "o": "replace",
+        "v": "grouped_webpages"
+      },
+      {
+        "p": "/message/metadata/content_references/5/invalid",
+        "o": "remove"
+      },
+      {
+        "p": "/message/metadata/content_references/5",
+        "o": "append",
+        "v": {
+          "items": [
+            {
+              "title": "Stocks slip as Apple price hikes fan tech jitters, oil slides",
+              "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-26/?utm_source=chatgpt.com",
+              "attribution": "Reuters",
+              "pub_date": 1782440535,
+              "snippet": "Global stock markets declined on Friday, primarily driven by concerns over inflation linked to Apple’s latest price hikes, which reflect increased costs for memory and storage chips. This move triggered broader unease about tech sector spending and its inflationary impact. Apple’s shares had dropped 6% on Thursday and remained under scrutiny. Adding to the market's cautious mood, reports emerged that OpenAI might delay its IPO to next year.\n\nMeanwhile, oil prices fell over 3%, nearing four-month lows despite ongoing challenges reopening the Strait of Hormuz. Contributing to the downward pressure on oil was Saudi Aramco’s resumption of exports from Ras Tanura, likely increasing global supply. European stocks dropped about 1%, with tech falling 2%, while Wall Street futures pointed to additional declines. Asian tech stocks also suffered, with South Korea’s KOSPI plunging up to 9%, triggering a trading halt.\n\nCurrency markets saw the yen approach its weakest level in 40 years against the dollar, despite in-line U.S. inflation data and reduced expectations of a Federal Reserve rate hike. The U.S. economy grew faster in Q1 due to lower imports, but nearly flat consumer spending raised concerns for Q2. U.S. Treasury yields fell, and gold prices rose slightly by 0.5% to $4,046.",
+              "attribution_segments": null,
+              "supporting_websites": [
+                {
+                  "title": "Wall St Week Ahead Jobs data, rate bets in focus as US stocks close solid first half",
+                  "url": "https://www.reuters.com/business/wall-st-week-ahead-jobs-data-rate-bets-focus-us-stocks-close-solid-first-half-2026-06-26/?utm_source=chatgpt.com",
+                  "pub_date": null,
+                  "snippet": "U.S. markets are heading into the end of a strong first half of 2026, with the S&P 500 up over 7% year-to-date. However, June has been more volatile, especially for technology and semiconductor stocks. Investor focus is now turning to upcoming U.S. jobs data, due Thursday, which could influence expectations for Federal Reserve interest rate hikes. A strong report may increase fears of a rate hike, as the Fed remains focused on controlling inflation, which has surpassed 4% due to a spike in energy prices amid Middle East tensions.\n\nSemiconductor stocks, which have led tech performance, remain a market focal point, though some investors are reassessing the sustainability of AI-related gains. Micron's strong earnings provided temporary support to the sector, but concerns linger about the impact of higher interest rates on tech and broader markets.\n\nEconomists expect moderate job growth in June, following months of solid gains. Fed funds futures now suggest increased odds of a rate hike by September, shifting sentiment from earlier in the year when rate cuts were anticipated. Meanwhile, investors are also watching corporate earnings, including Nike’s results next week, and geopolitical developments that could affect oil prices and inflation.",
+                  "result_source": "labrador",
+                  "attribution": "Reuters"
+                }
+              ],
+              "result_source": "labrador",
+              "refs": [
+                {
+                  "turn_index": 0,
+                  "ref_type": "news",
+                  "ref_index": 24
+                },
+                {
+                  "turn_index": 0,
+                  "ref_type": "news",
+                  "ref_index": 25
+                }
+              ],
+              "hue": null,
+              "attributions": null
+            }
+          ],
+          "status": "done",
+          "style": null,
+          "fallback_items": null,
+          "error": null
+        }
+      }
+    ]
+  },
+  {
+    "v": [
+      {
+        "p": "/message/content/parts/0",
+        "o": "append",
+        "v": " when markets reopen on Monday**."
       },
       {
         "p": "/message/status",
@@ -834,6 +1550,146 @@
         "v": true
       },
       {
+        "p": "/message/metadata/content_references",
+        "o": "append",
+        "v": [
+          {
+            "matched_text": " ",
+            "prefix": null,
+            "start_idx": 1721,
+            "end_idx": 1721,
+            "safe_urls": [],
+            "refs": [],
+            "alt": "",
+            "prompt_text": null,
+            "type": "sources_footnote",
+            "sources": [
+              {
+                "title": "Stock market closed: NSE, BSE shut for Muharram today",
+                "url": "https://www.moneycontrol.com/news/business/markets/stock-market-closed-today-nse-bse-shut-for-muharram-on-june-26-13958855.html?utm_source=chatgpt.com",
+                "attribution": "moneycontrol.com"
+              },
+              {
+                "title": "Stock Market Trading Halts: आज फिर क्रैश... साउथ कोरिया के बाजार को क्या हुआ? Samsung का बुरा हाल",
+                "url": "https://www.aajtak.in/business/news/story/south-korean-stock-market-kospi-trading-halts-after-chipmaker-slide-tutd-dskc-2588027-2026-06-26?utm_source=chatgpt.com",
+                "attribution": "AajTak"
+              },
+              {
+                "title": "Stocks slip as Apple price hikes fan tech jitters, oil slides",
+                "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-26/?utm_source=chatgpt.com",
+                "attribution": "Reuters"
+              },
+              {
+                "title": "US Stock Market Today: S&P 500 Futures Climb As PCE Inflation Report Looms",
+                "url": "https://simplywall.st/stocks/us/consumer-services/nasdaq-tcom/tripcom-group/news/us-stock-market-today-sp-500-futures-climb-as-pce-inflation/amp?utm_source=chatgpt.com",
+                "attribution": "Simply Wall St"
+              }
+            ],
+            "has_images": false
+          }
+        ]
+      },
+      {
+        "p": "/message/metadata/safe_urls/0",
+        "o": "replace",
+        "v": "https://images.openai.com/static-rsc-1/53t_RgIWBOjLy2qQOqed3Th7f_wiZ2WuSgGqvZ-3tg9_D9FuZW-2ld4t5jYLaf8nHXHVoI74QX0hnic2gqCtlA"
+      },
+      {
+        "p": "/message/metadata/safe_urls/1",
+        "o": "replace",
+        "v": "https://images.openai.com/static-rsc-1/A9Hj82GtHL4QfDg20A0AUAIN6t3OezaERPgadGX3VM48EEJnpqfWdQtd8ii6BEDX7dYeG7scAX_JYU4w1yBv7Kdp6guOiP-sWdliJ9iFkwyMusPt79TB4Xxc7yAs27TfK_Ka1SypQiykVmNfTWiLLBSl365tjM5UkQIRyb3JvnYl3EyvTkkoH-ssdqa7-Cmd7FjJwCU1JtiVa8npLtjZHQ"
+      },
+      {
+        "p": "/message/metadata/safe_urls/2",
+        "o": "replace",
+        "v": "https://images.openai.com/static-rsc-1/CX0me4nyQByMklo_ulhJKbIw49qpDkUxb5P6mDrfYT1KYcH8rniBbQBaHp6PkCPQnGJoCWV_ZKIiVGrWZYrX-_Fuzh4hEJxaNGXM3oa842c"
+      },
+      {
+        "p": "/message/metadata/safe_urls/3",
+        "o": "replace",
+        "v": "https://images.openai.com/static-rsc-1/JS3dYBoSc43QsK7JuLv0YbypgHn08nhcA8tuGjdRGqo3_QMF9PwEecf0CKDzPetnLW6STOPQQ89XaACa8skPH5fzvp8h2HS3cmNNXx8MpzoKfL3n3z82Mf9TEoax9-g3i4SB0URHcz_21uUw6wWc16gpJ6wGJG4LK2HdXh8H_0ow6rne8PI3hnukSDr9W0WJ"
+      },
+      {
+        "p": "/message/metadata/safe_urls/4",
+        "o": "replace",
+        "v": "https://images.openai.com/static-rsc-1/K266GkGhhIpxMHM5v5-DEli3zd4QyWfHMvlTjP9uLLDhTPeXEDXb-n6N96EpeEOBf8jiSrjxzqbCKXWXgsyXSsGPq7AFRlNt4CrIqO3VAnOS8kO2U8u0Wng_eACvD9PZbjw2mjH7Z1xaFzhF016zMA"
+      },
+      {
+        "p": "/message/metadata/safe_urls/5",
+        "o": "replace",
+        "v": "https://images.openai.com/static-rsc-1/L_s8pwWCAb2R058rtZRZV0cWeaEt2AtLtFOVgMnsPHJrLPUnREFV1AA8I8oVTYVAXQsa6xL4HUoiY528pbkc_ccw8SRpgzNFEnRHPRMPuoCQaIUAhiSGAeYtsLnAcTuX"
+      },
+      {
+        "p": "/message/metadata/safe_urls/6",
+        "o": "replace",
+        "v": "https://images.openai.com/static-rsc-1/T7EKAt1r3gJ3_SLLu2uvh4qrCZuhJu09eTQRiDXO4Hqs8uv1cE5aNt-qOhdAgysNB9p5NotRd3u5jXBce3s__AvLVPkYYw1CVjWstRBHloFZu1s-NbM2_-ZVmd2fWTAdc1JsPoPP8KUTl-Xwgk7RXw"
+      },
+      {
+        "p": "/message/metadata/safe_urls/7",
+        "o": "replace",
+        "v": "https://images.openai.com/static-rsc-1/dJccgAYz5DEX3GvJkupSa1BM6taJ1LqGZSDH5z0APdLZwB3iAlVcu0o6N14ApKrJCE4kxDfZNBfG8YyX_5u92yoRixPqGangU5g2mV2U9U3AHG5qKDcsbFrNGJPh_vgX1xBpxT2IRTn7GE9NK4FNnG7HLKDOLDI_8btSbVk25X0KFxD92FzaYnyHs0A35rUFBvrhKUsDoPlDomWp6vqOV5xiEF8dWFEHXt1Jz7ORSreRDC6t9zsZ0zFVBJx7TlL1"
+      },
+      {
+        "p": "/message/metadata/safe_urls/8",
+        "o": "replace",
+        "v": "https://images.openai.com/static-rsc-1/n7CVchqmyOkn_d3t3KnhIgkClDwK3d3V6ybDuc7Ec-ZGjypidZMlyb5Eh-dp6l_uF_oK4cuLluOIIhLy3ShOrCkXtGudX-KwMQE0Ebrvy73p6Alz6v-Oh8WcIbUOz5_B7vuuv2L9lnb-f-ld9QaDxzHoGQ6d17WMppDUJUh2bn-KtFRCq3nCqzKFBJATqN4CWleLWyenIz0glGi1AvG-BQ"
+      },
+      {
+        "p": "/message/metadata/safe_urls/9",
+        "o": "replace",
+        "v": "https://images.openai.com/static-rsc-1/qR4D847U5ETp90T_Z5y_iKUbXbIdyTgFOTpZfl8gTD5UHR1erMKfM85ETieam-tNXDmF0qJIHWd9qT4DrcDpRAtiShstV-x4gGIUWFAWzB0"
+      },
+      {
+        "p": "/message/metadata/safe_urls/10",
+        "o": "replace",
+        "v": "https://images.openai.com/static-rsc-1/qkg_zmoMNLwbwkzDpIOvHBS0gXKPZEcZICQP41FTbESTs0cQ0TjRZuveEcPaKmuey5ztKlhUDKHKnV4wRARfkrL5Y3w0R7WwnC-D-s0PNYuHaq82oc9gbF3s7fxlex6lqlf44KeVdpTjxqhvnKXigTrP4xBL9lVMuEPdIvXUkqMDIVnqcuKzIEb-LYJW6JguzbJMl3JYdA-14TkLoxGlrrfFmnRUcmC2JrKdrduiFuaO7FiAchOCU4Kh_JUTmKxB5EpDA0FfH82AL0IJlr8z6xV_o8hpGaoh-JBLqHRWNnE"
+      },
+      {
+        "p": "/message/metadata/safe_urls/11",
+        "o": "replace",
+        "v": "https://images.openai.com/static-rsc-1/v1B7HJkA92xEI2zUFmaznNMMRtufHHyIepRcUbYSsaL1fnbJl5PtAFdUlmvDvWeWkKVbvUjD1TTjCbhpc6_v2czeDskqSaOzCegS8hu2fYjWsgxWqCplIu58_2fO5FjGh84iFkKYs4bPtO3rMmX1mf945Ztf3LXtwbsAqScY8IUbwt_NZfrKzIjAoomn1I7t1Vi7z1U24uBtUrof_4sbrg"
+      },
+      {
+        "p": "/message/metadata/safe_urls/12",
+        "o": "replace",
+        "v": "https://images.openai.com/static-rsc-1/xTF7ppYiXRf-o1CC3w0WzmgEPAW3N6Je-mdfZtbD_I-MfymGqD8RYCxu6Kj9cfYVqfpA9pO5bSvuCWvNgNaetTlWfSAnXD58js0uBLIKJ_IDCzWSRuR_T0t1E6EJQFec2GGmMViI2n6Gr69VeScJG7WQudw04igTTzZ6EytbQ8ZIVBxASrJdsgyaMBVrgHc4"
+      },
+      {
+        "p": "/message/metadata/safe_urls/13",
+        "o": "replace",
+        "v": "https://images.openai.com/static-rsc-1/yZ4aFIePg1fhVhIm-PeVfgLecRY8ot1iYCDc9j-YSVGwx7qb0GPatypL3Hqhu97lAcIaBg3e1YBAiW2088ke029odTrY6FZ2XHT1hxp6y1JaLy2_pNUSp_XEbEtgZFP0HJr10-o7KLxHgZ3yowxKKt3vvkyId71GSbvM4uIxmGX2e6qG7veNf9KXSm78cbVETs1ikOTimpndPrvkEG2iy_UOHngogtEdNYJIQX-p4hoFVrJ7qPuSUQJbm2jidFt3"
+      },
+      {
+        "p": "/message/metadata/safe_urls/14",
+        "o": "replace",
+        "v": "https://m.economictimes.com/markets/stocks/news/stock-market-holiday-2026-is-bse-nse-open-or-closed-today-for-muharram/articleshow/131996163.cms"
+      },
+      {
+        "p": "/message/metadata/safe_urls/15",
+        "o": "replace",
+        "v": "https://m.economictimes.com/markets/stocks/news/stock-market-holiday-2026-is-bse-nse-open-or-closed-today-for-muharram/articleshow/131996163.cms?utm_source=chatgpt.com"
+      },
+      {
+        "p": "/message/metadata/safe_urls",
+        "o": "append",
+        "v": [
+          "https://m.economictimes.com/tech/artificial-intelligence/south-koreas-favourite-ai-stocks-slide-again-drag-kospi-index-down-8/articleshow/132012720.cms",
+          "https://m.economictimes.com/tech/artificial-intelligence/south-koreas-favourite-ai-stocks-slide-again-drag-kospi-index-down-8/articleshow/132012720.cms?utm_source=chatgpt.com",
+          "https://simplywall.st/stocks/us/consumer-services/nasdaq-tcom/tripcom-group/news/us-stock-market-today-sp-500-futures-climb-as-pce-inflation/amp",
+          "https://simplywall.st/stocks/us/consumer-services/nasdaq-tcom/tripcom-group/news/us-stock-market-today-sp-500-futures-climb-as-pce-inflation/amp?utm_source=chatgpt.com",
+          "https://www.aajtak.in/business/news/story/south-korean-stock-market-kospi-trading-halts-after-chipmaker-slide-tutd-dskc-2588027-2026-06-26",
+          "https://www.aajtak.in/business/news/story/south-korean-stock-market-kospi-trading-halts-after-chipmaker-slide-tutd-dskc-2588027-2026-06-26?utm_source=chatgpt.com",
+          "https://www.moneycontrol.com/news/business/markets/stock-market-closed-today-nse-bse-shut-for-muharram-on-june-26-13958855.html",
+          "https://www.moneycontrol.com/news/business/markets/stock-market-closed-today-nse-bse-shut-for-muharram-on-june-26-13958855.html?utm_source=chatgpt.com",
+          "https://www.reuters.com/business/wall-st-week-ahead-jobs-data-rate-bets-focus-us-stocks-close-solid-first-half-2026-06-26/",
+          "https://www.reuters.com/business/wall-st-week-ahead-jobs-data-rate-bets-focus-us-stocks-close-solid-first-half-2026-06-26/?utm_source=chatgpt.com",
+          "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-26/",
+          "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-26/?utm_source=chatgpt.com",
+          "https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates",
+          "https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates?utm_source=chatgpt.com"
+        ]
+      },
+      {
         "p": "/message/metadata",
         "o": "append",
         "v": {
@@ -844,41 +1700,426 @@
             ]
           },
           "can_save": true,
-          "search_result_groups": [],
-          "safe_urls": [
-            "https://images.openai.com/static-rsc-4/3CmlNbiyDlUxIDK9rJeVo8Ia6ZDNZaVYzLuPDeIHBq4fz1ZhhlWO5DNBCWAZhsgmxu0_L6jnGLBrjHWvGUdL_YgPjdrcH22lyBYnFAjKdspCFaZd2YRdkiaq8MuA_w_vSollQWvyoDsBOs-KTwG1GDC8WsYB8LSxpBQDlfaKKJKcZylBTgyzDgJ_zIuo2kOB?purpose=fullsize",
-            "https://images.openai.com/static-rsc-4/BZmOtXPumOc509jOs-1_gCg74-U1rsJ6jgILEqI7fKnGLnntDsUEah-AMnQdX1Q4AOaZBV5nGbu2P9SU8rB8JkNQaeskJD2zCvNw86Lx2wNwN-3AvARFs000WdOcN54XffXPznmfu__43YNd2QsjcmH9k8dzimh3zJjNTbMtHkVTGNP5qjaV03tGOSUYZpRU?purpose=fullsize",
-            "https://images.openai.com/static-rsc-4/Nd2kDTeAYlbIKpjHWaSGvlmlao81fan1svoSZhoCs783Epl94rZRmdXIzp9XZXHsdOgwIOCPZLYOxjXpQtpkjooBG33eWUdUiPbVOH3d1EqUrKu5Rp4Pz9mKRkzs3qBgLE6JO_nsllOzHIaLW8ss5tlzXpxF9HRRnGqp5wQX6VpzA6it-glaKxeGZqwRdZO9?purpose=fullsize",
-            "https://images.openai.com/static-rsc-4/nY53OJHxK_lOaiAMYwO4AZ_tpp8OlcZMyHYjb1Xfaq-ewgg6dH1LN3ps9ulsKPCTmeIHKqchK3EroduPM35CWRtknY1fb1QX5kSWksCHm8G7me2GjplBIE8sBJ3Xl39eS6M_wS4nShJ3wP0GN-MgukvSs4LNCr8DJ3idLkgPcEuuzH_uH7yj_wXdzCRQWqux?purpose=fullsize"
-          ],
-          "is_complete": true
+          "is_complete": true,
+          "search_result_groups": [
+            {
+              "type": "search_result_group",
+              "domain": "wikipedia.org",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://en.wikipedia.org/wiki/Stock?utm_source=chatgpt.com",
+                  "title": "Stock",
+                  "snippet": "Stocks consist of all the shares by which ownership of a corporation or company is divided. A single share of the stock means fractional ownership of the ...Read more",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 0
+                  },
+                  "pub_date": null,
+                  "result_source": "bright",
+                  "attribution": "wikipedia.org"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "litefinance.org",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.litefinance.org/blog/analysts-opinions/gold-price-prediction-forecast/daily-and-weekly/?utm_source=chatgpt.com",
+                  "title": "Gold (XAU/USD) Price Forecast for Today, Tomorrow, Next Week, and the Next 30 Days",
+                  "snippet": "Gold price prediction and analysis for tomorrow, next week, and 30 days. Key levels, sentiment, and events shaping gold short-term outlook.",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "news",
+                    "ref_index": 1
+                  },
+                  "pub_date": 1782466022.60721,
+                  "result_source": "oxylabs",
+                  "thumbnail_url": "https://images.openai.com/static-rsc-1/yZ4aFIePg1fhVhIm-PeVfgLecRY8ot1iYCDc9j-YSVGwx7qb0GPatypL3Hqhu97lAcIaBg3e1YBAiW2088ke029odTrY6FZ2XHT1hxp6y1JaLy2_pNUSp_XEbEtgZFP0HJr10-o7KLxHgZ3yowxKKt3vvkyId71GSbvM4uIxmGX2e6qG7veNf9KXSm78cbVETs1ikOTimpndPrvkEG2iy_UOHngogtEdNYJIQX-p4hoFVrJ7qPuSUQJbm2jidFt3",
+                  "thumbnail_source": "og_image",
+                  "attribution": "litefinance.org"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://www.litefinance.org/blog/analysts-opinions/oil-price-prediction-forecast/daily-and-weekly/?utm_source=chatgpt.com",
+                  "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days",
+                  "snippet": "Oil price prediction and analysis for tomorrow, next week, and 30 days. Key levels, sentiment, and events shaping USCrude short-term...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "news",
+                    "ref_index": 5
+                  },
+                  "pub_date": 1782459280.265217,
+                  "result_source": "oxylabs",
+                  "thumbnail_url": "https://images.openai.com/static-rsc-1/dJccgAYz5DEX3GvJkupSa1BM6taJ1LqGZSDH5z0APdLZwB3iAlVcu0o6N14ApKrJCE4kxDfZNBfG8YyX_5u92yoRixPqGangU5g2mV2U9U3AHG5qKDcsbFrNGJPh_vgX1xBpxT2IRTn7GE9NK4FNnG7HLKDOLDI_8btSbVk25X0KFxD92FzaYnyHs0A35rUFBvrhKUsDoPlDomWp6vqOV5xiEF8dWFEHXt1Jz7ORSreRDC6t9zsZ0zFVBJx7TlL1",
+                  "thumbnail_source": "og_image",
+                  "attribution": "litefinance.org"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "nseindia.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.nseindia.com/?utm_source=chatgpt.com",
+                  "title": "NSE - National Stock Exchange of India Ltd: Live Share/Stock ...",
+                  "snippet": "NSE India (National Stock Exchange of India Ltd) – LIVE Share/Stock Market Updates Today. Get all latest share market news, live charts, analysis, ipo, ...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 2
+                  },
+                  "pub_date": null,
+                  "result_source": "bright",
+                  "thumbnail_url": "https://images.openai.com/static-rsc-1/CX0me4nyQByMklo_ulhJKbIw49qpDkUxb5P6mDrfYT1KYcH8rniBbQBaHp6PkCPQnGJoCWV_ZKIiVGrWZYrX-_Fuzh4hEJxaNGXM3oa842c",
+                  "thumbnail_source": "og_image",
+                  "attribution": "nseindia.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "economictimes.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://m.economictimes.com/tech/artificial-intelligence/south-koreas-favourite-ai-stocks-slide-again-drag-kospi-index-down-8/articleshow/132012720.cms?utm_source=chatgpt.com",
+                  "title": "South Korea’s favourite AI stocks slide again, drag Kospi index down 8%",
+                  "snippet": "",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 6
+                  },
+                  "pub_date": 1782470080.562382,
+                  "result_source": "bright",
+                  "thumbnail_url": "https://images.openai.com/static-rsc-1/qkg_zmoMNLwbwkzDpIOvHBS0gXKPZEcZICQP41FTbESTs0cQ0TjRZuveEcPaKmuey5ztKlhUDKHKnV4wRARfkrL5Y3w0R7WwnC-D-s0PNYuHaq82oc9gbF3s7fxlex6lqlf44KeVdpTjxqhvnKXigTrP4xBL9lVMuEPdIvXUkqMDIVnqcuKzIEb-LYJW6JguzbJMl3JYdA-14TkLoxGlrrfFmnRUcmC2JrKdrduiFuaO7FiAchOCU4Kh_JUTmKxB5EpDA0FfH82AL0IJlr8z6xV_o8hpGaoh-JBLqHRWNnE",
+                  "thumbnail_source": "og_image",
+                  "attribution": "economictimes.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://m.economictimes.com/markets/stocks/news/stock-market-holiday-2026-is-bse-nse-open-or-closed-today-for-muharram/articleshow/131996163.cms?utm_source=chatgpt.com",
+                  "title": "Stock Market Holiday 2026: Is BSE, NSE open or closed today for Muharram?",
+                  "snippet": "",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 12
+                  },
+                  "pub_date": 1782437680.564734,
+                  "result_source": "bright",
+                  "thumbnail_url": "https://images.openai.com/static-rsc-1/xTF7ppYiXRf-o1CC3w0WzmgEPAW3N6Je-mdfZtbD_I-MfymGqD8RYCxu6Kj9cfYVqfpA9pO5bSvuCWvNgNaetTlWfSAnXD58js0uBLIKJ_IDCzWSRuR_T0t1E6EJQFec2GGmMViI2n6Gr69VeScJG7WQudw04igTTzZ6EytbQ8ZIVBxASrJdsgyaMBVrgHc4",
+                  "thumbnail_source": "og_image",
+                  "attribution": "economictimes.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "pwc.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.pwc.com/gx/en/services/deals/trends.html?utm_source=chatgpt.com",
+                  "title": "Global M&A industry trends: 2026 mid-year outlook",
+                  "snippet": "Supersizing M&A for the AI era​. Fewer, much larger deals set the trend as AI rips up the old playbook and ushers in a disruptive new age...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "news",
+                    "ref_index": 9
+                  },
+                  "pub_date": 1782218080.267002,
+                  "result_source": "oxylabs",
+                  "thumbnail_url": "https://images.openai.com/static-rsc-1/JS3dYBoSc43QsK7JuLv0YbypgHn08nhcA8tuGjdRGqo3_QMF9PwEecf0CKDzPetnLW6STOPQQ89XaACa8skPH5fzvp8h2HS3cmNNXx8MpzoKfL3n3z82Mf9TEoax9-g3i4SB0URHcz_21uUw6wWc16gpJ6wGJG4LK2HdXh8H_0ow6rne8PI3hnukSDr9W0WJ",
+                  "thumbnail_source": "search_result",
+                  "attribution": "pwc.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "livemint.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.livemint.com/market?utm_source=chatgpt.com",
+                  "title": "Market News: Share Market Today, NIFTY, BSE/NSE LIVE, Sensex Today, Latest Share Market News Live Updates",
+                  "snippet": "Crisil Ratings reports that falling crude oil prices may lessen the profitability hit for India Inc. this fiscal year.",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "news",
+                    "ref_index": 11
+                  },
+                  "pub_date": 1782304022.17183,
+                  "result_source": "oxylabs",
+                  "thumbnail_url": "https://images.openai.com/static-rsc-1/L_s8pwWCAb2R058rtZRZV0cWeaEt2AtLtFOVgMnsPHJrLPUnREFV1AA8I8oVTYVAXQsa6xL4HUoiY528pbkc_ccw8SRpgzNFEnRHPRMPuoCQaIUAhiSGAeYtsLnAcTuX",
+                  "thumbnail_source": "og_image",
+                  "attribution": "livemint.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "businesstoday.in",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.businesstoday.in/bt-tv/short-video/reliance-industries-backed-multibagger-stock-hits-another-upper-circuit-check-details-539276-2026-06-26?utm_source=chatgpt.com",
+                  "title": "Reliance Industries Backed Multibagger Stock Hits Another Upper Circuit. Check Details",
+                  "snippet": "",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 13
+                  },
+                  "pub_date": 1782475180.566216,
+                  "result_source": "bright",
+                  "attribution": "businesstoday.in"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "liquide.life",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://blog.liquide.life/nifty-50-outlook-weekly-market-review-april-2026/?utm_source=chatgpt.com",
+                  "title": "Nifty 50 Outlook: Market Prediction & Q4 Earnings Review",
+                  "snippet": "The Indian stock market finally broke its six-week losing streak in spectacular fashion, recording its most significant weekly surge in five...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "news",
+                    "ref_index": 14
+                  },
+                  "pub_date": 1777206880.269901,
+                  "result_source": "oxylabs",
+                  "thumbnail_url": "https://images.openai.com/static-rsc-1/n7CVchqmyOkn_d3t3KnhIgkClDwK3d3V6ybDuc7Ec-ZGjypidZMlyb5Eh-dp6l_uF_oK4cuLluOIIhLy3ShOrCkXtGudX-KwMQE0Ebrvy73p6Alz6v-Oh8WcIbUOz5_B7vuuv2L9lnb-f-ld9QaDxzHoGQ6d17WMppDUJUh2bn-KtFRCq3nCqzKFBJATqN4CWleLWyenIz0glGi1AvG-BQ",
+                  "thumbnail_source": "og_image",
+                  "attribution": "liquide.life"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://blog.liquide.life/nifty-50-prediction-weekly-market-review-april-2026/?utm_source=chatgpt.com",
+                  "title": "Nifty 50 Outlook: Market Crash Triggers & Top Stocks to Watch | Liquide",
+                  "snippet": "The Nifty 50 and Sensex fell 2% as India VIX surged 15%. Discover why IT stocks crashed, the impact of US-Iran tensions on oil,...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "news",
+                    "ref_index": 16
+                  },
+                  "pub_date": 1777206880.269901,
+                  "result_source": "oxylabs",
+                  "thumbnail_url": "https://images.openai.com/static-rsc-1/A9Hj82GtHL4QfDg20A0AUAIN6t3OezaERPgadGX3VM48EEJnpqfWdQtd8ii6BEDX7dYeG7scAX_JYU4w1yBv7Kdp6guOiP-sWdliJ9iFkwyMusPt79TB4Xxc7yAs27TfK_Ka1SypQiykVmNfTWiLLBSl365tjM5UkQIRyb3JvnYl3EyvTkkoH-ssdqa7-Cmd7FjJwCU1JtiVa8npLtjZHQ",
+                  "thumbnail_source": "og_image",
+                  "attribution": "liquide.life"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "scanx.trade",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://scanx.trade/stock-market-news/companies/puravankara-sells-purva-ruby-properties-stake-for-145-cr/44021647?utm_source=chatgpt.com",
+                  "title": "Puravankara sells Purva Ruby Properties stake for ₹145 Cr",
+                  "snippet": "",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 15
+                  },
+                  "pub_date": 1782476500.568267,
+                  "result_source": "bright",
+                  "thumbnail_url": "https://images.openai.com/static-rsc-1/T7EKAt1r3gJ3_SLLu2uvh4qrCZuhJu09eTQRiDXO4Hqs8uv1cE5aNt-qOhdAgysNB9p5NotRd3u5jXBce3s__AvLVPkYYw1CVjWstRBHloFZu1s-NbM2_-ZVmd2fWTAdc1JsPoPP8KUTl-Xwgk7RXw",
+                  "thumbnail_source": "og_image",
+                  "attribution": "scanx.trade"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "groww.in",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://groww.in/stocks?utm_source=chatgpt.com",
+                  "title": "Invest in Stocks & Share Market - Indian Stock Market App",
+                  "snippet": "Trade in Share Market with India's no.1 Stock Broker - Groww. LIVE BSE/NSE, Nifty Sensex Share Price, Stock Exchange, Top Gainers and Losers Stocks, ...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 17
+                  },
+                  "pub_date": null,
+                  "result_source": "bright",
+                  "attribution": "groww.in"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "thestreet.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.thestreet.com/latest-news/stock-market-today-love-is-in-the-air-as-market-rebounds-from-rocky-overnight-trading-dow-russell-rise?utm_source=chatgpt.com",
+                  "title": "Stock Market Today: Love is in the air as market rebounds from rocky overnight trading; Dow, Russell rise",
+                  "snippet": "See the latest on how the market is starting February (and the week)",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "news",
+                    "ref_index": 18
+                  },
+                  "pub_date": 1772109280.271215,
+                  "result_source": "oxylabs",
+                  "thumbnail_url": "https://images.openai.com/static-rsc-1/v1B7HJkA92xEI2zUFmaznNMMRtufHHyIepRcUbYSsaL1fnbJl5PtAFdUlmvDvWeWkKVbvUjD1TTjCbhpc6_v2czeDskqSaOzCegS8hu2fYjWsgxWqCplIu58_2fO5FjGh84iFkKYs4bPtO3rMmX1mf945Ztf3LXtwbsAqScY8IUbwt_NZfrKzIjAoomn1I7t1Vi7z1U24uBtUrof_4sbrg",
+                  "thumbnail_source": "og_image",
+                  "attribution": "thestreet.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "merriam-webster.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.merriam-webster.com/dictionary/stock?utm_source=chatgpt.com",
+                  "title": "STOCK Definition & Meaning",
+                  "snippet": "6 days ago — 1. a : a store or supply accumulated or available; especially : the inventory of goods of a merchant or manufacturer.Read more",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 19
+                  },
+                  "pub_date": null,
+                  "result_source": "bright",
+                  "thumbnail_url": "https://images.openai.com/static-rsc-1/K266GkGhhIpxMHM5v5-DEli3zd4QyWfHMvlTjP9uLLDhTPeXEDXb-n6N96EpeEOBf8jiSrjxzqbCKXWXgsyXSsGPq7AFRlNt4CrIqO3VAnOS8kO2U8u0Wng_eACvD9PZbjw2mjH7Z1xaFzhF016zMA",
+                  "thumbnail_source": "og_image",
+                  "attribution": "merriam-webster.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "youtube.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.youtube.com/watch?v=mOr5Ojo58WY&utm_source=chatgpt.com",
+                  "title": "Stock Market LIVE Today | Nifty LIVE | Share Market LIVE ...",
+                  "snippet": "Stock Market LIVE Today | Nifty LIVE | Share Market LIVE News | Stock Market Trading LIVE News. 46 watching now.",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 20
+                  },
+                  "pub_date": null,
+                  "result_source": "bright",
+                  "attribution": "youtube.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "marketwatch.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.marketwatch.com/?utm_source=chatgpt.com",
+                  "title": "MarketWatch: Stock Market News - Financial News ...",
+                  "snippet": "Latest News · Stock Market Today: S&P 500 and Nasdaq set to fall amid tech sell-off; Dow to climb; oil prices fall · Microsoft's stock is suffering a historic ...Read more",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 21
+                  },
+                  "pub_date": null,
+                  "result_source": "bright",
+                  "thumbnail_url": "https://images.openai.com/static-rsc-1/53t_RgIWBOjLy2qQOqed3Th7f_wiZ2WuSgGqvZ-3tg9_D9FuZW-2ld4t5jYLaf8nHXHVoI74QX0hnic2gqCtlA",
+                  "thumbnail_source": "og_image",
+                  "attribution": "marketwatch.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "screener.in",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.screener.in/?utm_source=chatgpt.com",
+                  "title": "Stock Screener and fundamental analysis tool for Indian ...",
+                  "snippet": "Stock analysis and screening tool for investors in India. Or analyse: Avantel Coastal Corp Frontier Springs Godawari Power Grand Continent HBL Engineering Pix ...Read more",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 22
+                  },
+                  "pub_date": null,
+                  "result_source": "bright",
+                  "attribution": "screener.in"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "cambridge.org",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://dictionary.cambridge.org/dictionary/english/stock?utm_source=chatgpt.com",
+                  "title": "STOCK | English meaning - Cambridge Dictionary",
+                  "snippet": "stock noun (GUN PART) ... to keep a supply of something for use or sale: They stock all sorts of gifts for travelers. Idiom. stock up ( ...Read more",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 23
+                  },
+                  "pub_date": null,
+                  "result_source": "bright",
+                  "thumbnail_url": "https://images.openai.com/static-rsc-1/qR4D847U5ETp90T_Z5y_iKUbXbIdyTgFOTpZfl8gTD5UHR1erMKfM85ETieam-tNXDmF0qJIHWd9qT4DrcDpRAtiShstV-x4gGIUWFAWzB0",
+                  "thumbnail_source": "og_image",
+                  "attribution": "cambridge.org"
+                }
+              ]
+            }
+          ]
         }
       }
     ]
   },
   {
     "type": "message_marker",
-    "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43",
-    "message_id": "66d51538-84c8-43d0-be16-e9607fd11cca",
+    "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762",
+    "message_id": "f2721940-f400-48fb-a72c-7fbfb16580c6",
     "marker": "last_token",
     "event": "last"
   },
   {
     "type": "server_ste_metadata",
     "metadata": {
-      "server_ttfvt_ms": 1043.6062389053404,
+      "server_ttfvt_ms": 3559.358441038057,
       "conduit_prewarmed": true,
       "plan_type": "go",
       "plan_type_bucket": "paid",
       "harness": "harmony",
       "user_agent": "web_desktop",
       "service": null,
-      "tool_name": null,
-      "tool_invoked": false,
+      "tool_name": "SonicBrowserTool",
+      "tool_invoked": true,
       "fast_convo": true,
       "warmup_state": "warm",
       "is_first_turn": true,
-      "cluster_region": "australiacentral",
+      "cluster_region": "newzealandnorth",
       "model_slug": "gpt-5-5",
       "region": null,
       "is_multimodal": null,
@@ -889,10 +2130,10 @@
       "did_prompt_contain_image": false,
       "search_tool_call_count": null,
       "search_tool_query_types": null,
-      "message_id": "14f1c7f8-520c-422d-b0f9-630d53eabb0d",
-      "request_id": "07432423-e1e2-48c4-8225-0000caf431a8",
-      "turn_exchange_id": "dffee360-57d8-406e-b5e8-0de7d57c30f9",
-      "turn_trace_id": "4424beb5-c9ae-4100-8b7e-6dd04583c843",
+      "message_id": "db9d8e0d-4c94-4c38-9261-9aba46f13dc3",
+      "request_id": "2b132164-9bcc-4b39-85a8-d2badd258510",
+      "turn_exchange_id": "96f907dc-e2c3-4cf0-9141-fb7d46be6308",
+      "turn_trace_id": "cfa3ea90-7c7c-40a3-a1a6-279d9dff1cc5",
       "a32e6ebcb": 3,
       "resume_with_websockets": true,
       "low_turn_topic_ttl": false,
@@ -900,14 +2141,14 @@
       "replace_stream_status": true,
       "temporal_conversation_turn": false,
       "pro_mode_turn_topic_streaming": true,
-      "turn_use_case": "text",
+      "turn_use_case": "instant search",
       "turn_mode": "default"
     },
-    "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43"
+    "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762"
   },
   {
     "type": "message_stream_complete",
-    "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43"
+    "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762"
   },
   {
     "type": "conversation_detail_metadata",
@@ -918,26 +2159,26 @@
       {
         "feature_name": "deep_research",
         "remaining": 5,
-        "reset_after": "2026-07-25T11:38:22.987846+00:00"
+        "reset_after": "2026-07-26T12:34:48.371032+00:00"
       },
       {
         "feature_name": "file_upload",
         "remaining": 80,
-        "reset_after": "2026-06-25T14:38:22.987862+00:00"
+        "reset_after": "2026-06-26T15:34:48.371058+00:00"
       },
       {
         "feature_name": "paste_text_to_file",
         "remaining": 80,
-        "reset_after": "2026-06-25T14:38:22.987868+00:00"
+        "reset_after": "2026-06-26T15:34:48.371070+00:00"
       },
       {
         "feature_name": "image_gen",
         "remaining": 120,
-        "reset_after": "2026-06-26T11:38:22.987873+00:00"
+        "reset_after": "2026-06-27T12:34:48.371079+00:00"
       }
     ],
     "default_model_slug": "gpt-5-5",
     "atlas_mode_enabled": null,
-    "conversation_id": "6a3d1322-9ee4-83e8-a4ef-83de09242a43"
+    "conversation_id": "6a3e71dd-65d0-83ee-b706-46f2b69af762"
   }
 ]

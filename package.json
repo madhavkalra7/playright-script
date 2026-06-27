@@ -17,7 +17,9 @@
     "parallel": "node scraper-parallel.js",
     "parallel:1": "node scraper-parallel.js --workers=1",
     "parallel:test": "node scraper-parallel.js --dry-run",
-    "parallel:3": "node scraper-parallel.js --workers=3"
+    "parallel:3": "node scraper-parallel.js --workers=3",
+    "parallel:force-search": "node scraper-parallel.js --force-search",
+    "parallel:force-search:test": "node scraper-parallel.js --dry-run --force-search"
   },
   "keywords": [
     "playwright",

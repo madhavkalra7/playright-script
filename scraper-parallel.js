@@ -30,9 +30,10 @@ const INPUT_CSV        = path.join(__dirname, 'geo_aeo_result_source_dataset.csv
 const OUTPUT_CSV       = path.join(__dirname, 'geo_aeo_result_source_dataset_output.csv');
 const CHROME_EXE       = 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe';
 
-const WORKERS     = parseInt(process.argv.find(a => a.startsWith('--workers='))?.split('=')[1] || '5', 10);
-const LIMIT       = parseInt(process.argv.find(a => a.startsWith('--limit='))?.split('=')[1]   || '9999', 10);
-const DRY_RUN     = process.argv.includes('--dry-run');
+const WORKERS      = parseInt(process.argv.find(a => a.startsWith('--workers='))?.split('=')[1] || '5', 10);
+const LIMIT        = parseInt(process.argv.find(a => a.startsWith('--limit='))?.split('=')[1]   || '9999', 10);
+const DRY_RUN      = process.argv.includes('--dry-run');
+const FORCE_SEARCH = process.argv.includes('--force-search');
 
 // ── Auth file detection ───────────────────────────────────────────────────────
 // Looks for auth-1.json, auth-2.json, ... auth-N.json, then falls back to auth.json
@@ -296,7 +297,8 @@ async function goNewChat(page) {
 // ── Single prompt processor ───────────────────────────────────────────────────
 
 async function processOne(workerId, page, row) {
-  const preview = row.prompt.length > 60 ? row.prompt.slice(0, 60) + '…' : row.prompt;
+  const promptToSend = FORCE_SEARCH ? `Search the web to answer: ${row.prompt}` : row.prompt;
+  const preview = promptToSend.length > 60 ? promptToSend.slice(0, 60) + '…' : promptToSend;
   log(workerId, `→ "${preview}"`);
 
   // Intercept the SSE conversation endpoint BEFORE sending
@@ -314,7 +316,7 @@ async function processOne(workerId, page, row) {
   responsePromise.catch(() => {});
 
   try {
-    await sendPrompt(page, row.prompt);
+    await sendPrompt(page, promptToSend);
   } catch (e) {
     responsePromise = null;
     return { ...baseOutput(row), notes: `send_failed: ${e.message}` };
@@ -477,7 +479,11 @@ async function main() {
   if (fs.existsSync(OUTPUT_CSV)) {
     const outputDone = readCSV(OUTPUT_CSV);
     for (const r of outputDone) {
-      if (r.result_sources && r.result_sources.trim() !== '') {
+      const hasResult = r.result_sources && r.result_sources.trim() !== '';
+      const isNoSources = r.notes && r.notes.trim() === 'no_sources_found';
+      // If FORCE_SEARCH is enabled, we retry 'no_sources_found' to get search results.
+      // Otherwise, we skip them to avoid running them repeatedly.
+      if (hasResult || (isNoSources && !FORCE_SEARCH)) {
         doneById[String(r.id)] = r;
       }
     }
@@ -491,7 +497,7 @@ async function main() {
   const unprocessed = [];
   for (let i = 0; i < rows.length; i++) {
     const r = rows[i];
-    if (!r.result_sources || r.result_sources.trim() === '') {
+    if (!doneById[String(r.id)]) {
       unprocessed.push({ row: r, origIdx: i });
     }
   }
@@ -557,9 +563,13 @@ async function main() {
 
   // Run workers in parallel — each gets its own account to avoid rate limits
   const workerCount = DRY_RUN ? 1 : Math.min(WORKERS, toProcess.length);
-  console.log(`[init] Starting ${workerCount} worker(s) across ${authFiles.length} account(s)\n`);
-  const workerPromises = Array.from({ length: workerCount }, (_, i) => {
+  console.log(`[init] Starting ${workerCount} worker(s) across ${authFiles.length} account(s) (staggered launch to avoid conflicts)\n`);
+  const workerPromises = Array.from({ length: workerCount }, async (_, i) => {
     const workerAuth = getAuthFileForWorker(authFiles, i + 1);
+    if (i > 0) {
+      log(i + 1, `Waiting ${i * 4}s to stagger launch...`);
+      await new Promise(resolve => setTimeout(resolve, i * 4000));
+    }
     return runWorkerWithSave(i + 1, browser, workerAuth, queue, rows, outputRows, saveAll);
   });
 
@@ -625,20 +635,52 @@ async function runWorkerWithSave(workerId, browser, authFile, queue, rows, outpu
   }
   log(workerId, '✅ Logged in');
 
+  let consecutiveFailures = 0;
   let first = true;
   while (queue.length > 0) {
     const item = queue.shift();
     if (!item) break;
 
     if (!first) {
-      await goNewChat(page);
-      await dismissDialogs(page);
+      await goNewChat(page).catch(() => {});
+      await dismissDialogs(page).catch(() => {});
       await page.waitForTimeout(DELAY_MS);
     }
     first = false;
 
     try {
+      // Check if rate limit modal is visible before processing
+      const rateLimitSel = '[data-testid="modal-conversation-history-rate-limit"], #modal-conversation-history-rate-limit';
+      const isRateLimited = await page.isVisible(rateLimitSel).catch(() => false);
+      if (isRateLimited) {
+        err(workerId, 'Rate limit modal is visible! Re-queuing item and stopping worker.');
+        queue.unshift(item);
+        break;
+      }
+
       const result = await processOne(workerId, page, item.row);
+      
+      const isFailed = result.notes && (
+        result.notes.includes('send_failed') ||
+        result.notes.includes('timeout_waiting_response') ||
+        result.notes.includes('body_read_failed')
+      );
+
+      if (isFailed) {
+        consecutiveFailures++;
+        err(workerId, `Prompt failed (Consecutive failures: ${consecutiveFailures}). Notes: ${result.notes}`);
+        
+        // Check if rate limit modal appeared during the send
+        const hasRateLimitNow = await page.isVisible(rateLimitSel).catch(() => false);
+        if (hasRateLimitNow || consecutiveFailures >= 2) {
+          err(workerId, `Stopping worker due to ${hasRateLimitNow ? 'rate limit modal' : 'consecutive failures'}. Re-queuing current item.`);
+          queue.unshift(item);
+          break;
+        }
+      } else {
+        consecutiveFailures = 0; // reset on success
+      }
+
       outputRows[item.idx] = result;
 
       if (!DRY_RUN) {
@@ -649,10 +691,9 @@ async function runWorkerWithSave(workerId, browser, authFile, queue, rows, outpu
       }
     } catch (e) {
       err(workerId, `Unhandled on row ${item.row.id}: ${e.message}`);
-      outputRows[item.idx] = { ...baseOutput(item.row), notes: `fatal: ${e.message}` };
-      // Save even on error so progress isn't lost, then navigate away and continue
-      if (!DRY_RUN) await saveAll().catch(() => {});
-      await goNewChat(page).catch(() => {});
+      // Re-queue on fatal unhandled exception
+      queue.unshift(item);
+      break;
     }
   }
 
