@@ -2,447 +2,69 @@
   "cookies": [
     {
       "name": "oai-did",
-      "value": "bd4b3836-3e7a-45b1-8962-5b68c7cda30c",
+      "value": "8983a14c-0756-43c8-89ea-27daf68d4cee",
       "domain": ".chatgpt.com",
       "path": "/",
-      "expires": 1813581645.998071,
+      "expires": 1813657276.354312,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
+    },
+    {
+      "name": "__cflb",
+      "value": "04dTofELUVCxHqRn2XQ4bdkCzrtoGFxKNBTPWCy251",
+      "domain": "chatgpt.com",
+      "path": "/",
+      "expires": 1782556876.354487,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "4Zug5CCUf9AOpwrCgScvPQVlx9uBYF7BvCkRpBYXdIc-1782553276.0780003-1.0.1.1-L20S2hRCYgJsTBnzZ7Gzzvn3Lhhq3KpyZjl2vDCzkYk",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cf_clearance",
+      "value": "psJS0V0_fkKvuZyW.jkoF0g7Qqq3sjZ2g.jFDFT.3yg-1782553276-1.2.1.1-lMuA2rabfxqLXtpWEvPiiSqUzlmwuzBCEPC7qZkhaK__2UPfoKyGmN.80HdDE088o.LF.0bky9Fz78s4sy5UFl91LPpDmtbiDLGff84vQtlM_n7AbDHXytuu4vupW0dwNChkJuclTOviwuZfTPJf7k05fMJb4FEC0Pc5zmKEu4whGk2Uz4LJ0pIeOCUSHzPK.KS63xxBfsIWqhFMI.ReVIK6qjaodUym2nruJ5n5Hp0TYhd5EQ6ia94.rQHGGs0Fq9Djgw4f8HYwu9S.UbZ26yWTx9zKzp8Y7eS.3u38owSx62m6mK_A0SVEayk.ZHuBJ2ch1R1XytWtsrm4UB_mdA",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1814089276.849926,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://chatgpt.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "__cf_bm",
+      "value": "8idQP2PuwwdURZZPfrFIyKd3L0Vbb5PMlHOlyKztD20-1782553276.8612938-1.0.1.1-7mDNNyfhyxcMahSI68EvZ3vXQE8ZU9C9CsOoCOHs0gjuEsNtyJ2ySTBVSxLtjlcj8_y00LWnf1GPudLtL0YSBDS7UIYoa8CtI677riWReWX15bBma8V2rbyN4NrAsj_I",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1782555076.850051,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
     },
     {
       "name": "g_state",
-      "value": "{\"i_l\":0,\"i_ll\":1782477648127,\"i_b\":\"maon02piU5VJ7J0/rx5HzKdBKOapGmhpgMw+tJQl4ww\",\"i_e\":{\"enable_itp_optimization\":24},\"i_et\":1782477648127}",
+      "value": "{\"i_l\":0,\"i_ll\":1782553278251,\"i_b\":\"LHAeEwsvEJdyw303yhpW5ukEVvo8Z9fbfg+3BqiNDLw\",\"i_e\":{\"enable_itp_optimization\":24},\"i_et\":1782553278251}",
       "domain": "chatgpt.com",
       "path": "/",
-      "expires": 1798029648,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "oai-did",
-      "value": "bd4b3836-3e7a-45b1-8962-5b68c7cda30c",
-      "domain": ".openai.com",
-      "path": "/",
-      "expires": 1814013665.563872,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "oaicom-stable-id",
-      "value": "433ae36b-0cc0-430b-a994-3079fb4e7741",
-      "domain": ".openai.com",
-      "path": "/",
-      "expires": 1814013665.564397,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "OTZ",
-      "value": "8669561_34_34__34_",
-      "domain": "accounts.google.com",
-      "path": "/",
-      "expires": 1785069668,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "HSID",
-      "value": "AQgeywMSBS-YVc3oO",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1817037742.111728,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "SSID",
-      "value": "AbvWz0HbqoF5vZxWs",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1817037742.111814,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "APISID",
-      "value": "7utKOkzsZ372h6So/ADZUnkbJtxzF_EJ7H",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1817037742.111896,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "SAPISID",
-      "value": "1HtyI_1Z_htlcz-q/A-htK-gM7h3VKRDtz",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1817037742.111978,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "__Secure-1PAPISID",
-      "value": "1HtyI_1Z_htlcz-q/A-htK-gM7h3VKRDtz",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1817037742.112057,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "__Secure-3PAPISID",
-      "value": "1HtyI_1Z_htlcz-q/A-htK-gM7h3VKRDtz",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1817037742.112138,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "ACCOUNT_CHOOSER",
-      "value": "AFx_qI7scJnrX6DZe-kqVrY9EJlIJ2oG8IS-rRjDlEx0fjc2aFCI7OzOI65Xv6p_svgAkymUWi388rAXnSuv43fi1pSRBN4r2GEH_nDnRuytFr0xQicGhea1QpmVsfV4pKqDMD-3tY8r",
-      "domain": "accounts.google.com",
-      "path": "/",
-      "expires": 1817037742.112214,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "LSID",
-      "value": "s.IN|s.youtube:g.a000_ggh-K9Pi2M6TUm_77RMsonEYCR_HuYh0wXoQ1pgw72iTLEz2rjaswm_Stxxq9ln9WuzBQACgYKAXsSARISFQHGX2Mia_Yn3kQhYnSD6xolwxfvSxoVAUF8yKoaxTozg0sxlmn6EPHhWIRP0076",
-      "domain": "accounts.google.com",
-      "path": "/",
-      "expires": 1817037742.406257,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "__Host-1PLSID",
-      "value": "s.IN|s.youtube:g.a000_ggh-K9Pi2M6TUm_77RMsonEYCR_HuYh0wXoQ1pgw72iTLEzXlst48J9ENIneh-3iDWAOgACgYKAXQSARISFQHGX2MiF0mzl7uKN1wpI8is6lwaDBoVAUF8yKpRnnRbBs3zCgLiMyLp9S3K0076",
-      "domain": "accounts.google.com",
-      "path": "/",
-      "expires": 1817037742.406585,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "__Host-3PLSID",
-      "value": "s.IN|s.youtube:g.a000_ggh-K9Pi2M6TUm_77RMsonEYCR_HuYh0wXoQ1pgw72iTLEzKo2s-q2f-tyTDX8xj-b0EgACgYKAZcSARISFQHGX2MibTfur5zh2CrPzsU5QEOYwxoVAUF8yKp2l5Zy9a49Tg6NAXOP7G7F0076",
-      "domain": "accounts.google.com",
-      "path": "/",
-      "expires": 1817037742.406741,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "__Secure-1PSIDTS",
-      "value": "sidts-CjQByojQUzvEpLmj4r9E9r8cRAP6pKPEbkQa7hFryydMf5wmrK3049OG7T1pNESaKyft6BbZEAA",
-      "domain": ".youtube.com",
-      "path": "/",
-      "expires": 1814013742.666621,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "__Secure-3PSIDTS",
-      "value": "sidts-CjQByojQUzvEpLmj4r9E9r8cRAP6pKPEbkQa7hFryydMf5wmrK3049OG7T1pNESaKyft6BbZEAA",
-      "domain": ".youtube.com",
-      "path": "/",
-      "expires": 1814013742.666852,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "HSID",
-      "value": "AkqGna8xEfzz_FotC",
-      "domain": ".youtube.com",
-      "path": "/",
-      "expires": 1817037742.666961,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "SSID",
-      "value": "Ad2ZG0FKC-vVXSWPd",
-      "domain": ".youtube.com",
-      "path": "/",
-      "expires": 1817037742.667039,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "APISID",
-      "value": "7utKOkzsZ372h6So/ADZUnkbJtxzF_EJ7H",
-      "domain": ".youtube.com",
-      "path": "/",
-      "expires": 1817037742.667098,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "SAPISID",
-      "value": "1HtyI_1Z_htlcz-q/A-htK-gM7h3VKRDtz",
-      "domain": ".youtube.com",
-      "path": "/",
-      "expires": 1817037742.66716,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "__Secure-1PAPISID",
-      "value": "1HtyI_1Z_htlcz-q/A-htK-gM7h3VKRDtz",
-      "domain": ".youtube.com",
-      "path": "/",
-      "expires": 1817037742.667365,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "__Secure-3PAPISID",
-      "value": "1HtyI_1Z_htlcz-q/A-htK-gM7h3VKRDtz",
-      "domain": ".youtube.com",
-      "path": "/",
-      "expires": 1817037742.667468,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "SID",
-      "value": "g.a000_ggh-C9aqe01yg2vx4nMp7LSrSWt53a-XkUc02YHT1VjsKhCTWMhj-iHcVvNYgwrAIf5pAACgYKAWESARISFQHGX2MiMPeW62_6yJ531Lz7LktK_hoVAUF8yKo9SPMrmp_9DaFbbFPaH_iu0076",
-      "domain": ".youtube.com",
-      "path": "/",
-      "expires": 1817037742.66781,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "__Secure-1PSID",
-      "value": "g.a000_ggh-C9aqe01yg2vx4nMp7LSrSWt53a-XkUc02YHT1VjsKhCBP6GcUDipnHU1TurgohlTgACgYKAX8SARISFQHGX2MiAsWwgtitE_KAMh7o8PXrTBoVAUF8yKoShreP69K_Qw1Fm69a2pUt0076",
-      "domain": ".youtube.com",
-      "path": "/",
-      "expires": 1817037742.668024,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "__Secure-3PSID",
-      "value": "g.a000_ggh-C9aqe01yg2vx4nMp7LSrSWt53a-XkUc02YHT1VjsKhC-AonA9eQe2OK7BnVtDEN0QACgYKAa0SARISFQHGX2MivYQ-F9CwmYazPkCmuS4v_BoVAUF8yKpuJPGhLg09QkiVKDW34z2m0076",
-      "domain": ".youtube.com",
-      "path": "/",
-      "expires": 1817037742.668431,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "SID",
-      "value": "g.a000_ggh-HaqPxhZyxE5WhbBkdi2eBzG-GQHPP_1iq1IdvbJhuWzu4F1IDh_mh5uyajOJ_RglgACgYKAaUSARISFQHGX2MibqxOSofIdj7bdnsVf_X2NhoVAUF8yKrTm818HFI1RcKdw6mr_J-r0076",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1817037742.874313,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "__Secure-1PSID",
-      "value": "g.a000_ggh-HaqPxhZyxE5WhbBkdi2eBzG-GQHPP_1iq1IdvbJhuWzwuy02MVFB_3Bkkwi2-w2fQACgYKAV0SARISFQHGX2Mi4T7FYHelaYjd2gNSIzIRuhoVAUF8yKqaNlVUyW10PY7Kfcj2yKKI0076",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1817037742.874504,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "__Secure-3PSID",
-      "value": "g.a000_ggh-HaqPxhZyxE5WhbBkdi2eBzG-GQHPP_1iq1IdvbJhuWzMB1OjvKXCthRmoNIIPmwqwACgYKAbASARISFQHGX2MiP3WUV3wxEnbdu5m_EPIytBoVAUF8yKpLLzqYbPBSQZBIilJK4aFp0076",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1817037742.87465,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "HSID",
-      "value": "AkqGna8xEfzz_FotC",
-      "domain": ".google.co.in",
-      "path": "/",
-      "expires": 1817037743.077145,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "SSID",
-      "value": "Ad2ZG0FKC-vVXSWPd",
-      "domain": ".google.co.in",
-      "path": "/",
-      "expires": 1817037743.077441,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "APISID",
-      "value": "7utKOkzsZ372h6So/ADZUnkbJtxzF_EJ7H",
-      "domain": ".google.co.in",
-      "path": "/",
-      "expires": 1817037743.07755,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "SAPISID",
-      "value": "1HtyI_1Z_htlcz-q/A-htK-gM7h3VKRDtz",
-      "domain": ".google.co.in",
-      "path": "/",
-      "expires": 1817037743.077615,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "__Secure-1PAPISID",
-      "value": "1HtyI_1Z_htlcz-q/A-htK-gM7h3VKRDtz",
-      "domain": ".google.co.in",
-      "path": "/",
-      "expires": 1817037743.077678,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "__Secure-3PAPISID",
-      "value": "1HtyI_1Z_htlcz-q/A-htK-gM7h3VKRDtz",
-      "domain": ".google.co.in",
-      "path": "/",
-      "expires": 1817037743.077781,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "NID",
-      "value": "532=G-AswH__6tp6lHjQ6avC_ai8tKZ6rV7J4pbyMc7_5gmQ4JiZeg1-_-GFqWxf2Nhk-dzTrTCEsvcn59H8t8aEOpfN9797_eMv4FlNsLCRCnuJPOCEjXtY33NEvReKyM6p3b4A1stpumsaLzfIAebo5yuSP3RwuhGBGBUVAm9Wzv45dk1PSie3hSP8YzTGjKOUz4u-2zepsL0Ccxf_",
-      "domain": ".google.co.in",
-      "path": "/",
-      "expires": 1798288943.077845,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "SID",
-      "value": "g.a000_ggh-C9aqe01yg2vx4nMp7LSrSWt53a-XkUc02YHT1VjsKhCTWMhj-iHcVvNYgwrAIf5pAACgYKAWESARISFQHGX2MiMPeW62_6yJ531Lz7LktK_hoVAUF8yKo9SPMrmp_9DaFbbFPaH_iu0076",
-      "domain": ".google.co.in",
-      "path": "/",
-      "expires": 1817037743.077914,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "__Secure-1PSID",
-      "value": "g.a000_ggh-C9aqe01yg2vx4nMp7LSrSWt53a-XkUc02YHT1VjsKhCBP6GcUDipnHU1TurgohlTgACgYKAX8SARISFQHGX2MiAsWwgtitE_KAMh7o8PXrTBoVAUF8yKoShreP69K_Qw1Fm69a2pUt0076",
-      "domain": ".google.co.in",
-      "path": "/",
-      "expires": 1817037743.077983,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "__Secure-3PSID",
-      "value": "g.a000_ggh-C9aqe01yg2vx4nMp7LSrSWt53a-XkUc02YHT1VjsKhC-AonA9eQe2OK7BnVtDEN0QACgYKAa0SARISFQHGX2MivYQ-F9CwmYazPkCmuS4v_BoVAUF8yKpuJPGhLg09QkiVKDW34z2m0076",
-      "domain": ".google.co.in",
-      "path": "/",
-      "expires": 1817037743.078047,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "__Host-GAPS",
-      "value": "1:lO6fuU0KZPHmy_S9l-3qfuVjONxUKoBpLGkc06xvx3Q9nTVqq4bAJP7JWzRdaIbycKDOLR5tYYvSaazfZEB6byHXfvRqmVAhzhrgu2nr6PFkqSOcNCBIzJCD-NF7VlFOmsowKUkl5l-MpRq87Z-owSnKDhlHRya-GweVb1MuVMUcTeOD3yIT2g:CpVIq4tjyNDZ0Ka5",
-      "domain": "accounts.google.com",
-      "path": "/",
-      "expires": 1817037743.382291,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "oai-client-auth-info",
-      "value": "eyJsYXN0X2xvZ2luX2lkZW50aWZpZXIiOnsidHlwZSI6ImVtYWlsIiwidmFsdWUiOiJhdmlzaGVzaDIyMDhAZ21haWwuY29tIn0sImxhc3RfbG9naW5fc3RyYXRlZ3kiOiJnb29nbGUtb2F1dGgyIn0=.aj5zsQ.pMYSWJsY_wwgmPycNVerK1sBo0b3L3XmwVTKZ2o4Xqs",
-      "domain": ".auth.openai.com",
-      "path": "/",
-      "expires": 1785069745.740734,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "usc_bjBvOlOifomu928SqnNyaWmM",
-      "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoidXMiLCJwcm90b2NvbF92ZXJzaW9uIjoiMSIsImNvb2tpZV9pZCI6ImJqQnZPbE9pZm9tdTkyOFNxbk55YVdtTSIsImVuY3J5cHRlZF9hdXRoZW50aWNhdGVkX2RhdGEiOiJ1c19wTFRLVDZzb2FINnl5T2o0WHZUc0Vma0UiLCJjbGllbnRfc2VjcmV0IjoibXhqSndHQUdGaWFCd0xSQjBDWEJnaW1HIn0.FKIE1Qrr7JoAqQOf3KG2_sL5DP5bKRbanPZ3-LI62UcHIS1AIBC5OXfl0MR2-NGfvjPACJbYra1NYtx7G-SiVg",
-      "domain": ".auth.openai.com",
-      "path": "/",
-      "expires": 1817037745.740769,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "unified_session_manifest",
-      "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lcyI6WyJ1c2NfYmpCdk9sT2lmb211OTI4U3FuTnlhV21NIl19.iPM4HdIJYfKb7sKDMD57XUBYFUaGY3QEFDkHUSf7il6l2dprZG0_pRneddkrq7WcLM2A3hRo46_t8HeIa8MU-Q",
-      "domain": ".auth.openai.com",
-      "path": "/",
-      "expires": 1817037745.740805,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "oai-hlib",
-      "value": "true",
-      "domain": "chatgpt.com",
-      "path": "/",
-      "expires": 1813581748.813525,
+      "expires": 1798105278,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "__Host-next-auth.csrf-token",
-      "value": "69093210c4bb284e71128116376573a396bb0c31043396658ebe4bc6988957a7%7Cf37b9847610716386f5e31840b13b18bd658e1c126f81e5df36cc175ad38f8bd",
+      "value": "b4e3ae659539bf0b32310621ca1de959d102c4ce4ffa1eec487a5505b7b3d0f0%7Cf0b319c0e9af58749cdd53de737e95f021f4d515c76e40d1d04634321ebd8f2f",
       "domain": "chatgpt.com",
       "path": "/",
       "expires": -1,
@@ -452,7 +74,7 @@
     },
     {
       "name": "__Secure-next-auth.callback-url",
-      "value": "https%3A%2F%2Fchatgpt.com%2Cchat.gateway.unified-164.api.openai.com",
+      "value": "https%3A%2F%2Fchatgpt.com%2F",
       "domain": "chatgpt.com",
       "path": "/",
       "expires": -1,
@@ -461,39 +83,69 @@
       "sameSite": "Lax"
     },
     {
-      "name": "__Secure-next-auth.session-token.0",
-      "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..Sm3N01dOBQqYW3F6.6xJr3f0JG_tIl9ybUseaZA21_CgtxcfvKjkoqIoJ734-S3L0bzIUtwbSq63OzeNN4Lbrm_ngX7Ya2lgwHKCjSVMW-iJgC_9NieunMmkIPOSWY4hvBpG3xl0Mh4HABKp-r-gT-kWwY1m8YiJjASBatw0Xhjxr2pss_b4oMVm5WjVmm1uKEisTwGoGxLZDlOr0UeOzXV9-T91zESdrtguHce3tx01OdR-OT7dGbQSWwAFkRa7quduQFKByyRuCDMORzC02eVSilNfm54ghQHHlCX_sr5BbuPVK7LUccfACKrREOGimH15NF70GrZXrpbR020H-3G6OPPeDvLNfIrztzc8JOidZnxCLnSQVRpTsKXTxXDIp74kgserYGyd-BmtdS3rZurm3PPepJWSjrRbFetLr9njN4cXfXrN9p510T_8aMGHGxfx3XnM6HQFpXvDD6NprS-a9kNHxgIGBqajyvBgKpF34kT8zUoXHh1udCJgraEkw6hCKAElyffi2HUDEjLhKo7osTTxVs7rb5u2_40QTwQ4GA9m2Ac2O2i9DyIOQ8xc_fxX52P5YROpfHzjR8zBiufRQLNDD-P-Vj9pY7J5jCIrQF5Khi9p6p6zEVsF8xESw6qnBLi_7I6zR1vQwVHiGDP8njvoKBnzZDYm3QVxjEl6bURNsNemUBnIkIt3l0SSoyvTMjZrcmfdGiqOtPUy3BSGlDymFWbHTkGNy5BGVpQ-3vK_zmNqKewJn8UA5Td3uRxxhHBCTlPOQRdBnJvJ9g4sC-epOzupUbuFIcwH_vIYQNOWbfkpe8wOIpiQwsJaVW2BC8As7DjnljOSwfAQ0FPEvCFJheCR1pkJs-U0czH4pYNE468hdQxP7v4AkgGwDEyxpf7j-xM2fNB_Ez9WfzM8kopzE-Dqu36w1hJKZqoMPc--dREWElfeWpiHAoqyhSEo4VN6kltockev6EkvyO1HG9ohcDCLwVUyVzZZqudQaTL7qXdds9nwCFWoSnwq9kwzQkHUXnSe0Td5zulgytB4xhu66MXulTOoRYUe3blnZHjbmevWmFKuFHHfwDOlIKO7DB_9LhEeEJnT9QcLOHX_pXfxC4aR2wgZOxX4h9ZdFcI2y7TM0nIL3X8dwJkySoLjsAvSWzFo4i2kqQsclQ4_7bxaLYkY0uXU1vEXZz19twxxHvS53H4EwaM1DQC931ttu1NSZRJnaLyMT0l2bb1bCpPDlC-rkOhCV3i1TPmtd2VrnOY9_dTv7Q1kgrf9VTF475S4yka49zP5rfGjLEYMvA46p37eJcE-jVHSWajsUQ00nWkA9EDP4XjQpxEt7Pg2qNFgwQFucvDiX_gh7737-hY2qdDoayPa-smKIhmhdAK1EoXmpdvdwUqBIFD30xC_QLx5fcO_q6DXOxWZqY5njMjSKDAehDf-tRr5EcyXfQ7ombt-6zBiP1XbASFUYfKxPYXQAzfNvMxZnTml1YX5WoNaxIxV3tbRyJ3l3zAnf2shKccGYepDtsRD61zT4hVYxu-V8-KkEaMhqKJXIMMHxo0b-iDFtC4HNGATiALVZSnUrNJMi9CZwtVZucoWKILtcOcH5bWJyfdauXztLRbPl6Vq0ywIFPAjTVTTz7fGkC42VljLqkLPghm6nJwI36MwuLso5rLUUxgojM0AxZKK-H6oo-FCGmnqv2mjFuWW8bMJkHi4a-3mNy_pNzGFEpdDKB-TNgwTkgM0lUC2rt1PluQWKQ-02D_3gJXDM99tngzR5KUgaRKZh6LZw9w6Kkaa51kpA3oF4x-0zfXX7uY1w5Ig9Wu-tUgxSv4ZH6cTzHPskeW7wEO5a9CS6ouflHX1t5ToOCO5ezxEiaKUL5vfKROUdEcl0KYTV0y4GEMv-C7UfOTosm_K_fh5cxXer-sRFDx_4PaMDtiSawl-S2pCb9WLa_KDugvHQCP3-p5PzDClxRI9piMgjkz6nj2WwCvVEyLbIPf41ZgZ5HRnhp-IJQ1HI6-0ML0TDVJ_KyjALwaQchF_g8z98WURbD6UprNFisRDZCvGsSRTtCp1lEFawdOw0BPdBZsQjMlZJt-GZA1crkf7SX4FBGZcSRHquSr-EM1ercye08Ox5N-RIKz3oIhKjHMwi7LKe0PT_n64XbVQTR8wxN_XfIErOASwva5IrlRwltKVixvXaBRbgIXK4hRhO3GsV3PmYa17vj6fWjzkvFfOpQCBGqalMIYOFCrh1lIDZOZyUsuxIZaYoY6cTet2hXg4FWNFXmr153WSDaf1sdTzZ98JceJuHzJuXdmVfo9hzEbwtrvTGs1IoHsFEWyV_la9_kyk35UhdzN_pcoTjbyUXluwF0GZXg4LYAnxa9tyTDOkp8SF6cvi7_8PVQez8d_s_3KDQZjmJVSfTEOL1k2PCW804t2sViZsJFuA-hGnGvWHKohpoPbxFt1t9Fqjp0SE5tlAW0rvUw6Wft8Rt0EB-eyM1GxmmiXOBsC3q4djbbQVY9o0UJdk9ga_U8nSW2vEpXDEEGzVpsPE13pP2a8XGOQmgYwoAnC2ONRVY7FHT1OG1c4200nS2IN2GPytPOhReeQfCbtU-55z1qIJgBwQjPNW45Sg6F5oh5HeeyC46A-m8mJ95ulHB8Ee5g-o-DiJNN5P6ymW9-wMsDTMkdgpVr4KgdoQB5KJy3lBsYRtwTM-vJnZZvWmsJtkkp_UTnMCCz2zFx16Xq4PGF3QgaX7QU61BFmKAWkZdd-NQ6UKpwFFAOD6mLTbVOjj0pNOgyiPp-UGp76g9Hd0ZOfzsfeu6woNYT4FxMNaMVka2UmCgpik9oQXcDOM7wtLSotXIxOT9dKn679V7TU6LZiwPA4orB3X32ZJN3xRv6CviILT_6W86xCHlHmsBcA5pLZCNaBrGIe3-4ne7wckGbhaqHfiRcMQnmMgqC8Q3NamRYcSR9L9pY9v-tG3UNQo8STXjJJdyc4p9V9mTtzFdZvktpWWlHMkNL6y3TSohtfLOBHk-nhwYtswjnd0iLRHI3Gx8yt9pMH2hzXBMbRlKxQmN_V2xdB-C7z9XsqHZmfZQoG6XDTnhJZuoRjx1HAjmUFYT4eP6P3LG6hABim-tEma2itm2WlIzXkMkOdZvfFBkos90SIKz9rl5jbcFSNtLbEqNjcmWSPQYc38QxKsotWfyC1Z6nxIVe9-kUfmj2yHcoZMcGcjvad2tpfDMLrYi5V2QLV41YMnvbn5FHgG3QFZXJkV5mm6Bckd7umdYwUmRdCfrSjN8XXAZCJTPqDqivYpsAaD2dqT4mJTeBcUMGzcdcUQFuNJvQvX8fmYrqGQ3_nWbIJBLT7FyAVmASbP_8ZCfEnbw1JR83VIiADOLyoChql0cvqcTFKXSBnylsz2esxM03ED37JHnm1ur8tx0hYko4Nr17myKGpvdKcE63WnElAkJvr4aSYDrCxkYMJ_ybdC2atS8YiEinG6GRNsnITqmFBG35AmbeGWKYeTvn7fM-7--vCIT5jls4v3MMxc41JyLr83_lmD4bExHxGh_sIsqYPtauVdWNbGYhplgFA0iERkePSlrTG6DfJIeyWGDfR38aCmF7wfrnWYs29_089PGOgjfrKsUmGNOv2bFc7Q9p0XNeYwxxLtq8mphAgDvkMzJmntU6FHelELKorWEYWp9nQiAeoyNglZJiJduS10n86mO5H5yGRmVFKdTuU1u6phkX62ZMagy6U8qSZw7T3notE3wET2Mxmp_IsXwr3-usu7xV44enizd8hrgVnbjWhVsBiUbpkOyi5084jxxcJ-isT7eCvgfaHKRKvYwMSMTxso0Rk8DcBzpfwieLss7zAhi4voZb20iC72Cb2tg9vXczJs0uEyf12rbfiK3aAoBMwj",
-      "domain": ".chatgpt.com",
+      "name": "oai-login-csrf_dev_3772291445",
+      "value": "MTc4MjU1MzI5MHxCcU80NTZxTkt6UVkxMzh1MlBYLXJsMGZMMWRxeFdUNkZTU3RjaHQ3Rjh4REFxUTlaUkpIRHBMYS12dk5hQk1RV3NPdllRT2NGaHN5YVU0aGNpTmZLSGVhRTFjUUhaaEpORzlwaFNZQ2xnREczQ1lyYnduelFVaFZtTXdxfOb-cQY6QvKKaROBR9KvzB8lCevyKV7HKHkLyY1YuAmM",
+      "domain": "auth.openai.com",
       "path": "/",
-      "expires": 1790326884.865554,
+      "expires": 1782556890.613682,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
     },
     {
-      "name": "__Secure-next-auth.session-token.1",
-      "value": "RGyRj28bt4fPFGX3F8ZGeRLi8MrPBZZXM7JqrY-jHOn1Q69ix14y0FpKoGloMigSvE9heEcNc_2yKmoLsUw1crIIn4k4DklDV_nX6wCUK_G3ypR0p3Zq0-caZWSYh8A1lo4OBqfjmpDnMY8g3gxCmFr71arGeY4ZVtp9QRrqNftib3OPKf4CacaG_oD9CEvFsVz3KdVg6PSH1l6fzEZJY8bQURCwZtMYnnZo_KuDavflHPg6w4JHbl4w8SURYyJNZUNJvC301I40kuNO1Gdj1wuleQ9Et9rJQ-qHVFCelos2ScIhqnCAcjP2b1-N1CB8yh16YbRnTMTxFYwVA3XRLAHFH511KEci20C8S54GkCQuEABlH6wkg8MTco3KLcPk04Is1CNUK_Pp56KunDzqEhzVuC6pPfD9Owo1sMizOkW7TUsIbLAYEIGztGWqSWE7kgNi1PMfEDDMMOrHaNUTRU28.Hsa-0ikifklUNMwW0QAhTQ",
-      "domain": ".chatgpt.com",
+      "name": "oai-did",
+      "value": "8983a14c-0756-43c8-89ea-27daf68d4cee",
+      "domain": ".openai.com",
       "path": "/",
-      "expires": 1790326884.865682,
-      "httpOnly": true,
+      "expires": 1814089290.613773,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rg_context",
+      "value": "prim",
+      "domain": ".auth.openai.com",
+      "path": "/",
+      "expires": 1782555990.613812,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "iss_context",
+      "value": "default",
+      "domain": ".auth.openai.com",
+      "path": "/",
+      "expires": 1782555990.613845,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oaicom-stable-id",
+      "value": "f88188eb-36fb-4f1e-a8c4-d9405f9bb1c7",
+      "domain": ".openai.com",
+      "path": "/",
+      "expires": 1814089290.614255,
+      "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
     },
     {
-      "name": "__cflb",
-      "value": "04dTofELUVCxHqRn2XQ4bdkCzrtoGFxS3WbpFqzvrf",
-      "domain": "chatgpt.com",
+      "name": "__cf_bm",
+      "value": "Jq6nMzJjxZOtueDos4QKm6JdPrHsf_eUQl0cgwhtdC8-1782553290.3039215-1.0.1.1-UQ2.jqdbCPe6l16sO8NI8ZDV2CZAptNXJ2cdtGkN7dzh5sL6EChubUpbeDc6WMl4c1OCE8ttWvvxAISTWz43oWukFNQlLd9zXrHMPh93tM5K0H_yprZRokkkR3AR.Qlm",
+      "domain": ".auth.openai.com",
       "path": "/",
-      "expires": 1782554484.865792,
+      "expires": 1782555090.614286,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "_cfuvid",
-      "value": "9OQQpnv4eaPeoRXQIdCzfcBDje18zYQ2k28RwQJKXyY-1782550884.6382635-1.0.1.1-1791NKHrnk.Ds4pbb8pMS7sQZlKrn8FRXobwQvykfg0",
-      "domain": ".chatgpt.com",
+      "value": "LjNfY1dbTdeD8FiwphT95D0Q4_HDsvDnxZ0M0XWAN3U-1782553290.3039215-1.0.1.1-eEa2.pcLajZuwKd3JX4PrVSRVlQFwihi.XNLWVan_O0",
+      "domain": ".auth.openai.com",
       "path": "/",
       "expires": -1,
       "httpOnly": true,
@@ -501,176 +153,514 @@
       "sameSite": "None"
     },
     {
+      "name": "OTZ",
+      "value": "8670822_34_34__34_",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1785145293,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
       "name": "NID",
-      "value": "532=vdQeqICCdwHreHWjZ_hcarAis1Y1vrvINaUW8QSML9wMP0t6tnhPY9eOF-dg_bZYCm5R6eka6-mbKyJGaBMmojMGYxVZiWaewBbpVhlvWvJXuGaKiSJd4d3PL7UmAGEi4O_eAFp78Vv2sKq8DiS6QnRkKVSbJJH8f0i9vH7dsAvGZunYcusndURO9GBca_fEbIzKXGbckFgE6AuY5iyM3a6CxGxWpimG_m2Vnx8DipMoznWbLhvuBG6Q6_13otnasoZ_ub_a4h1pojjVguSUvgUyB5PKlZRcQmfYo1s0GNlwX4ziQfg2II-8qRpP6H0jtPENV-2IbG4cGlMn3OR3LsZa0PtL1IU-8MZNAD5VD5hm2wX3MSJe6Cj2_3SAPLBG5-OfgM8Emc4_NOmufFu3VRv1G1NMprHlxZFu1xzYiAtWQMGqdGhIIr059wOD8PNl-raAKg5hoBGlbptE9kYfDT6c8ROZIAsmRNBzWFrrJKTo6MHOhqBDiAETOnlpnVFmImBk6e5lQWCKKRBJF6xvziRb572-37Q-8DrDz6oGjZ96MMWpqnbpAYb2wnZxoXmLsfeND7ylqTNe6ZVaAIEesiF3q1m-1zsfjApE5WNZUvJ_NTntcUZ3NU5gaxW2uqkfe4pf_ecmGSdK",
+      "value": "532=DrF2a3GaBjR3okanniUWqvwNvxgOsg5HSpAF61dPI7c3ZblO6upi_bhTZPj04CxX1Tb0_oFzrV2vr-w-ZceSBYUcMn6mSypDxelpSf8V4tWwv0vlsqW2Ui1-6CVL-VpZYSIEtzivpn84dmwCjD2BYOWDkbyFs2HU-CUSg9bmRKucCPDgsl2kiLj2uBt9nFp7u6us83GJOivoZc3FfAdk0k_csf5KByuLHg7GTIrEaddMZ4pU9oNEpM88KJf2FqvUwEZwLZ03DoE-Ne_4Vlq0X4NB46C2J-6KNBZfI1AfOpT8wMzW4a3wxwBX_H5fX8sm7QgSR1kfi3R3F5TEGGq-ljNJxkNOvbOcLwdNn1F0zIx4mbnZ3Ahr1LmnRny4UtSvL9NNr4rWsNJnFncC7JC8Ma2qkv4Ijxbs2jaevbKGTeCJd0RFzF_owIkEpryHdiXOEgE0BpPv5O2pXt49HTdRipir78Iue8hBgEwtvoSNjG1K3M4t_hp4CETNXq2wmKMohSHKcZUYhn7_ARRzxB1WLEQLeMVhhoCj6NNXqGF5af4rMTrEkiyzhewgbPTGMl0zWVQrORB07OK94jh9n57G4qJ4-sU-ruJxJcRNuXXE58gMihvLOTFn04twGWpqbdmGwQzV-iirn3g",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1798288868.883002,
+      "expires": 1798364492.990889,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
-      "name": "__Host-GAPSTS",
-      "value": "gapsts-Ci0BtKsiLLIyi109LL5e5OeWvcpu6aveXTvARFBAQoJcGMBhF3v9n9duf6C5tVQQAQ==",
-      "domain": "accounts.google.com",
+      "name": "SID",
+      "value": "g.a000_gi0vsYvaSTUqiAGNb3co5FZdZrWicRbMINRrCwX3K9UcvNhIBRMYAf4aYjXj0UbA8T5wgACgYKARMSARcSFQHGX2Mi-n8IMgK-9v9bIssykzeR0hoVAUF8yKo7Dyoa5cNe1hp0SwqWX-R_0076",
+      "domain": ".google.com",
       "path": "/",
-      "expires": 1817110884.992651,
+      "expires": 1817113341.991243,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PSID",
+      "value": "g.a000_gi0vsYvaSTUqiAGNb3co5FZdZrWicRbMINRrCwX3K9UcvNhwLt-PEKymUzjDZztwXgkFwACgYKAVMSARcSFQHGX2MiD9Xc5KlRTT5W_WafzDzl3xoVAUF8yKrIvnBAdQ5OFxjnHfSc8dPB0076",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1817113341.99134,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PSID",
+      "value": "g.a000_gi0vsYvaSTUqiAGNb3co5FZdZrWicRbMINRrCwX3K9UcvNhBS04Fh-OP6z0mMLNyYiuCQACgYKAZoSARcSFQHGX2MiWhtm_qcK3yAT7jZpCljCJxoVAUF8yKr0RJEATfe1lyxkORjQM3A60076",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1817113341.991427,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "HSID",
+      "value": "AlfDxKS1MGZPNrGau",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1817113341.99176,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SSID",
+      "value": "AjSb-tEBSxkk-P-75",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1817113341.99184,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "APISID",
+      "value": "40Mb3FBCJ6TVl_Wl/AieiIWV-E8HgPC4gM",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1817113341.99192,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SAPISID",
+      "value": "D7HDKWrRsHtxURD6/Ajlj1WDJ3kJwzg4M9",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1817113341.992,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PAPISID",
+      "value": "D7HDKWrRsHtxURD6/Ajlj1WDJ3kJwzg4M9",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1817113341.99208,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PAPISID",
+      "value": "D7HDKWrRsHtxURD6/Ajlj1WDJ3kJwzg4M9",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1817113341.992156,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ACCOUNT_CHOOSER",
+      "value": "AFx_qI56sm8QQdR7dRu3T7DnemnN0F3dMtBWORd1eLXm3bmkaIkoz1KrGteRnDICQeS98GBL5PqN3z7Ho-BP7TAic0_2KOZZxFUwF9Mjv96Dh34DF02NjPKINj8jJgssIRKWiM5PTg8SBRec4jzkAHHVMXAnGCd_xw",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1817113341.992231,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-GAPS",
+      "value": "1:3XGdh3L4Jt9XusC66MW96oH3PJOd7PBdfM8Ix6rSjQezzXafCGzDOwBL1exMElRu4besUcSWad8GqZOynPd2YPYUvt0m3g:XJLQJ2YrTyUcU2rU",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1817113341.992313,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "LSID",
+      "value": "s.IN|s.youtube:g.a000_gi0visoM_UXIpUaZ1Bh016ZL-0unnno4AVWoPlqLiCHpb7wT6erycMYPwnRoLg3kofcMgACgYKAfUSARcSFQHGX2MiarkUIOzaHqEycJ6Q6V41cRoVAUF8yKrtYvP424bsg8cXWhg9pT-60076",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1817113342.135518,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-1PLSID",
+      "value": "s.IN|s.youtube:g.a000_gi0visoM_UXIpUaZ1Bh016ZL-0unnno4AVWoPlqLiCHpb7w5CtWkWcJV1JONYZQ4TCmZAACgYKATYSARcSFQHGX2MikCu-2UY9tqPNopm1gE6sDBoVAUF8yKrVFwJO5w-KMaS5mv4Ge1fA0076",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1817113342.135716,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-3PLSID",
+      "value": "s.IN|s.youtube:g.a000_gi0visoM_UXIpUaZ1Bh016ZL-0unnno4AVWoPlqLiCHpb7wac7oL97D517BUJvs4-STfgACgYKASQSARcSFQHGX2MiomlGqOBZZ7kMWiFMCTwxlRoVAUF8yKra580cQPiZM1vYy_dySsDQ0076",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1817113342.135813,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
     },
     {
       "name": "__Secure-1PSIDTS",
-      "value": "sidts-CjYByojQUwpeA9qJy6R1DpzU70VI2O1KNoNKrejdZJr2988OolxwW0cgIBxKEnFSjbsGK6ZurO4QAA",
-      "domain": ".google.com",
+      "value": "sidts-CjQByojQU6kJW0CatydxJaBiXrU535J954ji0cZ5rk4hsp2iRWa9RGvttT75itfu_iIPQfsNEAA",
+      "domain": ".youtube.com",
       "path": "/",
-      "expires": 1814086885.136225,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "__Secure-1PSIDRTS",
-      "value": "sidts-CjYByojQUwpeA9qJy6R1DpzU70VI2O1KNoNKrejdZJr2988OolxwW0cgIBxKEnFSjbsGK6ZurO4QAA",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1782551485.136446,
+      "expires": 1814089342.282933,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "__Secure-3PSIDTS",
-      "value": "sidts-CjYByojQUwpeA9qJy6R1DpzU70VI2O1KNoNKrejdZJr2988OolxwW0cgIBxKEnFSjbsGK6ZurO4QAA",
-      "domain": ".google.com",
+      "value": "sidts-CjQByojQU6kJW0CatydxJaBiXrU535J954ji0cZ5rk4hsp2iRWa9RGvttT75itfu_iIPQfsNEAA",
+      "domain": ".youtube.com",
       "path": "/",
-      "expires": 1814086885.1365,
+      "expires": 1814089342.283103,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
-      "name": "__Secure-3PSIDRTS",
-      "value": "sidts-CjYByojQUwpeA9qJy6R1DpzU70VI2O1KNoNKrejdZJr2988OolxwW0cgIBxKEnFSjbsGK6ZurO4QAA",
-      "domain": ".google.com",
+      "name": "HSID",
+      "value": "AuY8sGlPFAUMCMs1R",
+      "domain": ".youtube.com",
       "path": "/",
-      "expires": 1782551485.136602,
+      "expires": 1817113342.283177,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SSID",
+      "value": "AD8kVeSLS21uIF33o",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1817113342.283244,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "APISID",
+      "value": "40Mb3FBCJ6TVl_Wl/AieiIWV-E8HgPC4gM",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1817113342.283303,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SAPISID",
+      "value": "D7HDKWrRsHtxURD6/Ajlj1WDJ3kJwzg4M9",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1817113342.283364,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PAPISID",
+      "value": "D7HDKWrRsHtxURD6/Ajlj1WDJ3kJwzg4M9",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1817113342.283423,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PAPISID",
+      "value": "D7HDKWrRsHtxURD6/Ajlj1WDJ3kJwzg4M9",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1817113342.283486,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SID",
+      "value": "g.a000_gi0vsYvaSTUqiAGNb3co5FZdZrWicRbMINRrCwX3K9UcvNhIBRMYAf4aYjXj0UbA8T5wgACgYKARMSARcSFQHGX2Mi-n8IMgK-9v9bIssykzeR0hoVAUF8yKo7Dyoa5cNe1hp0SwqWX-R_0076",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1817113342.283548,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PSID",
+      "value": "g.a000_gi0vsYvaSTUqiAGNb3co5FZdZrWicRbMINRrCwX3K9UcvNhwLt-PEKymUzjDZztwXgkFwACgYKAVMSARcSFQHGX2MiD9Xc5KlRTT5W_WafzDzl3xoVAUF8yKrIvnBAdQ5OFxjnHfSc8dPB0076",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1817113342.283616,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PSID",
+      "value": "g.a000_gi0vsYvaSTUqiAGNb3co5FZdZrWicRbMINRrCwX3K9UcvNhBS04Fh-OP6z0mMLNyYiuCQACgYKAZoSARcSFQHGX2MiWhtm_qcK3yAT7jZpCljCJxoVAUF8yKr0RJEATfe1lyxkORjQM3A60076",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1817113342.28368,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "HSID",
+      "value": "AuY8sGlPFAUMCMs1R",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1817113342.552396,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SSID",
+      "value": "AD8kVeSLS21uIF33o",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1817113342.552549,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "APISID",
+      "value": "40Mb3FBCJ6TVl_Wl/AieiIWV-E8HgPC4gM",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1817113342.552616,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SAPISID",
+      "value": "D7HDKWrRsHtxURD6/Ajlj1WDJ3kJwzg4M9",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1817113342.552676,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PAPISID",
+      "value": "D7HDKWrRsHtxURD6/Ajlj1WDJ3kJwzg4M9",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1817113342.552732,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PAPISID",
+      "value": "D7HDKWrRsHtxURD6/Ajlj1WDJ3kJwzg4M9",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1817113342.552813,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "NID",
+      "value": "532=UxADWratrOgMMw-_1ZFs8JvwVL2CMt9sjIjuQg2d66TiVHfvgD5SEpOODmEKnhaCbrtnOl2PA4fQrl2fn2oEj1r3gNuRgwRPiMi93mTgrkR6M-KQNGu0UtM_QU_JlvIlMTfwcdKIbMdI5Ktmj5xUdolYHYpc5p_9QSAIiOyexjAFh8Q5JRG_1aEJSoJn503yklt7Ovw1zAvm_Osv",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1798364542.552871,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SID",
+      "value": "g.a000_gi0vsYvaSTUqiAGNb3co5FZdZrWicRbMINRrCwX3K9UcvNhIBRMYAf4aYjXj0UbA8T5wgACgYKARMSARcSFQHGX2Mi-n8IMgK-9v9bIssykzeR0hoVAUF8yKo7Dyoa5cNe1hp0SwqWX-R_0076",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1817113342.552936,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PSID",
+      "value": "g.a000_gi0vsYvaSTUqiAGNb3co5FZdZrWicRbMINRrCwX3K9UcvNhwLt-PEKymUzjDZztwXgkFwACgYKAVMSARcSFQHGX2MiD9Xc5KlRTT5W_WafzDzl3xoVAUF8yKrIvnBAdQ5OFxjnHfSc8dPB0076",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1817113342.553017,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PSID",
+      "value": "g.a000_gi0vsYvaSTUqiAGNb3co5FZdZrWicRbMINRrCwX3K9UcvNhBS04Fh-OP6z0mMLNyYiuCQACgYKAZoSARcSFQHGX2MiWhtm_qcK3yAT7jZpCljCJxoVAUF8yKr0RJEATfe1lyxkORjQM3A60076",
+      "domain": ".google.co.in",
+      "path": "/",
+      "expires": 1817113342.553087,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "SIDCC",
-      "value": "AKEyXzWWWxHVA_SGvL9ZAHaNsWJqO-tHpQryKIjkPRkEb2SDpDNNtXqIVdmb0iMp6C2EljG4CA",
+      "value": "AKEyXzVhbydDF1rriA_q8P-SxK_LUZgZw-ope0Cd2Ot6rIPHv4QBKG-fLlWIxVVwe-2fPjlu",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1814086885.29395,
+      "expires": 1814089342.826583,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "__Secure-1PSIDCC",
-      "value": "AKEyXzV7olZrLWIzKYNXCemW4X8hAbvz9X4OhSp2eHEP3_jzQOgWx8Cso3JScAE1FOs80APM",
+      "value": "AKEyXzXocwxqWjFcrcICMUsBl97MwH_HE4fsnlywYj-KQSNfTRKN56nhwEyv836HQ-FaJerD",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1814086885.293988,
+      "expires": 1814089342.826709,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "__Secure-3PSIDCC",
-      "value": "AKEyXzVOCzO17SukE8BJxMjVNHs6rd4LwcqTjSbLIGvvseQ7OqJuWfIGfEgwWA2HJBKsiOllFA",
+      "value": "AKEyXzVuIEio8hV6qO2SA5nf6xub9m5s7HeCLW0M52A_Qpz12ShxcWZR604SwlSD3ne-AQ2Z",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1814086885.294026,
+      "expires": 1814089342.826768,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
-      "name": "cf_clearance",
-      "value": "OhtCBzQhXYCXx7uoJw_tNp.8fW6fJD.U8lXx0TvFwM8-1782550885-1.2.1.1-eDLcfoahdDl60gq726XAU3dRnGufU4SkCMZ_G.s0BNC2g_QBmyslfl_zwFy.1f_fNoOPxT71eZuYr4E2_Wdm8EzZhntR8dQjb1VOCRfbjnbi0AZOuSzTLsYeW7NVflohQZqUw27jknA35LWCXkBmdFsg2b5bZy67hrk4VUWe.sAFatfuAPm1rHszWgRHmVPCWrN52z_TDzCX93N1nSYjKDjkBin4DZT1j2p2jxM_Rep_J51qdOfojWAn3sR1YHgQnhiC8vURP0BWx8aa21RbGW09aztlXyj9Prj1wtRHTxwxlukqSn91gXnolMa5iKLoRv4zYWAS6AN_a2cky43Q2Q",
-      "domain": ".chatgpt.com",
+      "name": "hydra_redirect",
+      "value": "eyJvYWktbG9naW4tY3NyZl9kZXZfMzc3MjI5MTQ0NSI6Ik1UYzRNalUxTXpJNU1IeENjVTgwTlRaeFRrdDZVVmt4TXpoMU1sQllMWEpzTUdaTU1XUnhlRmRVTmtaVFUzUmphSFEzUmpoNFJFRnhVVGxhVWtwSVJIQk1ZUzEyZGs1aFFrMVJWM05QZGxsUlQyTkdhSE41WVZVMGFHTnBUbVpMU0dWaFJURmpVVWhhYUVwT1J6bHdhRk5aUTJ4blJFY3pRMWx5WW5kdWVsRlZhRlp0VFhkeGZPYi1jUVk2UXZLS2FST0JSOUt2ekI4bENldnlLVjdIS0hrTHlZMVl1QW1NIiwib2FpLXNlc3Npb25fZGV2IjoiTVRjNE1qVTFNek0wTkh4S2MyWnZaRU5PV25CdE5IcHFVMDB3VHpST2J5MVVlR2M1TUd4bVlsRXhRakZCYXpKc1YwZEhNMHgxVDJZd00yZzJXR2Q2TjIwM1J5MTVZVVZ0V2tkaU1uQnJNV2xhVm1weFFrWlViMU5XYlh3X0RBN1AzbV9DSmFCTHZGajZuOUEzSFpxZEplNTFWMEVGdjRXUnpEVDZfdz09Iiwib2FpLWNvbnNlbnQtY3NyZl9kZXZfMzc3MjI5MTQ0NSI6Ik1UYzRNalUxTXpNME5IeDJia1pMV2t4aE1GZEZZekU1UXpOdk9HdDBSVGhSVVZoUVRWOVRhMUJFV2xKMldFZHVNVzVHVXpsWllsYzNTVXhYV0dOS1NraFBaR1JPY0RaTUxYUTBSVk5tWTNFd1duVkVURzE2TlVaMlZraDNVVzFWWTJ4VmVtUlphVmhCZFhkdldFRnliREpxYTJRNE5GbHJWMjUyYmxsM1VHTXdhbnBRZWtOamZDMGJycWpvVkRRNVdIU1lqWXBsQmZiWkVybENwMFNrb0JaZ1lqUTZ4UFc1In0=.aj-bAA.HQm9kfQyAJXw4_V38qKsxPA4y2Xeb4-kACkhOSp0ibI",
+      "domain": ".auth.openai.com",
       "path": "/",
-      "expires": 1814086885.427379,
+      "expires": 1782556044.96166,
       "httpOnly": true,
       "secure": true,
-      "sameSite": "None",
-      "partitionKey": "https://chatgpt.com",
-      "_crHasCrossSiteAncestor": false
+      "sameSite": "Lax"
     },
     {
-      "name": "__cf_bm",
-      "value": "xyFrf2FUH4vqzTXQKzFwJxHlKBpFmVpIW2euNphfMmg-1782550885.4272842-1.0.1.1-7xdIVIrRiQjjZ4M_XADOyn7sDlomVJyB4Lf.u20cnp2EVIu9Y_QF8w3Jd0cv3hQ2LZP2V.LbzoHoYWSMxGSQvXWWi9c18ZTRH0zqMqLNo9qA71wDJ_U59DH8v8hfoegb",
-      "domain": ".chatgpt.com",
+      "name": "oai-client-auth-session",
+      "value": "eyJhcHBfbmFtZV9lbnVtIjoiY2hhdCIsImF1dGhfc2Vzc2lvbl9sb2dnaW5nX2lkIjoiZWY2ODc4N2ItOTk0ZC00YWI1LWI2YjAtMzdjMjk5NzY3MDRiIiwiY291bnRyeV9jb2RlX2hpbnQiOiJJTiIsImRlc3RpbmF0aW9uX2FwcF9uYW1lIjoiQ2hhdEdQVCBXZWIiLCJvcGVuYWlfY2xpZW50X2lkIjoiYXBwX1g4elk2dlcycFE5dFIzZEU3bksxakw1Z0giLCJwcm9tbyI6IiIsInJlcXVlc3RlZF9vYXV0aF9zY29wZXMiOlsiZW1haWwiLCJtb2RlbC5yZWFkIiwibW9kZWwucmVxdWVzdCIsIm9mZmxpbmVfYWNjZXNzIiwib3BlbmlkIiwib3JnYW5pemF0aW9uLnJlYWQiLCJvcmdhbml6YXRpb24ud3JpdGUiLCJwcm9maWxlIl0sInNlc3Npb25faWQiOiJhdXRoc2Vzc192bTQ5UVNrb0tHcjlRQzJLSnNvUk9MdGIiLCJzaWdudXBfc291cmNlIjoiIiwiZW1haWwiOiJ2aXNoZXNoMzk2NS5iZWFpMjNAY2hpdGthcmEuZWR1LmluIiwibmFtZSI6IlZJU0hFU0ggLSJ9.aj-bAA.tdNrVpnJOmy4z7mqnnDNsESURATJeidZc_LT5EkE0Mc",
+      "domain": ".auth.openai.com",
       "path": "/",
-      "expires": 1782552685.42754,
+      "expires": 1782556044.961853,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oai-client-auth-info",
+      "value": "eyJsYXN0X2xvZ2luX2lkZW50aWZpZXIiOnsidHlwZSI6ImVtYWlsIiwidmFsdWUiOiJ2aXNoZXNoMzk2NS5iZWFpMjNAY2hpdGthcmEuZWR1LmluIn0sImxhc3RfbG9naW5fc3RyYXRlZ3kiOiJnb29nbGUtb2F1dGgyIn0=.aj-bAA.UOsPs3olzbjJB0_DEqwJ7Ug71a1hSzdCFONHAWLWnrY",
+      "domain": ".auth.openai.com",
+      "path": "/",
+      "expires": 1785145344.962013,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "usc_Vk77porZB6yeLbETPzcFJRO4",
+      "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoidXMiLCJwcm90b2NvbF92ZXJzaW9uIjoiMSIsImNvb2tpZV9pZCI6IlZrNzdwb3JaQjZ5ZUxiRVRQemNGSlJPNCIsImVuY3J5cHRlZF9hdXRoZW50aWNhdGVkX2RhdGEiOiJ1c19kQ2Z4T0czbTh2RVoxMGNNUk1rb3JpSHgiLCJjbGllbnRfc2VjcmV0IjoiNGZOU1BDRDBGcmJ4VzJJaGI3YXZpRzZ6In0.XEiN-qEZplVln9o03PwYh8df_Ol3pI_NqaT32vypVKlRiLNcn5DzEj0EhbS2s9TcPC4gbAWf7qGFjeFpAxOYkg",
+      "domain": ".auth.openai.com",
+      "path": "/",
+      "expires": 1817113344.962089,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "unified_session_manifest",
+      "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lcyI6WyJ1c2NfVms3N3BvclpCNnllTGJFVFB6Y0ZKUk80Il19.OBPfooo-764Gf5BGaAPmWlYwkHf_AP2HLESX9HfkxVrIyZZjsQL3XQKklk4Uh-GDoTVfDa5Lb8G9PxUkyVULWA",
+      "domain": ".auth.openai.com",
+      "path": "/",
+      "expires": 1817113344.962167,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cflb",
+      "value": "0H28w2ZepuU3KZxNdePqvVnB6Qyo4bMeVLqPcv3C5bK",
+      "domain": "auth.openai.com",
+      "path": "/",
+      "expires": 1782555144.962437,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
+    },
+    {
+      "name": "oai-hlib",
+      "value": "true",
+      "domain": "chatgpt.com",
+      "path": "/",
+      "expires": 1813657348.126034,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-next-auth.session-token.0",
+      "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..zWxz615Typ_daV0K.sJ0T1H4Tyb85u3Yjd62GLp4dvs1JPAOAtUaKhJPca_66JT5kiD_TrsNcqv6tgD_tobraEHRDOrx83AdWvcJttSPVuzmFs6NK0PXu4vSla8ofXebVPguBZB-l0aPoPibv15VFW9miLg7qErC2o1T8kHL7cu-36nQj6cLCBWAI-7gmcn0tFkgi2YQU8X0A27W77VAswHcm8QHdxdk53YZkcdaptTVIi_j2d47E2rmrbDkWL-g10ABaTuz5bPdVmR_y_1u6l3AUIVshRIzmSml81LoUR-E-PP6Nr4XM2rp8VM78zOMxntOclD5Wx17Zu_PUhmzU8-o7FzYuxLE7pzT1NnebdDO6xeClVAF6Xx1978aIpb3RbJN9vbNeunxDK6auLCQZKfsqc3NwcZFymspXe4ndrHCAoXUqOwxzqumtxcPoHKWLvGV7oVv23RZJLcKJB_y0eG5fL4xox2z0vBn7SJIxo0olEE4jvJPOtkSazGpBGY_Sl0KsA7NWw6CBpfcxuv-vXf46JWnQXDfx-dn-cFLrC2jhdQB0lnrw54X2kHWP-2YRggleAY7hTNnuuKD5xjqwtArwZWhp3gAVEPO9R6bWLpxiKAIIYnp6res_SdHaVQUln5EiG4aT2w6beWWqPa5czSHOsYYLCbMHanSbgthEMRlkAA1h0x3-iS984YQoJJ51G7WrGOB6rqlJYP_o52OvMURpHKi2xlq6dSoRepRufPYNQAHcFkSVxBsRacCZTKcVB9zu_qU4lCGx9jtAELSflQkhtHI7UCQnXFXu9DEW9Z4HgyxiKvv6Q_zGpLQXWsu6rklrbL6Vi8HEb4DmmWVu_0bPe-IZ9o7nQaYW2Bt_8lFHPzj35surzPsOLfm7yLQp_RmZR6n5ZZR1ZW5h3yx8CBpyOCDxdPsIfmR4dmEwikSzJgr8q1W5u51_lpPhyIM-8NYPU28Kd-j9Eokd495Mve5wO16hQ6QgAr8KaFNs5CCSUcKm_yWepNPOoV7qnhQR-ZwdamZsJagP5ZxvXr1TgsGQP_GkNObdfcfZkQXUZln9RdFutTcd6dg8sT_oDJT_UT6FbN3meHtpyVVi5w3P15YmUC8kM7mMaEpfaQ3Shcv_k6QAN8q8sZ9meI449mnp6QleS3QLZyGhbO_BDOoAUAjBEHpSgCgAWYQnRvU6ABlfo13iWUgVBMVL21aRU6fyqGrD7Drgq2cc3rxErJUpCJjRz4s3lV9Fwe_MKoIp4uMar6vbcAul8T7cU7qSJeL4ROvjCGMIUHlqCvFDzp9v1kWeTAkOSTy-d8X1GKatVvJyDTN5v7HjuU8geN7TxTsKlJbAYaGE4afauSKwmvAMJFBIzRLErmR039ZxAfFX7pPpIuoTK2ZFkEFx0XDkK8R57VCVmxdmnkvjflfoBYHztZCZDfRzbnHgV3qnQmH6QiOytvrYslATWL0muuqZUvvr81AY09jHzF6D7atTJPvHIgTyqho6glgoic88J63Z_qXEqh8VUWOkhtlX7d1qiwL8hLTuE1UTLdNME0BRUfSDPW2WQyIj6ZYCALTvD9cJL6xPeJ7KuyVwSIMKrIQYKJ_IiJUzIy49IfWUW4vAbAYklqaTlJcs0ywAXGNjJ4xocOCfLCpZlaEgElT5obozS_nxWs1wAHNkMriZtZ3uwecmzr4I8ZecprT5dq5GUCmAyadgr_QC4hukVSdrxBrG-xJowiw_aQgeG0p6oEZsyHkKMx4-EMCVJunEkCNiCeHQf8Aykau7iN5hbxcnF4pPPqC76y_Ea8a9V9yA8iRjwxYlv8j5KfmIelFSjOQb93joMc2b_-4rRxXfYcX79--0Rmo0KFu_hmKe3zgunp5PKlFyYcTkfNTdjf0ReHlA4Jz5dfIEG2ype77wCiH86dNjSJol6WdafHc8Fzswyi-FkRGaGmNo3GFtNVhEppey3IgSnkApw1msbIp7eO2nUKqiuIoD3jzUR3lDfPaFKTkVliSUQZgKzVcTsMDihjo0HXDxE-VNL3bVxZb9ENC5pBSUdQmMzRmJQNQW6ltnhkXXPTaQHg5X3npQXgkbSA0oHPigocbPNoNn93JtDlTY8cw74KG6QHcct2RdjkSdSJaS_0HSROBLij-pwijZCKrnwkEtPA-R7T37BRnrYqrdElaVSaWoYTvelAR_MeHbo7ElTcjPAo4HiIwo3CJRVPY5q3S7_M2rrH_cXgUaS_7qqJJ_W6wIuvy68K-NN464yDEv7z_S9D9y_bBvpm6MmhVYAb8prEUczcPT870k_Pp43M4YTDi5LFjg31lWzmZhktqbQs2Ve2eeg-a2ETalwgd-GhQDASL69JhQLGETy9OFR_39FvbapCMovETEp5s5heAsR3gOef0kZ5IHPBvlQywOaRG5uwJUIEvxTVldUTu0E8YMo9sSxiro5sR-Dz8jalxXJ3UgOR4Fs61SFJBx2mUkClCaq3YnpOWTX2qPYDv0_pGezbfYvxIQdZj8VrW2OaM5DPw7c4P_s9rrp43BnF_qwv70E2hDvuIHUYbrpadY2-qrBitbC_czVsy6mY64aoZXODl9niU7T0FD6CiEIvPRxO0YXl6uvl1ZYJMvgtgdPWUc0DWcFXVeiY4eM-py7EoZnrfo7failsKKCu8vFape_FLCinBOOAfMGEC8nAYW_wkuGcKJAM-Hxw37V4gRV8OQgpKf06o2AP_zJgaZ7JyzExgScrlstXVDR-A0y-LtCicz6VFcFxD2QTdnSF3Aw5vw2cUnNPDqjxEMQl9bl4urt2rae68KkMoM4BzwtFU_0XZZ0Nu7BXwwmqIXNwvKkmnRr1m9PBAmVK_IiaAtmIz8eWyRSS7zxrzCognxKJ6ZAX-jdIF44M3f2NKiaezalCnpHC2pEvvEcJCkMoEGptFlqLu3uRCRU2UwkjsOsSCs2tLH4OgjvpRbG6rOz_yGBKhccvaPDURW4hHU3rRz1Ui2E_0V5qP_Sjw1jIFQx7E6Y2YCF1CM2Qq5pddQZ-QrafuWVjQ6qxCbVUVs8ubz0Ve6mJ3Ls0a5QvNOmR_4d8G9L1dv8wE-I8Bjv0RuuwplVFFC87kC_AqNztFRpS0IgvpY2oApJN7LGNs4wzg-fm6INKQ97QoMq_AjU84EdPtGIGIpFqrpw_1J7XFoShF6pR-AfeMLeYviHL2kVlU6Xycjf_n1ss3AfZG62gwGRKSL_Zq7EIYi24xPIu_TWqg4cb1tEBc0mjhf2J6OWwNXhRK3MFmlnuFTL5UMYh7oEQc3z-6KbIfGMVaHdWvQlQQFcN4IVxc5KSyOAVWMQUoMKnHYoFenCNHBc1BrkJLfwlRRJJhTOKPJb1W70tOSHfWc3tDf8e4TC88twifG1R2LoH3VQ6ZObkMZyp98564Yfy7TcJx0678O-UltiL9XNfpvCg67EYy8nBRbj9w4eUQHEmg5KICBfIGqyCAM0JojBH2aejG0GeNb_U3rJpfAkNFf0cA4W522rO8aAnBYH4lgw5vC9ioGEGNRNChd-V-h6ZXskxJk6kCrx_PPGfc4szRbrFUA70Znpfk3as6ngzFwI23tnpPMgT2RtWHN7sHHpuahbEjcNiDz_LYNIunCQmSfNDVRmJYdjXVU213A2wA10eVddtbkFB62IT9bVNriNwFct5ho3eO7mFNVN70ZUZaxem6Y6unPgxX_r5Os8AuFp7FI6s5HGGEoojtnYsgtJFZ-HT6Oy4SgXYAsYQCLnd6QUmWzYAp96DnTb4vr0Bh-6JTJOAfVH4uVyr8UgkDsZPkSKtiKtIMaOfsHp2yPxBTq_9n16g4Lf_lB9ZOfOla_LFCwOnXLFZWoyY-CZOq6rQjBEyxOrXkyUPuXyYgb8beooK4pD4xeOVODpoeebQ8",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1790329348.374284,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-next-auth.session-token.1",
+      "value": "cu09Smap4OahAZijIyRtMFJSGGi2QvN7nqMmZvmgBqE6nHRyIwpauZSZ7I2YDZyoKB80NqFYXUb3xt7T1oIsOmsvKKtY4QkmRKET5Ypfv2Ok4BVwiJz_zRIqdd70qY-gvfq1MsiTSlfZ0Qc5W5ZNqv0wuzcdzqSnnwsaYQ_-zN5029yeuBpBpXYh6_BfaxzXwaAXlCSQd4ZdDb56HzcjDLtkKEqKKZhN_d3om37GyITqZmGnTo281CJaragD47o6e3mwDiE5-SJO-Ujlcfj0_FXx0v45omb4VIwt0v_N5UMiW4tUY0qtTYGnxwzIUpZnr-9GvV0dGa6y-bpi7z75U1y3WPVgAEVZ2NsIEaj2MLwVgBkDc0B_9-I-Pg6Fqn2US7cy20AGNeu96eU1s_6K9umxCKwz6335NPsSoxSXat--4otuGj6FfFgCmGSTasiaodub5YZ3PupOgQl9xyySj.zjPVO_PL2WShK0ZN00wouA",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1790329348.374795,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
     },
     {
       "name": "_dd_s",
-      "value": "aid=70f61039-bedf-47d8-8169-50696bb9dc4c&rum=0&expire=1782551785736&logs=1&id=32eb7da0-f465-4659-8d18-fc727a259a58&created=1782550885736",
+      "value": "aid=c074a9d3-855c-4237-9f90-a7db8e310bbe&rum=0&expire=1782554249085&logs=1&id=48f0a71b-8964-4763-96cc-8fa1c5e670c1&created=1782553277348",
       "domain": "chatgpt.com",
       "path": "/",
-      "expires": 1814086885,
+      "expires": 1814089349,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Strict"
     },
     {
       "name": "_puid",
-      "value": "user-HnoRthSzJ7qkP5pFsSKYNxkh:1782550887-cDDwhsEHvwuxHRrJWg4JnzvdNmJCTeXMkYlikT3mkL4%3D",
+      "value": "user-7jMleyDaR9whxPJezXbB02L8:1782553350-xicaI8wvoBq6vGwet%2FUwE1qn6xjvoDluNtjNnzp3VuA%3D",
       "domain": ".chatgpt.com",
       "path": "/",
-      "expires": 1783155687.084368,
+      "expires": 1783158150.147073,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
-    },
-    {
-      "name": "oai-sc",
-      "value": "0gAAAAABqP5FonSD-g1OyrcR404yrllJn6FJccyu9zEmwBW7LzmI_5Xf_BOm05MfIdjNqfWbMgvCLPG2up0sWu2JVeZBP5C984_re-D3Uy1oHM9VgA8-qxsdta0fzH-lgv8YhLHvu3-q-2jNUFecZDxqqZ2Nm9Nsn7QLhzw_IPeSmHUq59JhDnVAgWZcFZTUXCX_aQ2inTdh329D-r8OcjN7pEuuLRBxKa2SDMZhgf8PpCaih1wXdWvY",
-      "domain": ".chatgpt.com",
-      "path": "/",
-      "expires": 1814086888.802785,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "__cf_bm",
-      "value": "mPtRCOktoI.eIMEN_V3fYjLwaRDd1px70vj4EhC8JOE-1782550889-1.0.1.1-iZL6hKDuXHl0HhwDdDoeaX14NUU8iw0s_Mk3ZJbE98APq7VoAzuR0iGv6v216liCeM4vmfyg5VRQiu6VviLfl2hdgh0pM2cBzBoP_fRQC5I",
-      "domain": ".ws.chatgpt.com",
-      "path": "/",
-      "expires": 1782552689.260546,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "__cflb",
-      "value": "04dToNkefVNzY95YiG5KCtdrEUDTepW2rDVGhDAv45",
-      "domain": "ws.chatgpt.com",
-      "path": "/",
-      "expires": 1782552689.260676,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "_cfuvid",
-      "value": "HOzKQ9aJt.xHcxWeIuE8Ka8SATvpoaP0Ytjmuu5bgJw-1782550889262-0.0.1.1-604800000",
-      "domain": ".ws.chatgpt.com",
-      "path": "/",
-      "expires": -1,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
     },
     {
       "name": "oai-gn",
@@ -684,23 +674,63 @@
     },
     {
       "name": "oai-client-auth-info",
-      "value": "%7B%22user%22%3A%7B%22name%22%3A%22Vishesh%20Arora%22%2C%22email%22%3A%22avishesh2208%40gmail.com%22%2C%22picture%22%3A%22https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fva.png%22%2C%22connectionType%22%3A2%2C%22timestamp%22%3A1782550889710%7D%2C%22loggedInWithGoogleOneTap%22%3Afalse%2C%22isOptedOut%22%3Afalse%7D",
+      "value": "%7B%22user%22%3A%7B%22name%22%3A%22VISHESH%20-%22%2C%22email%22%3A%22vishesh3965.beai23%40chitkara.edu.in%22%2C%22picture%22%3A%22https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fv.png%22%2C%22connectionType%22%3A2%2C%22timestamp%22%3A1782553350987%7D%2C%22loggedInWithGoogleOneTap%22%3Afalse%2C%22isOptedOut%22%3Afalse%7D",
       "domain": "chatgpt.com",
       "path": "/",
-      "expires": 1785142889.710864,
+      "expires": 1785145350.987399,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "__Secure-oai-is",
-      "value": "ois1.eyJ2IjoxLCJhbGciOiJBMjU2R0NNIiwia2lkIjoiY2hhdGdwdC13ZWItdjEifQ.t_rapzFLfxVebRjl.vAnkWPO6yryoSb4xStyFzBRLhRSKrTxttrjjkSrADpwove6F6tBu517oRbHd_0qjPn2mwSpHXYBTDQ94Mag5pHBMAN8b7D099uJovKl-19XRJNU7hqzgrotV5hi6Low6eSq36794CKiWpcDgmoyzKUW0mQpjHC35CR3R2tv2oU-45Yz3Go2NlWTs7BsOngEnsckH9JISRH_55Yyu0O-dYl3M0sETbRXyU1Tlk9a0Jt92U-t4ifs4V9ukKMvtxP9js6Ly5Q1YLvN5uV_2MOuN_4Ed2d8dkcAxSVpHU-bw1E5y46N7X9JgNTbNDQJIjHXMtj6SQY3EfjxZ6_xteQVvKg9B7Ro7xZ2Pi02gZ6BQE_JNax3NY_KE7zno7i8om2P46veyKyGuYm1M6kRCC843rImqFXqxhG5gse9aCNEx4Pu3xaP49LNLqDM6Ibm2aBplAu5JcHyedeOKBai32BCxOz31zx4dtvv9nXltEGaLyCdXX1FjGzCvB6XUtChv3H8MgD7PJ7oyXGYTnOgnR4opBt10rRzhlXcIrPsa7J5nJy5zmZrPjx_4LO3zj9IkH_ISm_DFUWev3Zu5g45Xc90-fRaa-qkFXPMJtnpXy0R2agJYHhYg32uBt2frkqlskUBCaqKPCETb7CU28H7XAA2hpwjJXtBZMdi-R0-YA7SwfCy64pM_w6cr7TSy2wvyG7hIuGJf6WlQ4Dh9FMlunrZzIGqBMloDZmQvDML1B4-7td7Do1UW5raI5CYFHLnizrQbjOpzAGVxQpoy__XkF-NI0xkw_apcXm5wLx-Iy0G1JT3J-esAAT4tY_WY2mebdf7tWrV8Y0lMQv_vGPGpqCTtuE3crYERkIqDLg00T39SlDF99HL3NRAxJQc87f6PwTFz3hg3Axt6MWIZiGDQg7VRYyx4PmWyh5vgFlnSlQ3EYWhHddFt2UjfgGRbk0eEoszQC-qixv_maSzDixewuSWoIBdNPm_V6lB57qywdtQlrRPYGS571GucMK6FekzEKlwWV-FejcvtfL2OgV7PToDU6H-kQeRkpPL8yyCTtdAMtwTREyee6G9hTHQDDB028Y9m6wj3hapRC-Wn5Pb3vW6QAIQdB7ifd-1MI0MZqw1zkhdG30bmBei6xyk48Yrox23M6MArSLX_gcxJPjxO8ZT2Z5jI1W8-YZK8-dUdR9lDm_pM3ehjZj-a-gDInlfnQXXDSMzeKZ_Qcrygb-Aqgdq30Q6Yd8uVyG_Yh0PuwgGbpPt1oCd3oBX9r933pHtfZmPY3thxeY89ecWdppgyK4E_hq9xH-XVBDRcKiCeA2f-nVTN2IKgf2r0rFEMQoHZEOwYkB_j9V-0U6Nn4FLOPQYIwjebJt-v1s6H55Pgxpd6JKJkpsU-Gy0iuBn9pPd_i85gdFYNCn-Ujmjn1807ltvrhoIF3V4zd7Qs9lXM6WdS4hUOCqNiSobiZvxRupCLJww8uTXcnDbhswuYVT215G_GX_RBxeaIQEpgBxoaUHjERwwE",
+      "value": "ois1.eyJ2IjoxLCJhbGciOiJBMjU2R0NNIiwia2lkIjoiY2hhdGdwdC13ZWItdjEifQ.x4PB7J8ksgtptyoP.WF5NjxbwCSVjS5dsk6r36gBQCbsYiILHBbMk7kq2Pri7QXClKPGdNJ1HiKUYIx12XYZgo8SnkuHj_KIWbtjXfrHeguf4XY1wbFLW-DVOIQiukYxckYH93dfmqwX2kLmdTNb7fsjN_wU_xrGWlW87btczRBmsAvaG0u3KP9A1GBKhYYIah4JDOBTk2VobqAufqXsVzjsTETqZgNsV_E6bUO1bHYot1_dF_7piJ7kc9lNRL0G0PKEgn6bdZr51wWHROiq9wEAzip7aSboz2aqaYTarm9rxhhf3lSftixLhU8nzUeefUg1hosX0VnIHTYoYPsjtFhTCp9_zS3iVInigWyb18_MWnbNjD89Ncz22HkCO0UPzWHD6wU4mhOQ3eVzdHoteFa4RMES-ECxvisp2HmgUVBDacM9Q2lJqxItDTSgn2jy0X4ijr4b3R1Q5N39_CYQJkqK1yxSijaO8WkRp06WAEptOO8SxzTTT-Hh5jDjVXK5gRE5TW6XM-rfo7teiTXCXNwOyyV7vphb6OIQ6IbNt6lp7u1iX0apvMPipG29NkGVNNSna55zqwMTq8mwynDL-w1OcW-CT1H2qJTowyCP9HM-IWmt_BLgFmwqRYbk_r439bsJcID3uvfmbqKQSlT253Gy81bdS9JcEHiYa719lXJgJ5ZIvZWDUfTfgG7dKLQxkpnFb8OcMr946Lg-H_O2jfWQ3YYih2NK7BsQWInCh5bCZ230M71XTvo23RSf1hCQ2OT27g8HmzL2IWFl4iw4BkNKKnxbtEvKawcdwhsQEhgs2_vhp9IJaeA9w3X-f1z7pkhpKo5fFc8vm3EqPEd7GUWCXLnmC8T4kfsCfUIKLsaPguIxzNsIpyGoCwQNyADpheAmYh7ZfN2t8-1yiaTK5qUJJ4hlUCe0HBSz27xlwMV5-Io6PxnQE4t9YSeJkDdEUSxvSO3dMC9dO9iLQEcD2Z22i0a9sXTQWFZTOuzwvdY10yHjYy1pvnSiczoDB3z2K7qlH-u7GObDjB1c6N1aEP46SHkc5Z2H1BNyqvskl4OY1oRwE9EenXuRiOh2FUsb5WOmXgMXcZjKudznZrlXdjmlHfj2MbfPNiGAfRyxrid-r5wlwKAf9OYNaPmAbqiMPM3NW_xEGje3AaVtRyQTiKS4EB3W_7SbJ-NA26hcYZP_6QfH2Ihgr7DBWI56UQHflmMYOe0_fV2Hyf3EbS-RW6lONKrHEKKRFWzIkvtY91SijzexU7zigPChpGlZ8lAcyjuWfHPXh_7EeMmlPvOb903nUCAtIp6BTiIjLxjGsRyOvYH-OD6mr1BBtDL2D4tHEusZ0HIdRYvB_cfJcLYA1BGs29h3D396b9N2hcWOqLzQbLU_jiRoAAO9Eaxsr6GvrmHwFd0zq71qVkVodMvOyLLn__olW6iEhbmIbmsjz8U_8",
       "domain": ".chatgpt.com",
       "path": "/",
-      "expires": 1785142889.92454,
+      "expires": 1785145351.087006,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "BkI2j648TT0t8EhxwRZo3X3thoAtcA4f8jcEVDZP8zo-1782553351-1.0.1.1-foGsqB_iMMCcYLfkFG1XJjoc7PQTmfr3mNPkkq_fb4JZsM4g.m0AImtLDq5ux9bJPIsJal7K5fvpOSDdZ_pFVJkf1ccvxhSBrGakC52OjRM",
+      "domain": ".ws.chatgpt.com",
+      "path": "/",
+      "expires": 1782555151.442309,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cflb",
+      "value": "04dToNkefVNzY95YiGNDAy8qB1Nudrup4bswU73oVo",
+      "domain": "ws.chatgpt.com",
+      "path": "/",
+      "expires": 1782555151.442484,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "ZX2QO7o7rgNPk3PJmQuppU6bkabDMm3_CwSGBm5nba0-1782553351456-0.0.1.1-604800000",
+      "domain": ".ws.chatgpt.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "oai-sc",
+      "value": "0gAAAAABqP5sHtwY234MSvPYD6edLZAg5EC8AY353yibooxkLHYNKTu76vU5FRlXaRKoly6REphkuB-264YPVqihl5vYK6aAdNfRv6ArKcIIsJrWh_bpL3kqre6QDj-oK-llpMKmXv04NZ_krab6wdFUj7JnHJcM1ycB2hzukJR2Tmq3wlW-uGm5XpSbYne8qRXUfp7ZNqWHf7Us6O3VmcFVGh3M8p6FvocmREUtgY71UQWsioi-FqOk",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1814089351.862211,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
     }
   ],
   "origins": [
@@ -708,24 +738,20 @@
       "origin": "https://chatgpt.com",
       "localStorage": [
         {
-          "name": "cache/user-HnoRthSzJ7qkP5pFsSKYNxkh/2d46a094-7429-457e-af42-0bb8086c07d9/conversation-history",
-          "value": "{\"timestamp\":1782550886183,\"value\":{\"pages\":[{\"items\":[{\"id\":\"6a133b5b-c18c-8322-81af-e8dd2f00fed8\",\"title\":\"Gold Coin Price Comparison\",\"create_time\":\"2026-05-24T17:55:06.833342Z\",\"update_time\":\"2026-05-24T17:56:55.399807Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a076a5e-4634-83e9-a744-662e04904db6\",\"title\":\"Soap Fragrance Comparison\",\"create_time\":\"2026-05-15T18:48:12.203551Z\",\"update_time\":\"2026-05-15T18:49:06.251386Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a02c36b-82a4-8322-ad02-edc735f78bff\",\"title\":\"AWS Security Service\",\"create_time\":\"2026-05-12T06:06:47.259467Z\",\"update_time\":\"2026-05-12T06:11:00.012450Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"69f1c939-a220-83ea-9eb2-921c9760380e\",\"title\":\"Men's Skincare Product Guide\",\"create_time\":\"2026-04-29T09:03:05.049652Z\",\"update_time\":\"2026-04-29T09:05:46.374018Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"690b0c0c-2f58-8327-b3ef-2f546044b21a\",\"title\":\"Youtube short creation\",\"create_time\":\"2025-11-05T08:34:21.621014Z\",\"update_time\":\"2025-11-05T08:36:00.387118Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":\"g-h8l4uLHFQ\",\"gizmo_id\":\"g-h8l4uLHFQ\",\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":null,\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"68f10edf-e174-8321-b95f-c205ccdcd551\",\"title\":\"Neural network backpropagation\",\"create_time\":\"2025-10-16T15:27:35.737385Z\",\"update_time\":\"2025-10-16T15:31:02.493811Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":null,\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"68efbd71-39b4-8320-9525-8e3f3cc55dbe\",\"title\":\"MCQs for exam practice\",\"create_time\":\"2025-10-15T15:29:04.195242Z\",\"update_time\":\"2025-10-15T15:53:32.924335Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":null,\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"68ece9ad-5948-8323-aab3-3baa0c9d2aca\",\"title\":\"Split circular linked list\",\"create_time\":\"2025-10-13T11:59:52.610044Z\",\"update_time\":\"2025-10-13T12:00:18.989467Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":null,\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"68ec982a-d2f8-8320-9f17-73dd581d7df4\",\"title\":\"Improve accounting system\",\"create_time\":\"2025-10-13T06:12:19.535989Z\",\"update_time\":\"2025-10-13T06:14:50.822626Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":null,\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"68e9ec75-1ea0-8322-9fd1-bcf47fb2ae46\",\"title\":\"Coin estimation puzzle\",\"create_time\":\"2025-10-11T05:35:07.904821Z\",\"update_time\":\"2025-10-11T05:53:23.382404Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":null,\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"68e73c5e-f714-8320-98fc-446a46295168\",\"title\":\"Knapsack problem solution\",\"create_time\":\"2025-10-09T04:39:02.404139Z\",\"update_time\":\"2025-10-09T04:39:19.820246Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":null,\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6899bb81-dc08-8323-bce5-efee295b645d\",\"title\":\"Loop detection in Linked list\",\"create_time\":\"2025-08-11T09:44:45.197192Z\",\"update_time\":\"2025-08-12T04:54:25.649300Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":null,\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"68999664-ff9c-8320-a7dc-8553ecf2de17\",\"title\":\"Add two numbers\",\"create_time\":\"2025-08-11T07:06:21.623359Z\",\"update_time\":\"2025-08-11T07:14:14.034655Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":null,\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"68998f8c-a71c-8329-ac91-b471cad94ba6\",\"title\":\"Rat in a Maze\",\"create_time\":\"2025-08-11T06:37:12.730553Z\",\"update_time\":\"2025-08-11T07:02:46.576679Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":null,\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"68998e5a-dd0c-8325-9acf-d88ca8cde659\",\"title\":\"Sudoku solver Java code\",\"create_time\":\"2025-08-11T06:32:13.264359Z\",\"update_time\":\"2025-08-11T06:33:19.955708Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":null,\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"68997d9b-4b20-832f-93f3-fa6cb9eed75f\",\"title\":\"Binary search steps\",\"create_time\":\"2025-08-11T05:20:28.906899Z\",\"update_time\":\"2025-08-11T06:22:18.821747Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":null,\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6842a831-c338-800b-9069-61e3e8d725d0\",\"title\":\"Shortest Java Code\",\"create_time\":\"2025-06-06T08:34:58.092805Z\",\"update_time\":\"2025-06-06T08:39:13.278968Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":null,\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"68429e3c-ae6c-800b-b633-c572c4c90848\",\"title\":\"Delete greater nodes fix\",\"create_time\":\"2025-06-06T07:52:28.856870Z\",\"update_time\":\"2025-06-06T08:33:53.184864Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":null,\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"68429a1b-41b0-800b-930b-4714a552c754\",\"title\":\"Circular Linked List Pointers\",\"create_time\":\"2025-06-06T07:34:51.429985Z\",\"update_time\":\"2025-06-06T07:34:58.386393Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":null,\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"684080cf-5d6c-800b-ba1e-ae4836df537e\",\"title\":\"Edit XP Display\",\"create_time\":\"2025-06-04T17:22:23.751555Z\",\"update_time\":\"2025-06-04T17:22:37.988885Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":null,\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"683ff741-1a38-800b-9b0f-08e9bfe29abc\",\"title\":\"Min Heap Concept Summary\",\"create_time\":\"2025-06-04T07:35:29.438081Z\",\"update_time\":\"2025-06-04T07:36:07.128403Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":null,\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"683ff730-5abc-800b-bb13-ff89d5f47083\",\"title\":\"Innovation Powerhouse Profile\",\"create_time\":\"2025-06-04T07:35:12.800019Z\",\"update_time\":\"2025-06-04T07:35:20.242287Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":null,\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6836cfda-07c0-800b-bc92-233dbd050de3\",\"title\":\"Java String Merge\",\"create_time\":\"2025-05-28T08:56:58.431592Z\",\"update_time\":\"2025-05-28T09:25:19.073921Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":null,\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6836cb05-1860-800b-b9f5-af848b2e3154\",\"title\":\"Java exception handling code\",\"create_time\":\"2025-05-28T08:36:21.260155Z\",\"update_time\":\"2025-05-28T08:36:34.801143Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":null,\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6836c50a-91e4-800b-8cc1-e0693607fc3b\",\"title\":\"Array Sum Divisibility Check\",\"create_time\":\"2025-05-28T08:10:50.864295Z\",\"update_time\":\"2025-05-28T08:11:03.803238Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":null,\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6836be43-13fc-800b-a4cc-71b4e4a60890\",\"title\":\"Arithmetic divisor sum fix\",\"create_time\":\"2025-05-28T07:41:55.457536Z\",\"update_time\":\"2025-05-28T07:43:14.297612Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":null,\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6836b8b0-981c-800b-b16d-333ddc427cde\",\"title\":\"Modify Java Program\",\"create_time\":\"2025-05-28T07:18:08.806897Z\",\"update_time\":\"2025-05-28T07:18:18.295346Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":null,\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"683552f9-27d0-800b-be72-0d2e5ca5e5c6\",\"title\":\"Java Code Legality\",\"create_time\":\"2025-05-27T05:51:53.308258Z\",\"update_time\":\"2025-05-27T09:34:44.732115Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":null,\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false}],\"total\":29,\"limit\":28,\"offset\":0}],\"pageParams\":[0]},\"version\":1,\"used\":1}"
+          "name": "oai/apps/chatTheme/user-7jMleyDaR9whxPJezXbB02L8",
+          "value": "\"default\""
         },
         {
-          "name": "cache/user-HnoRthSzJ7qkP5pFsSKYNxkh/2d46a094-7429-457e-af42-0bb8086c07d9/snorlax-history",
-          "value": "{\"timestamp\":1782550886198,\"value\":{\"pages\":[{\"cursor\":null,\"items\":[]}],\"pageParams\":[null]},\"version\":1,\"used\":1}"
+          "name": "oai/apps/ownerDomainBackfillLastRunAt/user-7jMleyDaR9whxPJezXbB02L8",
+          "value": "1782553349551"
         },
         {
           "name": "oai/apps/hasSeenNoAuthImagegenNux",
           "value": "false"
         },
         {
-          "name": "oai/apps/chatTheme/user-HnoRthSzJ7qkP5pFsSKYNxkh",
-          "value": "\"default\""
-        },
-        {
-          "name": "cache/user-HnoRthSzJ7qkP5pFsSKYNxkh/2d46a094-7429-457e-af42-0bb8086c07d9/pinned-items",
-          "value": "{\"timestamp\":1782550886090,\"value\":[],\"version\":2,\"used\":1}"
+          "name": "cache/user-7jMleyDaR9whxPJezXbB02L8/bdd6e4fb-333b-4a16-8b4d-19ba6244a39f/pinned-items",
+          "value": "{\"value\":[],\"timestamp\":1782553351875,\"version\":2}"
         },
         {
           "name": "oai/apps/lastUtmCampaign",
@@ -736,28 +762,24 @@
           "value": "null"
         },
         {
-          "name": "oai/apps/ownerDomainBackfillLastRunAt/user-HnoRthSzJ7qkP5pFsSKYNxkh",
-          "value": "1782477750513"
-        },
-        {
-          "name": "oai/apps/recentsOrganization/user-HnoRthSzJ7qkP5pFsSKYNxkh",
-          "value": "\"chronological\""
-        },
-        {
           "name": "search.attributions-settings",
           "value": "{\"state\":{\"debugMode\":false,\"viewModelPredictedFallback\":false,\"disableSegmentReplacement\":false,\"useSigmoid\":true,\"influenceTemperature\":0.2,\"probThreshold\":0.45,\"probBaseline\":0.02},\"version\":8}"
         },
         {
           "name": "_account",
-          "value": "\"2d46a094-7429-457e-af42-0bb8086c07d9\""
+          "value": "\"bdd6e4fb-333b-4a16-8b4d-19ba6244a39f\""
+        },
+        {
+          "name": "oai/apps/recentsOrganization/user-7jMleyDaR9whxPJezXbB02L8",
+          "value": "\"chronological\""
         },
         {
           "name": "oai-did",
-          "value": "\"bd4b3836-3e7a-45b1-8962-5b68c7cda30c\""
+          "value": "\"8983a14c-0756-43c8-89ea-27daf68d4cee\""
         },
         {
-          "name": "caac6dc916ad823b",
-          "value": "3"
+          "name": "5fe74073565dcaed",
+          "value": "2"
         },
         {
           "name": "oai/apps/capExpiresAt",
@@ -765,23 +787,27 @@
         },
         {
           "name": "statsig.session_id.1792610830",
-          "value": "{\"sessionID\":\"d611e12f-c417-451b-aa23-f857e73803ca\",\"startTime\":1782550885693,\"lastUpdate\":1782550885693}"
+          "value": "{\"sessionID\":\"6685eff0-2ca3-404b-9027-6e8f84a745cd\",\"startTime\":1782553349044,\"lastUpdate\":1782553349044}"
         },
         {
           "name": "oai/apps/lastPageLoadDate",
-          "value": "\"2026-06-27T09:01:26.170Z\""
+          "value": "\"2026-06-27T09:42:29.553Z\""
+        },
+        {
+          "name": "cache/user-7jMleyDaR9whxPJezXbB02L8/bdd6e4fb-333b-4a16-8b4d-19ba6244a39f/conversation-history",
+          "value": "{\"value\":{\"pages\":[{\"items\":[{\"id\":\"6a3e71dd-65d0-83ee-b706-46f2b69af762\",\"title\":\"Stock Market Update 26 June\",\"create_time\":\"2026-06-26T12:34:38.713543Z\",\"update_time\":\"2026-06-26T12:34:48.047505Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1e35-fb18-83e8-bd1c-f3bad9e14261\",\"title\":\"Fall of Roman Empire\",\"create_time\":\"2026-06-26T06:37:43.575933Z\",\"update_time\":\"2026-06-26T06:37:51.721607Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1e35-f8c0-83e8-9171-c13ad9b7f8e8\",\"title\":\"Virus vs Bacterium\",\"create_time\":\"2026-06-26T06:37:43.722817Z\",\"update_time\":\"2026-06-26T06:37:48.609870Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1e34-97d0-83e9-8a85-0f94e850fa6e\",\"title\":\"Photosynthesis Process Explained\",\"create_time\":\"2026-06-26T06:37:41.638723Z\",\"update_time\":\"2026-06-26T06:37:47.593154Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1e34-9c88-83e8-a291-dbce234dc0b9\",\"title\":\"One Hundred Years of Solitude Author\",\"create_time\":\"2026-06-26T06:37:41.690483Z\",\"update_time\":\"2026-06-26T06:37:46.090234Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1e34-8944-83ee-bd9d-92cba8cf138a\",\"title\":\"Capital of Kazakhstan\",\"create_time\":\"2026-06-26T06:37:41.606958Z\",\"update_time\":\"2026-06-26T06:37:45.173275Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1d8a-6e14-83e9-b9e2-a06d3f735393\",\"title\":\"Lower Back Pain Exercises\",\"create_time\":\"2026-06-26T06:34:51.631167Z\",\"update_time\":\"2026-06-26T06:34:57.925362Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1d38-3d18-83ee-ad6a-078e88fcd585\",\"title\":\"Alzheimer's Treatment Advances\",\"create_time\":\"2026-06-26T06:33:30.443698Z\",\"update_time\":\"2026-06-26T06:33:41.306376Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1d18-428c-83ee-9b9d-13e160bb3be2\",\"title\":\"Vitamin D Deficiency Symptoms\",\"create_time\":\"2026-06-26T06:32:57.354926Z\",\"update_time\":\"2026-06-26T06:32:58.724209Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1ccc-688c-83ee-a160-82a309657a0a\",\"title\":\"Northern Lights Explained\",\"create_time\":\"2026-06-26T06:31:43.982330Z\",\"update_time\":\"2026-06-26T06:31:45.711564Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1c83-f7d4-83ee-9a1e-04a809141772\",\"title\":\"Fall of Roman Empire\",\"create_time\":\"2026-06-26T06:30:29.639310Z\",\"update_time\":\"2026-06-26T06:30:37.057195Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1c84-0e28-83ee-8de2-26984e543003\",\"title\":\"Photosynthesis Process Explained\",\"create_time\":\"2026-06-26T06:30:29.753686Z\",\"update_time\":\"2026-06-26T06:30:34.144958Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1c83-f80c-83ee-a17e-9e13d2635d90\",\"title\":\"One Hundred Years of Solitude Author\",\"create_time\":\"2026-06-26T06:30:29.424275Z\",\"update_time\":\"2026-06-26T06:30:34.119957Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1c83-fd24-83ee-bfce-1fb35d9431ce\",\"title\":\"Capital of Kazakhstan\",\"create_time\":\"2026-06-26T06:30:29.675141Z\",\"update_time\":\"2026-06-26T06:30:31.998268Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1c83-9e14-83ee-a3e7-9d0cfadb3dde\",\"title\":\"Virus vs Bacterium Differences\",\"create_time\":\"2026-06-26T06:30:28.582531Z\",\"update_time\":\"2026-06-26T06:30:30.230056Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1af3-a390-83e8-8ac5-8cec2b79e8b4\",\"title\":\"High-Yield Savings Accounts 2026\",\"create_time\":\"2026-06-26T06:23:51.409074Z\",\"update_time\":\"2026-06-26T06:24:04.405089Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1aa4-3b8c-83e8-887e-9106f117f119\",\"title\":\"Lower Back Pain Exercises\",\"create_time\":\"2026-06-26T06:22:30.320793Z\",\"update_time\":\"2026-06-26T06:22:37.638997Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1a87-0a14-83ee-80e7-403cbff4b923\",\"title\":\"Causes of Chronic Migraines\",\"create_time\":\"2026-06-26T06:22:00.165444Z\",\"update_time\":\"2026-06-26T06:22:01.447541Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1a3e-c0c4-83ee-8da7-aff3fa3128fd\",\"title\":\"Vitamin D Deficiency Symptoms\",\"create_time\":\"2026-06-26T06:20:48.444263Z\",\"update_time\":\"2026-06-26T06:20:49.656150Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1a11-a1c0-83ee-b546-0994918b2439\",\"title\":\"Best Electric Toothbrushes for Sensitivity\",\"create_time\":\"2026-06-26T06:20:03.785206Z\",\"update_time\":\"2026-06-26T06:20:15.234536Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1a04-76f8-83ee-814d-5fe197169c55\",\"title\":\"Best Hiking Backpacks\",\"create_time\":\"2026-06-26T06:19:50.516210Z\",\"update_time\":\"2026-06-26T06:20:00.780065Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1a07-3598-83ee-893e-f2361ce46227\",\"title\":\"Dyson vs Shark Vacuums\",\"create_time\":\"2026-06-26T06:19:54.939829Z\",\"update_time\":\"2026-06-26T06:19:56.589009Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e19ed-4488-83ee-a277-36bfe1498de5\",\"title\":\"Top Robot Vacuums 2026\",\"create_time\":\"2026-06-26T06:19:27.095244Z\",\"update_time\":\"2026-06-26T06:19:38.091504Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e19e9-9140-83ee-a818-41f94365d329\",\"title\":\"Best Budget Air Fryers\",\"create_time\":\"2026-06-26T06:19:23.144241Z\",\"update_time\":\"2026-06-26T06:19:34.917829Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e19b6-3b10-83e8-b57b-d19c07187a53\",\"title\":\"iPhone 16 vs Galaxy S25\",\"create_time\":\"2026-06-26T06:18:32.791567Z\",\"update_time\":\"2026-06-26T06:18:44.064651Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e199f-22f0-83ee-9bae-549de453c145\",\"title\":\"Best Laptops for Video Editing\",\"create_time\":\"2026-06-26T06:18:09.785885Z\",\"update_time\":\"2026-06-26T06:18:30.032701Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e19a7-3f24-83ee-8cd1-29d178d2f354\",\"title\":\"Best Mattress for Back Pain\",\"create_time\":\"2026-06-26T06:18:17.308086Z\",\"update_time\":\"2026-06-26T06:18:27.241581Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false},{\"id\":\"6a3e1998-876c-83ee-ad7e-f58e1e284a16\",\"title\":\"Best Wireless Earbuds Under $100\",\"create_time\":\"2026-06-26T06:18:04.336922Z\",\"update_time\":\"2026-06-26T06:18:15.199513Z\",\"pinned_time\":null,\"mapping\":null,\"current_node\":null,\"conversation_template_id\":null,\"gizmo_id\":null,\"is_archived\":false,\"is_starred\":null,\"is_temporary_chat\":false,\"is_do_not_remember\":false,\"memory_scope\":\"global_enabled\",\"context_scopes\":[],\"context_scopes_v2\":{\"context_scopes\":[{\"is_siloed\":false,\"scope_namespace\":\"global\",\"sub_scope\":null,\"key\":null,\"key_timestamp\":null,\"key_scoped_access_claim\":null}]},\"workspace_id\":null,\"async_status\":null,\"safe_urls\":[],\"blocked_urls\":[],\"conversation_origin\":null,\"is_automation_conversation\":false,\"snippet\":null,\"sugar_item_id\":null,\"sugar_item_visible\":false}],\"total\":29,\"limit\":28,\"offset\":0}],\"pageParams\":[0]},\"timestamp\":1782553351556,\"version\":1}"
         },
         {
           "name": "client-correlated-secret",
-          "value": "{\"alg\":\"HS512\",\"ext\":true,\"k\":\"9DXICndr8DITNL8-2SiYzTViC7Cvr1rdsqiP_DIjerKWKqoSpos8yBvJPgcSiCO3SPzUVZg2dgAl6Fuem0f47vVYFOHcMpyipKKgTt_7lqnrVeSv4Mx1Kvl1O59yJDKb8c0478CiXDRugJnNJELekPFWZvh2754mYpIBhai1Cms\",\"key_ops\":[\"sign\",\"verify\"],\"kty\":\"oct\"}"
+          "value": "{\"alg\":\"HS512\",\"ext\":true,\"k\":\"9yE9lg2y-MecEmYeA3hjempnIyvOwaoJRt4EvLRmG8tre5EsTOezTVKoESZmHw_gJeHfr3VOtNTEXIddVgsQPksUcDlrtnmtIRhJDRe3lZnyXYgb0Y4FQTkdSY6ZRFzcalPEwiNFE9d4jtyM8tMEcElgkPfqcuP4VGVW_Hy34RM\",\"key_ops\":[\"sign\",\"verify\"],\"kty\":\"oct\"}"
+        },
+        {
+          "name": "statsig.stable_id.1792610830",
+          "value": "\"8983a14c-0756-43c8-89ea-27daf68d4cee\""
         },
         {
           "name": "oai/apps/connectorInContextUpsellBannerV1",
           "value": "null"
-        },
-        {
-          "name": "statsig.stable_id.1792610830",
-          "value": "\"bd4b3836-3e7a-45b1-8962-5b68c7cda30c\""
         },
         {
           "name": "oai/apps/debugSettings",
